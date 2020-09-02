@@ -1,0 +1,144 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background-color: blueviolet;
+}
+
+.laugh {
+  top: -90px;
+  left: 0;
+  width: 100%;
+  height: calc(100% + 90px);
+  overflow: hidden;
+  position: absolute;
+  background-color: blueviolet;
+}
+
+.laugh .row {
+  color: rgba(255, 255, 255, 0.1);
+  white-space: nowrap;
+  letter-spacing: 16px;
+  line-height: 0.9;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.gengar {
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.gengar::before {
+  content: '';
+  top: 50%;
+  left: 50%;
+  width: 110%;
+  height: 110%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background-image: radial-gradient(
+    circle at center,
+    blueviolet 50%,
+    transparent 70%
+  );
+}
+
+.gengar .mouth {
+  top: 45%;
+  left: 50%;
+  width: 90%;
+  height: 40%;
+  transform: translate(-50%, 0%);
+  position: absolute;
+  overflow: hidden;
+}
+
+.gengar .mouth .upper {
+  top: -42%;
+  left: 50%;
+  width: 120%;
+  height: 151%;
+  border-radius: 50%;
+  background-color: blueviolet;
+  border-bottom: 8px solid black;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.gengar .mouth .lower {
+  top: 0%;
+  left: 50%;
+  width: 90%;
+  height: 190%;
+  position: absolute;
+  border-radius: 50%;
+  border: 6px solid black;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  background-image: repeating-linear-gradient(
+    to left,
+    transparent -0.4%,
+    transparent 15%,
+    black 15%,
+    black calc(15% + 6px)
+  );
+}
+
+.gengar .eye {
+  top: 29%;
+  left: 4%;
+  width: 50%;
+  height: 20%;
+  position: absolute;
+  overflow: hidden;
+  transform-origin: top center;
+  transform: rotateZ(44deg);
+}
+
+.gengar .eye .upper {
+  top: -10%;
+  left: 50%;
+  width: 120%;
+  height: 50%;
+  border-radius: 50%;
+  background-color: blueviolet;
+  border-bottom: 6px solid black;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.gengar .eye .lower {
+  top: -12%;
+  left: 50%;
+  width: 75%;
+  height: 200%;
+  border-radius: 50%;
+  background-color: red;
+  border: 5px solid black;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.gengar .eye .lower::before {
+  content: '';
+  top: -16%;
+  left: 24%;
+  width: 10%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: white;
+  border: 6px solid black;
+  transform: rotateZ(-45deg);
+  position: absolute;
+}
+
+.gengar .eye.right {
+  left: 46%;
+  transform: scaleX(-1) rotateZ(44deg);
+}
