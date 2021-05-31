@@ -43,7 +43,7 @@
             "purpose": "any maskable "
         }
     ],
-    "start_url": "/?homescreen=1 ",
+    "start_url": "/?source=pwa",
     "scope": "/",
     "display": "standalone",
     "background_color": "#990099",
