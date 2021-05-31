@@ -27,12 +27,22 @@
             "type": "image/png"
         },
         {
-            "src": "img/icons/icon-512x512.png",
-            "sizes": "512x512",
+            "src": "img/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "maskable_icon.png",
+            "sizes": "114x114",
             "type": "image/png"
         }
     ],
-    "start_url": "/hihellomonster/",
+    "start_url": "/portaf/",
     "display": "standalone",
     "background_color": "#990099",
     "theme_color": "#990099"
