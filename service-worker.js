@@ -58,7 +58,7 @@ self.addEventListener('fetch', (e) => {
                 })
             })
         );
-    } else if (request.url.indexOf('https://hihello.monster') !== -1 && (request.url.indexOf('.js') !== -1 || request.url.indexOf('.css') !== -1)) {
+    } else if (request.url.indexOf('hihellomonster.github.io') !== -1 && (request.url.indexOf('.js') !== -1 || request.url.indexOf('.css') !== -1)) {
         e.respondWith(
             caches.match(request)
             .then(response => {
