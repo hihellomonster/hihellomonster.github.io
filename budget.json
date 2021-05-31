@@ -15,7 +15,7 @@
         },
         {
             "resourceType": "script",
-            "budget": 2
+            "budget": 6
         },
         {
             "resourceType": "image",
@@ -28,11 +28,11 @@
         },
         {
             "resourceType": "total",
-            "budget": 6
+            "budget": 10
         }
     ],
     "resourceCounts": [{
         "resourceType": "third-party",
-        "budget": 0
+        "budget": 2
     }]
 }]
