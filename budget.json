@@ -11,24 +11,27 @@
     ],
     "resourceSizes": [{
             "resourceType": "Stylesheet",
-            "budget": 1
+            "budget": 3
         },
         {
             "resourceType": "script",
-            "budget": 6
+            "budget": 5
         },
         {
             "resourceType": "image",
-            "budget": 2
+            "budget": 14
         },
-
+        {
+            "resourceType": "other",
+            "budget": 0
+        },
         {
             "resourceType": "document",
             "budget": 1
         },
         {
             "resourceType": "total",
-            "budget": 10
+            "budget": 9
         }
     ],
     "resourceCounts": [{

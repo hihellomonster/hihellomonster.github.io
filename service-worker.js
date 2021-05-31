@@ -9,9 +9,6 @@ function preCache() {
     return caches.open(cacheName).then(cache => {
         return cache.addAll([
             '/',
-            'modal_files/jquery-1.11.0.js',
-            'modal_files/style.css',
-            'modal_files/bootstrap.min.js',
             'js/scripts.js',
             'css/style.css',
             'css/colors.css',

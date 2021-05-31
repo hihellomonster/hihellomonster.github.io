@@ -43,7 +43,7 @@
             "purpose": "any maskable "
         }
     ],
-    "start_url": "/hihello/",
+    "start_url": "/inestable/",
     "display": "standalone",
     "background_color": "#990099",
     "theme_color": "#990099"
