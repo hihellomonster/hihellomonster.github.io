@@ -1,6 +1,6 @@
 {
-    "name": "hiHello.monster",
-    "short_name": "hiHello",
+    "name": "MyNotes",
+    "short_name": "Notes",
     "icons": [{
             "src": "img/icons/icon-128x128.png",
             "sizes": "128x128",
@@ -27,23 +27,19 @@
             "type": "image/png"
         },
         {
-            "src": "img/icons/icon-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        },
-        {
-            "src": "img/icons/touch-icon-ipad-retina.png",
+            "src": "img/icons/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
             "src": "maskable_icon.png",
             "sizes": "114x114",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
-    "start_url": "index.html?launcher=homescreen",
+    "start_url": "/pwa-start-example/",
     "display": "standalone",
-    "background_color": "#990099",
-    "theme_color": "#990099"
+    "background_color": "#607d8b",
+    "theme_color": "#607d8b"
 }

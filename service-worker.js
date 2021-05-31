@@ -9,9 +9,10 @@ function preCache() {
     return caches.open(cacheName).then(cache => {
         return cache.addAll([
             '/',
-            'modal_files/jquery-1.11.0.js',
-            'modal_files/style.css',
-            'modal_files/bootstrap.min.js',
+            'css/style.css',
+            'css/colors.css',
+            'js/array.observe.polyfill.js',
+            'js/object.observe.polyfill.js',
             'js/scripts.js'
         ]);
     });
@@ -54,7 +55,7 @@ self.addEventListener('fetch', (e) => {
                 })
             })
         );
-    } else if (request.url.indexOf('hihello.monster') !== -1 && (request.url.indexOf('.js') !== -1 || request.url.indexOf('.css') !== -1)) {
+    } else if (request.url.indexOf('hihellomonster.github.io') !== -1 && (request.url.indexOf('.js') !== -1 || request.url.indexOf('.css') !== -1)) {
         e.respondWith(
             caches.match(request)
             .then(response => {
