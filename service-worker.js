@@ -12,7 +12,11 @@ function preCache() {
             'modal_files/jquery-1.11.0.js',
             'modal_files/style.css',
             'modal_files/bootstrap.min.js',
-            'js/scripts.js'
+            'js/scripts.js',
+            'css/style.css',
+            'css/colors.css',
+            'js/object.observe.polyfill.js',
+            'js/array.observe.polyfill.js'
         ]);
     });
 }
@@ -54,7 +58,7 @@ self.addEventListener('fetch', (e) => {
                 })
             })
         );
-    } else if (request.url.indexOf('hihello.monster') !== -1 && (request.url.indexOf('.js') !== -1 || request.url.indexOf('.css') !== -1)) {
+    } else if (request.url.indexOf('https://hihello.monster/') !== -1 && (request.url.indexOf('.js') !== -1 || request.url.indexOf('.css') !== -1)) {
         e.respondWith(
             caches.match(request)
             .then(response => {
