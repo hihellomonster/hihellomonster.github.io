@@ -38,11 +38,11 @@
         },
         {
             "src": "maskable_icon.png",
-            "sizes": "114x114",
+            "sizes": "144x144",
             "type": "image/png"
         }
     ],
-    "start_url": "/portaf/",
+    "start_url": "/portaf.html/",
     "display": "standalone",
     "background_color": "#990099",
     "theme_color": "#990099"
