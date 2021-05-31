@@ -32,17 +32,17 @@
             "type": "image/png"
         },
         {
-            "src": "img/icons/icon-256x256.png",
-            "sizes": "256x256",
+            "src": "img/icons/touch-icon-ipad-retina.png",
+            "sizes": "512x512",
             "type": "image/png"
         },
         {
             "src": "maskable_icon.png",
-            "sizes": "144x144",
+            "sizes": "114x114",
             "type": "image/png"
         }
     ],
-    "start_url": "/portaf.html/",
+    "start_url": "index.html?launcher=homescreen",
     "display": "standalone",
     "background_color": "#990099",
     "theme_color": "#990099"
