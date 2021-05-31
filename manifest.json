@@ -43,7 +43,7 @@
             "purpose": "any maskable "
         }
     ],
-    "start_url": "/hihello/",
+    "start_url": "https://hihello.monster",
     "display": "standalone",
     "background_color": "#990099",
     "theme_color": "#990099"
