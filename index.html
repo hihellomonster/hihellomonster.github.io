@@ -37,8 +37,10 @@
     <meta name="theme-color" content="#990099">
     <meta name="referrer" content="always" />
     <meta name="robots" content="index, follow" />
-    <link rel="stylesheet" href="https://hihello.monster/css/colors.css">
-    <link rel="stylesheet" href="https://hihello.monster/css/style.css">
+   <!--  <link rel="stylesheet" href="https://hihello.monster/css/colors.css">
+    <link rel="stylesheet" href="https://hihello.monster/css/style.css"> --> 
+	<link rel="preload" href="css/colors.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.2/dist/lazyload.min.js" async></script>
 
     <style>
@@ -888,10 +890,14 @@
     <script>
         console.log('This is index!'.toUpperCase());
     </script>
-
+<!-- 
     <script src="js/object.observe.polyfill.js"></script>
     <script src="js/array.observe.polyfill.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="js/scripts.js"></script> --> 
+ 
+ <link rel="preload" as="script" href="js/scripts.js">
+	<link rel="preload" as="script" href="js/array.observe.polyfill.js">
+	<link rel="preload" as="script" href="js/object.observe.polyfill.js"> 
 
 </body>
 
