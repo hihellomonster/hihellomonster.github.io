@@ -8,12 +8,17 @@
     <meta name="description" content="Ejemplo y paso a paso cómo hacer una Responsive Image Gallery con jQuery Lightbox plus esta en 100% Score en lighthouse">
     <link rel="canonical" href="https://hihello.monster/templetes/responsive-gallery.html">
 
+    <link rel="preload" href="bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0&display=swap" as="font" type="font/woff2" crossorigin>   
 
-    <link rel='stylesheet' href='bootstrap.min.css'>
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' crossorigin="anonymous">
+    <!-- o así <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' crossorigin="anonymous"> -->
 
 
-    <style>
+ 
+
+
+   <style type="text/css">
         #gallery {
             padding-top: 40px;
         }
@@ -183,7 +188,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 image">
                         <div class="img-wrapper">
-                            <a href="https://hihello.monster/templetes/responsive-gallery.html"><img src="img/500.jpg class="img-responsive" width="500px" height="500px" alt="Responsive Gallery" title="Responsive Gallery 4 "></a>
+                            <a href="https://hihello.monster/templetes/responsive-gallery.html"><img src="img/500.jpg" class="img-responsive" width="500px" height="500px" alt="Responsive Gallery" title="Responsive Gallery 4 "></a>
                             <div class="img-overlay">
                                 <i class="fa fa-plus-circle" aria-hidden="true"></i>
                             </div>
@@ -221,8 +226,8 @@
         <!-- End container -->
     </section>
     <!-- partial -->
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js' async>></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js' async>></script>
 
     <script>
         // Gallery image hover
