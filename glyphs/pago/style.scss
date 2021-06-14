@@ -1,0 +1,956 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?86ba3w');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?86ba3w#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?86ba3w') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?86ba3w') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?86ba3w##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pago-carnet {
+  &:before {
+    content: $pago-carnet;     
+    color: #d81406;
+  }
+}
+.pago-sodexo .path1 {
+  &:before {
+    content: $pago-sodexo-path1;  
+    color: rgb(42, 54, 149);
+  }
+}
+.pago-sodexo .path2 {
+  &:before {
+    content: $pago-sodexo-path2;  
+    margin-left: -1em;  
+    color: rgb(236, 28, 36);
+  }
+}
+.pago-opcion-2 .path1 {
+  &:before {
+    content: $pago-opcion-2-path1;  
+    color: rgb(42, 54, 149);
+  }
+}
+.pago-opcion-2 .path2 {
+  &:before {
+    content: $pago-opcion-2-path2;  
+    margin-left: -9.4091796875em;  
+    color: rgb(236, 28, 36);
+  }
+}
+.pago-opcion-2 .path3 {
+  &:before {
+    content: $pago-opcion-2-path3;  
+    margin-left: -9.4091796875em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.pago-opcion-2 .path4 {
+  &:before {
+    content: $pago-opcion-2-path4;  
+    margin-left: -9.4091796875em;  
+    color: rgb(216, 20, 6);
+  }
+}
+.pago-opcion-2 .path5 {
+  &:before {
+    content: $pago-opcion-2-path5;  
+    margin-left: -9.4091796875em;  
+    color: rgb(2, 76, 161);
+  }
+}
+.pago-opcion-2 .path6 {
+  &:before {
+    content: $pago-opcion-2-path6;  
+    margin-left: -9.4091796875em;  
+    color: rgb(34, 41, 126);
+  }
+}
+.pago-opcion-2 .path7 {
+  &:before {
+    content: $pago-opcion-2-path7;  
+    margin-left: -9.4091796875em;  
+    color: rgb(244, 143, 0);
+  }
+}
+.pago-opcion-2 .path8 {
+  &:before {
+    content: $pago-opcion-2-path8;  
+    margin-left: -9.4091796875em;  
+    color: rgb(77, 92, 89);
+  }
+}
+.pago-opcion-2 .path9 {
+  &:before {
+    content: $pago-opcion-2-path9;  
+    margin-left: -9.4091796875em;  
+    color: rgb(244, 143, 0);
+  }
+}
+.pago-opcion-2 .path10 {
+  &:before {
+    content: $pago-opcion-2-path10;  
+    margin-left: -9.4091796875em;  
+    color: rgb(235, 0, 27);
+  }
+}
+.pago-apple-pay {
+  &:before {
+    content: $pago-apple-pay; 
+  }
+}
+.pago-si-vale .path1 {
+  &:before {
+    content: $pago-si-vale-path1;  
+    color: rgb(244, 143, 0);
+  }
+}
+.pago-si-vale .path2 {
+  &:before {
+    content: $pago-si-vale-path2;  
+    margin-left: -1em;  
+    color: rgb(77, 92, 89);
+  }
+}
+.pago-si-vale .path3 {
+  &:before {
+    content: $pago-si-vale-path3;  
+    margin-left: -1em;  
+    color: rgb(244, 143, 0);
+  }
+}
+.pago-edenred {
+  &:before {
+    content: $pago-edenred;     
+    color: #eb001b;
+  }
+}
+.pago-toka {
+  &:before {
+    content: $pago-toka;     
+    color: #22297e;
+  }
+}
+.pago-samsung-pay {
+  &:before {
+    content: $pago-samsung-pay;     
+    color: #024ca1;
+  }
+}
+.pago-opcion-1 .path1 {
+  &:before {
+    content: $pago-opcion-1-path1;  
+    color: rgb(35, 31, 32);
+  }
+}
+.pago-opcion-1 .path2 {
+  &:before {
+    content: $pago-opcion-1-path2;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 95, 0);
+  }
+}
+.pago-opcion-1 .path3 {
+  &:before {
+    content: $pago-opcion-1-path3;  
+    margin-left: -11.6806640625em;  
+    color: rgb(235, 0, 27);
+  }
+}
+.pago-opcion-1 .path4 {
+  &:before {
+    content: $pago-opcion-1-path4;  
+    margin-left: -11.6806640625em;  
+    color: rgb(247, 158, 27);
+  }
+}
+.pago-opcion-1 .path5 {
+  &:before {
+    content: $pago-opcion-1-path5;  
+    margin-left: -11.6806640625em;  
+    color: rgb(247, 158, 27);
+  }
+}
+.pago-opcion-1 .path6 {
+  &:before {
+    content: $pago-opcion-1-path6;  
+    margin-left: -11.6806640625em;  
+    color: rgb(240, 169, 41);
+  }
+}
+.pago-opcion-1 .path7 {
+  &:before {
+    content: $pago-opcion-1-path7;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path8 {
+  &:before {
+    content: $pago-opcion-1-path8;  
+    margin-left: -11.6806640625em;  
+    color: rgb(226, 28, 42);
+  }
+}
+.pago-opcion-1 .path9 {
+  &:before {
+    content: $pago-opcion-1-path9;  
+    margin-left: -11.6806640625em;  
+    color: rgb(226, 28, 42);
+  }
+}
+.pago-opcion-1 .path10 {
+  &:before {
+    content: $pago-opcion-1-path10;  
+    margin-left: -11.6806640625em;  
+    color: rgb(226, 28, 42);
+  }
+}
+.pago-opcion-1 .path11 {
+  &:before {
+    content: $pago-opcion-1-path11;  
+    margin-left: -11.6806640625em;  
+    color: rgb(252, 76, 2);
+  }
+}
+.pago-opcion-1 .path12 {
+  &:before {
+    content: $pago-opcion-1-path12;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path13 {
+  &:before {
+    content: $pago-opcion-1-path13;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path14 {
+  &:before {
+    content: $pago-opcion-1-path14;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path15 {
+  &:before {
+    content: $pago-opcion-1-path15;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path16 {
+  &:before {
+    content: $pago-opcion-1-path16;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path17 {
+  &:before {
+    content: $pago-opcion-1-path17;  
+    margin-left: -11.6806640625em;  
+    color: rgb(252, 76, 2);
+  }
+}
+.pago-opcion-1 .path18 {
+  &:before {
+    content: $pago-opcion-1-path18;  
+    margin-left: -11.6806640625em;  
+    color: rgb(185, 60, 62);
+  }
+}
+.pago-opcion-1 .path19 {
+  &:before {
+    content: $pago-opcion-1-path19;  
+    margin-left: -11.6806640625em;  
+    color: rgb(47, 108, 75);
+  }
+}
+.pago-opcion-1 .path20 {
+  &:before {
+    content: $pago-opcion-1-path20;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path21 {
+  &:before {
+    content: $pago-opcion-1-path21;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path22 {
+  &:before {
+    content: $pago-opcion-1-path22;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path23 {
+  &:before {
+    content: $pago-opcion-1-path23;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path24 {
+  &:before {
+    content: $pago-opcion-1-path24;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path25 {
+  &:before {
+    content: $pago-opcion-1-path25;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path26 {
+  &:before {
+    content: $pago-opcion-1-path26;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path27 {
+  &:before {
+    content: $pago-opcion-1-path27;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path28 {
+  &:before {
+    content: $pago-opcion-1-path28;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path29 {
+  &:before {
+    content: $pago-opcion-1-path29;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path30 {
+  &:before {
+    content: $pago-opcion-1-path30;  
+    margin-left: -11.6806640625em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-opcion-1 .path31 {
+  &:before {
+    content: $pago-opcion-1-path31;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path32 {
+  &:before {
+    content: $pago-opcion-1-path32;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 119, 166);
+  }
+}
+.pago-opcion-1 .path33 {
+  &:before {
+    content: $pago-opcion-1-path33;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path34 {
+  &:before {
+    content: $pago-opcion-1-path34;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-opcion-1 .path35 {
+  &:before {
+    content: $pago-opcion-1-path35;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path36 {
+  &:before {
+    content: $pago-opcion-1-path36;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path37 {
+  &:before {
+    content: $pago-opcion-1-path37;  
+    margin-left: -11.6806640625em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-opcion-1 .path38 {
+  &:before {
+    content: $pago-opcion-1-path38;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path39 {
+  &:before {
+    content: $pago-opcion-1-path39;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path40 {
+  &:before {
+    content: $pago-opcion-1-path40;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path41 {
+  &:before {
+    content: $pago-opcion-1-path41;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path42 {
+  &:before {
+    content: $pago-opcion-1-path42;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path43 {
+  &:before {
+    content: $pago-opcion-1-path43;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path44 {
+  &:before {
+    content: $pago-opcion-1-path44;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path45 {
+  &:before {
+    content: $pago-opcion-1-path45;  
+    margin-left: -11.6806640625em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-opcion-1 .path46 {
+  &:before {
+    content: $pago-opcion-1-path46;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-opcion-1 .path47 {
+  &:before {
+    content: $pago-opcion-1-path47;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-opcion-1 .path48 {
+  &:before {
+    content: $pago-opcion-1-path48;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-opcion-1 .path49 {
+  &:before {
+    content: $pago-opcion-1-path49;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-opcion-1 .path50 {
+  &:before {
+    content: $pago-opcion-1-path50;  
+    margin-left: -11.6806640625em;  
+    color: rgb(0, 56, 113);
+  }
+}
+.pago-oxxo .path1 {
+  &:before {
+    content: $pago-oxxo-path1;  
+    color: rgb(240, 169, 41);
+  }
+}
+.pago-oxxo .path2 {
+  &:before {
+    content: $pago-oxxo-path2;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-oxxo .path3 {
+  &:before {
+    content: $pago-oxxo-path3;  
+    margin-left: -1em;  
+    color: rgb(226, 28, 42);
+  }
+}
+.pago-oxxo .path4 {
+  &:before {
+    content: $pago-oxxo-path4;  
+    margin-left: -1em;  
+    color: rgb(226, 28, 42);
+  }
+}
+.pago-oxxo .path5 {
+  &:before {
+    content: $pago-oxxo-path5;  
+    margin-left: -1em;  
+    color: rgb(226, 28, 42);
+  }
+}
+.pago-mercado-pago-letras .path1 {
+  &:before {
+    content: $pago-mercado-pago-letras-path1;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path2 {
+  &:before {
+    content: $pago-mercado-pago-letras-path2;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path3 {
+  &:before {
+    content: $pago-mercado-pago-letras-path3;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path4 {
+  &:before {
+    content: $pago-mercado-pago-letras-path4;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path5 {
+  &:before {
+    content: $pago-mercado-pago-letras-path5;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path6 {
+  &:before {
+    content: $pago-mercado-pago-letras-path6;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path7 {
+  &:before {
+    content: $pago-mercado-pago-letras-path7;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-letras .path8 {
+  &:before {
+    content: $pago-mercado-pago-letras-path8;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago-letras .path9 {
+  &:before {
+    content: $pago-mercado-pago-letras-path9;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago-letras .path10 {
+  &:before {
+    content: $pago-mercado-pago-letras-path10;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago-letras .path11 {
+  &:before {
+    content: $pago-mercado-pago-letras-path11;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago .path1 {
+  &:before {
+    content: $pago-mercado-pago-path1;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path2 {
+  &:before {
+    content: $pago-mercado-pago-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago .path3 {
+  &:before {
+    content: $pago-mercado-pago-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mercado-pago .path4 {
+  &:before {
+    content: $pago-mercado-pago-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mercado-pago .path5 {
+  &:before {
+    content: $pago-mercado-pago-path5;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mercado-pago .path6 {
+  &:before {
+    content: $pago-mercado-pago-path6;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path7 {
+  &:before {
+    content: $pago-mercado-pago-path7;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path8 {
+  &:before {
+    content: $pago-mercado-pago-path8;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path9 {
+  &:before {
+    content: $pago-mercado-pago-path9;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path10 {
+  &:before {
+    content: $pago-mercado-pago-path10;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path11 {
+  &:before {
+    content: $pago-mercado-pago-path11;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path12 {
+  &:before {
+    content: $pago-mercado-pago-path12;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path13 {
+  &:before {
+    content: $pago-mercado-pago-path13;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago .path14 {
+  &:before {
+    content: $pago-mercado-pago-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago .path15 {
+  &:before {
+    content: $pago-mercado-pago-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago .path16 {
+  &:before {
+    content: $pago-mercado-pago-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago .path17 {
+  &:before {
+    content: $pago-mercado-pago-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago-logo .path1 {
+  &:before {
+    content: $pago-mercado-pago-logo-path1;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-mercado-pago-logo .path2 {
+  &:before {
+    content: $pago-mercado-pago-logo-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.pago-mercado-pago-logo .path3 {
+  &:before {
+    content: $pago-mercado-pago-logo-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mercado-pago-logo .path4 {
+  &:before {
+    content: $pago-mercado-pago-logo-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mercado-pago-logo .path5 {
+  &:before {
+    content: $pago-mercado-pago-logo-path5;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mercado-pago-logo .path6 {
+  &:before {
+    content: $pago-mercado-pago-logo-path6;  
+    margin-left: -1em;  
+    color: rgb(37, 62, 139);
+  }
+}
+.pago-clip .path1 {
+  &:before {
+    content: $pago-clip-path1;  
+    color: rgb(252, 76, 2);
+  }
+}
+.pago-clip .path2 {
+  &:before {
+    content: $pago-clip-path2;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-clip .path3 {
+  &:before {
+    content: $pago-clip-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-clip .path4 {
+  &:before {
+    content: $pago-clip-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-clip .path5 {
+  &:before {
+    content: $pago-clip-path5;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-clip .path6 {
+  &:before {
+    content: $pago-clip-path6;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-mastercard .path1 {
+  &:before {
+    content: $pago-mastercard-path1;  
+    color: rgb(35, 31, 32);
+  }
+}
+.pago-mastercard .path2 {
+  &:before {
+    content: $pago-mastercard-path2;  
+    margin-left: -1em;  
+    color: rgb(255, 95, 0);
+  }
+}
+.pago-mastercard .path3 {
+  &:before {
+    content: $pago-mastercard-path3;  
+    margin-left: -1em;  
+    color: rgb(235, 0, 27);
+  }
+}
+.pago-mastercard .path4 {
+  &:before {
+    content: $pago-mastercard-path4;  
+    margin-left: -1em;  
+    color: rgb(247, 158, 27);
+  }
+}
+.pago-visa {
+  &:before {
+    content: $pago-visa;     
+    color: #003871;
+  }
+}
+.pago-american-express .path1 {
+  &:before {
+    content: $pago-american-express-path1;  
+    color: rgb(255, 255, 255);
+  }
+}
+.pago-american-express .path2 {
+  &:before {
+    content: $pago-american-express-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 119, 166);
+  }
+}
+.pago-banco-azteca .path1 {
+  &:before {
+    content: $pago-banco-azteca-path1;  
+    color: rgb(185, 60, 62);
+  }
+}
+.pago-banco-azteca .path2 {
+  &:before {
+    content: $pago-banco-azteca-path2;  
+    margin-left: -1em;  
+    color: rgb(47, 108, 75);
+  }
+}
+.pago-banco-azteca .path3 {
+  &:before {
+    content: $pago-banco-azteca-path3;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path4 {
+  &:before {
+    content: $pago-banco-azteca-path4;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path5 {
+  &:before {
+    content: $pago-banco-azteca-path5;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path6 {
+  &:before {
+    content: $pago-banco-azteca-path6;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path7 {
+  &:before {
+    content: $pago-banco-azteca-path7;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path8 {
+  &:before {
+    content: $pago-banco-azteca-path8;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path9 {
+  &:before {
+    content: $pago-banco-azteca-path9;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path10 {
+  &:before {
+    content: $pago-banco-azteca-path10;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path11 {
+  &:before {
+    content: $pago-banco-azteca-path11;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path12 {
+  &:before {
+    content: $pago-banco-azteca-path12;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+.pago-banco-azteca .path13 {
+  &:before {
+    content: $pago-banco-azteca-path13;  
+    margin-left: -1em;  
+    color: rgb(111, 114, 122);
+  }
+}
+

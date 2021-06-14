@@ -1,0 +1,55 @@
+.pago-carnet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
+}
+.pago-sodexo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
+}
+.pago-opcion-2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
+}
+.pago-apple-pay {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90d;');
+}
+.pago-si-vale {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;');
+}
+.pago-edenred {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;');
+}
+.pago-toka {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;');
+}
+.pago-samsung-pay {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;');
+}
+.pago-opcion-1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
+}
+.pago-oxxo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf407;');
+}
+.pago-mercado-pago-letras {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3be;');
+}
+.pago-mercado-pago {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3ad;');
+}
+.pago-mercado-pago-logo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3c9;');
+}
+.pago-clip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeffd;');
+}
+.pago-mastercard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3a7;');
+}
+.pago-visa {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96b;');
+}
+.pago-american-express {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe943;');
+}
+.pago-banco-azteca {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea36;');
+}
+
