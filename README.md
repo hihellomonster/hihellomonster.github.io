@@ -1,5 +1,17 @@
 # hihello
 Secciones
+# fonts
+ElegantIcons.eot<br>
+ElegantIcons.svg<br>
+ElegantIcons.ttf<br>
+ElegantIcons.woff<br><br>
+FontAwesome.otf<br>
+fontawesome-webfont.eot<br>
+fontawesome-webfont.svg<br>
+fontawesome-webfont.ttf<br>
+fontawesome-webfont.woff<br>
+fontawesome-webfont.woff2<br>
+
 # css
 | css    |
 | ------ |
