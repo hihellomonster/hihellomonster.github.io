@@ -11,6 +11,7 @@ fontawesome-webfont.svg<br>
 fontawesome-webfont.ttf<br>
 fontawesome-webfont.woff<br>
 fontawesome-webfont.woff2<br>
+DF66C___.TTF
 
 # css
 | css    |
