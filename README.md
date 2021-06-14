@@ -8,5 +8,6 @@ Secciones
 | <a href="https://hihello.monster/templetes/snackbar.html">snackbar</a> | Ejemplo y paso a paso cómo hacer en HTML y Javascript un snackbar  |
 | <a href="https://hihello.monster/templetes/tabs.html">tabs</a> | Ejemplo y paso a paso cómo hacer en HTML y Javascript unas Tabs |
 | <a href="https://hihello.monster/templetes/menuModal.html">menumodal</a> | Ejemplo y paso a paso cómo hacer en HTML y Javascript un menu modal |
-| <a href="https://hihello.monster/templetes/tooltip.html">tooltip</a> | 
+| <a href="https://hihello.monster/templetes/tooltip.html">tooltip</a> | :´( |
+| <a href="https://hihello.monster/templetes/cursor/index.html">cursor</a> |   Cursor | 
 
