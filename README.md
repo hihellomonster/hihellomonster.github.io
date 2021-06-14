@@ -28,6 +28,7 @@ DF66C___.TTF
 ## templetes
 | Templete| Title  |
 | ------------- | ------------- | 
+| <a href="https://hihello.monster/templetes/en/movimiento.html">cursor</a> | En movimiento | 
 | <a href="https://hihello.monster/templetes/alertas.html">alertas</a> | Ejemplo y paso a paso cómo hacer unas alertas en HTML - CSS |
 | <a href="https://hihello.monster/templetes/catalogo.html">catalogo</a> |  Chamarras de buena calidad y a excelente precio |
 | <a href="https://hihello.monster/templetes/snackbar.html">snackbar</a> | Ejemplo y paso a paso cómo hacer en HTML y Javascript un snackbar  |
