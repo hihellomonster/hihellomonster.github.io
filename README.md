@@ -1,5 +1,17 @@
 # hihello
 Secciones
+# css
+| css    |
+| ------ |
+| <span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/blog-style.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62;  </code></pre> </span> |
+| <span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/hi-style.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; </code></pre> </span> |
+| <span> <pre><code class="language-html"> &#60; link rel="preload" href="https://hihello.monster/css/one.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; |  </code></pre> </span> |
+| <span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/stylesbs.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; | 
+| <span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/stylesbsfull.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; |  </code></pre> </span> |
+| <span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/xiibicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; </code></pre> </span> |
+| <span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; </code></pre> </span> |
+
+
 ## templetes
 | Templete| Title  |
 | ------------- | ------------- | 
@@ -11,3 +23,6 @@ Secciones
 | <a href="https://hihello.monster/templetes/tooltip.html">tooltip</a> | :´( |
 | <a href="https://hihello.monster/templetes/cursor/index.html">cursor</a> |   Cursor | 
 
+<span> <pre><code class="language-html"> &#60;link rel="preload" href="https://hihello.monster/css/blog-style.css" as="style" onload="this.onload=null;this.rel='stylesheet'"&#62; </code></pre> </span> 
+
+<span> <pre><code class="language-html"> &#60;meta name="robots" content="noindex, nofollow"&#62; </code></pre> </span>
