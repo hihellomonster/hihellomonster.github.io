@@ -1,0 +1,165 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?t73s4r');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?t73s4r#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?t73s4r') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?t73s4r') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?t73s4r##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.siluetas-boss {
+  &:before {
+    content: $siluetas-boss; 
+  }
+}
+.siluetas-disaster .path1 {
+  &:before {
+    content: $siluetas-disaster-path1;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-disaster .path2 {
+  &:before {
+    content: $siluetas-disaster-path2;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-disaster .path3 {
+  &:before {
+    content: $siluetas-disaster-path3;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-disaster .path4 {
+  &:before {
+    content: $siluetas-disaster-path4;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-disaster .path5 {
+  &:before {
+    content: $siluetas-disaster-path5;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-disaster .path6 {
+  &:before {
+    content: $siluetas-disaster-path6;  
+    margin-left: -1em;  
+    color: rgb(116, 115, 118);
+  }
+}
+.siluetas-food {
+  &:before {
+    content: $siluetas-food; 
+  }
+}
+.siluetas-gay {
+  &:before {
+    content: $siluetas-gay; 
+  }
+}
+.siluetas-geek {
+  &:before {
+    content: $siluetas-geek; 
+  }
+}
+.siluetas-les {
+  &:before {
+    content: $siluetas-les; 
+  }
+}
+.siluetas-lover {
+  &:before {
+    content: $siluetas-lover; 
+  }
+}
+.siluetas-relaxing {
+  &:before {
+    content: $siluetas-relaxing; 
+  }
+}
+.siluetas-sad {
+  &:before {
+    content: $siluetas-sad; 
+  }
+}
+.siluetas-sex {
+  &:before {
+    content: $siluetas-sex; 
+  }
+}
+.siluetas-single {
+  &:before {
+    content: $siluetas-single; 
+  }
+}
+.siluetas-sleep {
+  &:before {
+    content: $siluetas-sleep; 
+  }
+}
+.siluetas-smoke .path1 {
+  &:before {
+    content: $siluetas-smoke-path1;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-smoke .path2 {
+  &:before {
+    content: $siluetas-smoke-path2;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-smoke .path3 {
+  &:before {
+    content: $siluetas-smoke-path3;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-smoke .path4 {
+  &:before {
+    content: $siluetas-smoke-path4;  
+    margin-left: -1em;  
+    color: rgb(41, 41, 41);
+  }
+}
+.siluetas-smoke .path5 {
+  &:before {
+    content: $siluetas-smoke-path5;  
+    margin-left: -1em;  
+    color: rgb(82, 82, 84);
+  }
+}
+.siluetas-social {
+  &:before {
+    content: $siluetas-social; 
+  }
+}
+
