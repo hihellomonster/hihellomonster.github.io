@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'how-to';
+  src:  url('fonts/how-to.eot?49uras');
+  src:  url('fonts/how-to.eot?49uras#iefix') format('embedded-opentype'),
+    url('fonts/how-to.ttf?49uras') format('truetype'),
+    url('fonts/how-to.woff?49uras') format('woff'),
+    url('fonts/how-to.svg?49uras#how-to') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'how-to' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.avatar-hihello:before {
+  content: "\ec41";
+}
+.pokebola:before {
+  content: "\f413";
+}
+.logo-hihello .path1:before {
+  content: "\ea51";
+  color: rgb(0, 0, 0);
+}
+.logo-hihello .path2:before {
+  content: "\ea52";
+  margin-left: -5.7314453125em;
+  color: rgb(105, 54, 152);
+}
+.logo-hihello .path3:before {
+  content: "\ea53";
+  margin-left: -5.7314453125em;
+  color: rgb(80, 201, 135);
+}
+.xiiber:before {
+  content: "\f0b5";
+}
+.mascota:before {
+  content: "\e900";
+  color: #ec268f;
+}
+.dragon-ball-burger .path1:before {
+  content: "\e901";
+  color: rgb(233, 54, 56);
+}
+.dragon-ball-burger .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(0, 90, 171);
+}
+.dragon-ball-burger .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(250, 177, 22);
+}
+.senzubucks-coffee .path1:before {
+  content: "\e904";
+  color: rgb(0, 88, 46);
+}
+.senzubucks-coffee .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(32, 30, 30);
+}
+.corazon-doble:before {
+  content: "\e906";
+}
+.netflix-sexflix:before {
+  content: "\e907";
+  color: #d9202b;
+}
+.masturbate .path1:before {
+  content: "\e908";
+  color: rgb(253, 152, 0);
+}
+.masturbate .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(204, 0, 1);
+}
+.gato:before {
+  content: "\ec5f";
+}
+.luna-pokemon:before {
+  content: "\ea48";
+}
+.sol-pokemon:before {
+  content: "\ea4b";
+}
+.yas-queen:before {
+  content: "\ea5f";
+}
+.flecha-atras:before {
+  content: "\f0a8";
+}
+.flecha-siguiente:before {
+  content: "\f0a9";
+}
+.lavarse-las-manos:before {
+  content: "\f0c1";
+}
+.enjabonarse-las-manos:before {
+  content: "\f09c";
+}
+.secarse-las-manos:before {
+  content: "\f45a";
+}
+.touch_app:before {
+  content: "\f56b";
+}
+.copiar:before {
+  content: "\f093";
+}
+.guardar:before {
+  content: "\f0b2";
+}
+.menu-puntos:before {
+  content: "\f3ac";
+}
+.menu:before {
+  content: "\f3ab";
+}
+.home:before {
+  content: "\f0b3";
+}

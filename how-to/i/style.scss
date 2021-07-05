@@ -1,0 +1,203 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?49uras');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?49uras#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?49uras') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?49uras') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?49uras##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.avatar-hihello {
+  &:before {
+    content: $avatar-hihello; 
+  }
+}
+.pokebola {
+  &:before {
+    content: $pokebola; 
+  }
+}
+.logo-hihello .path1 {
+  &:before {
+    content: $logo-hihello-path1;  
+    color: rgb(0, 0, 0);
+  }
+}
+.logo-hihello .path2 {
+  &:before {
+    content: $logo-hihello-path2;  
+    margin-left: -5.7314453125em;  
+    color: rgb(105, 54, 152);
+  }
+}
+.logo-hihello .path3 {
+  &:before {
+    content: $logo-hihello-path3;  
+    margin-left: -5.7314453125em;  
+    color: rgb(80, 201, 135);
+  }
+}
+.xiiber {
+  &:before {
+    content: $xiiber; 
+  }
+}
+.mascota {
+  &:before {
+    content: $mascota;     
+    color: #ec268f;
+  }
+}
+.dragon-ball-burger .path1 {
+  &:before {
+    content: $dragon-ball-burger-path1;  
+    color: rgb(233, 54, 56);
+  }
+}
+.dragon-ball-burger .path2 {
+  &:before {
+    content: $dragon-ball-burger-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 90, 171);
+  }
+}
+.dragon-ball-burger .path3 {
+  &:before {
+    content: $dragon-ball-burger-path3;  
+    margin-left: -1em;  
+    color: rgb(250, 177, 22);
+  }
+}
+.senzubucks-coffee .path1 {
+  &:before {
+    content: $senzubucks-coffee-path1;  
+    color: rgb(0, 88, 46);
+  }
+}
+.senzubucks-coffee .path2 {
+  &:before {
+    content: $senzubucks-coffee-path2;  
+    margin-left: -1em;  
+    color: rgb(32, 30, 30);
+  }
+}
+.corazon-doble {
+  &:before {
+    content: $corazon-doble; 
+  }
+}
+.netflix-sexflix {
+  &:before {
+    content: $netflix-sexflix;     
+    color: #d9202b;
+  }
+}
+.masturbate .path1 {
+  &:before {
+    content: $masturbate-path1;  
+    color: rgb(253, 152, 0);
+  }
+}
+.masturbate .path2 {
+  &:before {
+    content: $masturbate-path2;  
+    margin-left: -1em;  
+    color: rgb(204, 0, 1);
+  }
+}
+.gato {
+  &:before {
+    content: $gato; 
+  }
+}
+.luna-pokemon {
+  &:before {
+    content: $luna-pokemon; 
+  }
+}
+.sol-pokemon {
+  &:before {
+    content: $sol-pokemon; 
+  }
+}
+.yas-queen {
+  &:before {
+    content: $yas-queen; 
+  }
+}
+.flecha-atras {
+  &:before {
+    content: $flecha-atras; 
+  }
+}
+.flecha-siguiente {
+  &:before {
+    content: $flecha-siguiente; 
+  }
+}
+.lavarse-las-manos {
+  &:before {
+    content: $lavarse-las-manos; 
+  }
+}
+.enjabonarse-las-manos {
+  &:before {
+    content: $enjabonarse-las-manos; 
+  }
+}
+.secarse-las-manos {
+  &:before {
+    content: $secarse-las-manos; 
+  }
+}
+.touch_app {
+  &:before {
+    content: $touch_app; 
+  }
+}
+.copiar {
+  &:before {
+    content: $copiar; 
+  }
+}
+.guardar {
+  &:before {
+    content: $guardar; 
+  }
+}
+.menu-puntos {
+  &:before {
+    content: $menu-puntos; 
+  }
+}
+.menu {
+  &:before {
+    content: $menu; 
+  }
+}
+.home {
+  &:before {
+    content: $home; 
+  }
+}
+
