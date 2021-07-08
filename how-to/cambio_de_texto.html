@@ -15,12 +15,13 @@
         
         .text {
             position: absolute;
-            width: 450px;
-            left: 50%;
+            width: 650px;
+            /* left: 50%;
             margin-left: -225px;
             height: 40px;
             top: 50%;
             margin-top: -20px;
+            */
         }
         
         p {
@@ -31,7 +32,7 @@
         
         .word {
             position: absolute;
-            width: 220px;
+            width: 100%;
             opacity: 0;
         }
         
@@ -57,23 +58,23 @@
             transition: transform 0.38s cubic-bezier(0.175, 0.885, 0.32, 1.275);
         }
         
-        .wisteria {
+        .gourmet {
             color: #8e44ad;
         }
         
-        .belize {
+        .spa {
             color: #2980b9;
         }
         
-        .pomegranate {
+        .underground {
             color: #c0392b;
         }
         
-        .green {
+        .cdmx {
             color: #16a085;
         }
         
-        .midnight {
+        .online {
             color: #2c3e50;
         }
     </style>
@@ -83,12 +84,14 @@
     <div class="text">
         <p>Experiencias</p>
         <p>
-            <span class="word wisteria">gourmet</span>
-            <span class="word belize">spa</span>
-            <span class="word pomegranate">undergroun</span>
-            <span class="word green">CDMX</span>
-            <span class="word midnight">online</span>
+            <span class="word gourmet">gourmet</span>
+            <span class="word spa">spa</span>
+            <span class="word underground">underground</span>
+            <span class="word cdmx">CDMX</span>
+            <span class="word online">online</span>
         </p>
+    </div>
+    </p>
     </div>
     <script>
         var words = document.getElementsByClassName('word');
