@@ -1,76 +1,145 @@
-.avatar-hihello {
+.icon-chaos-dragon-ball-z {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;');
+}
+.icon-trasero-vegeta {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea17;');
+}
+.icon-amor-love-toy-story {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea37;');
+}
+.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf344;');
+}
+.icon-cursor-hand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf630;');
+}
+.icon-hospedaje {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf63d;');
+}
+.icon-codepen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf657;');
+}
+.icon-github {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65c;');
+}
+.icon-www {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65f;');
+}
+.icon-twitter-bird {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf5a4;');
+}
+.icon-drag-rupaul {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea47;');
+}
+.icon-viajero {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5d;');
+}
+.icon-solicitar-transporte {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf45f;');
+}
+.icon-sexoral-one {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf45b;');
+}
+.icon-bailar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea60;');
+}
+.icon-avatar-fuera-del-closet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea61;');
+}
+.icon-hombre {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea62;');
+}
+.icon-corriendo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf094;');
+}
+.icon-flecha-atras {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0aa;');
+}
+.icon-flecha-siguiente {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0ab;');
+}
+.icon-touch_app {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf56c;');
+}
+.icon-tarjeta-de-regalo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf463;');
+}
+.icon-home {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0b4;');
+}
+.icon-avatar-hihello {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec41;');
 }
-.pokebola {
+.icon-pokebola {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf413;');
 }
-.logo-hihello {
+.icon-logo-hihello {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea51;');
 }
-.xiiber {
+.icon-xiiber {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0b5;');
 }
-.mascota {
+.icon-mascota {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
-.dragon-ball-burger {
+.icon-dragon-ball-burger {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
 }
-.senzubucks-coffee {
+.icon-senzubucks-coffee {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
 }
-.corazon-doble {
+.icon-corazon-doble {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
 }
-.netflix-sexflix {
+.icon-netflix-sexflix {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe907;');
 }
-.masturbate {
+.icon-masturbate {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe908;');
 }
-.gato {
+.icon-gato {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5f;');
 }
-.luna-pokemon {
+.icon-luna-pokemon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea48;');
 }
-.sol-pokemon {
+.icon-sol-pokemon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4b;');
 }
-.yas-queen {
+.icon-yas-queen {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5f;');
 }
-.flecha-atras {
+.icon-flecha-atras1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0a8;');
 }
-.flecha-siguiente {
+.icon-flecha-siguiente1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0a9;');
 }
-.lavarse-las-manos {
+.icon-lavarse-las-manos {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0c1;');
 }
-.enjabonarse-las-manos {
+.icon-enjabonarse-las-manos {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09c;');
 }
-.secarse-las-manos {
+.icon-secarse-las-manos {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf45a;');
 }
-.touch_app {
+.icon-touch_app1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf56b;');
 }
-.copiar {
+.icon-copiar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf093;');
 }
-.guardar {
+.icon-guardar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0b2;');
 }
-.menu-puntos {
+.icon-menu-puntos {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3ac;');
 }
-.menu {
+.icon-menu {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3ab;');
 }
-.home {
+.icon-home1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0b3;');
 }
 
