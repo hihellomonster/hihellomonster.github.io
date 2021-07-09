@@ -2,17 +2,17 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?qu1f8s');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?qu1f8s#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?qu1f8s') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?qu1f8s') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?qu1f8s##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?10k65f');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?10k65f#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?10k65f') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?10k65f') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?10k65f##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+.icon {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: '#{$icomoon-font-family}' !important;
   speak: never;
@@ -27,1433 +27,1433 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-chaos-dragon-ball-z .path1 {
+.chaos-dragon-ball-z .path1 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path1;  
+    content: $chaos-dragon-ball-z-path1;  
     color: rgb(100, 101, 107);
   }
 }
-.icon-chaos-dragon-ball-z .path2 {
+.chaos-dragon-ball-z .path2 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path2;  
+    content: $chaos-dragon-ball-z-path2;  
     margin-left: -1em;  
     color: rgb(100, 101, 107);
   }
 }
-.icon-chaos-dragon-ball-z .path3 {
+.chaos-dragon-ball-z .path3 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path3;  
+    content: $chaos-dragon-ball-z-path3;  
     margin-left: -1em;  
     color: rgb(100, 101, 107);
   }
 }
-.icon-chaos-dragon-ball-z .path4 {
+.chaos-dragon-ball-z .path4 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path4;  
+    content: $chaos-dragon-ball-z-path4;  
     margin-left: -1em;  
     color: rgb(100, 101, 107);
   }
 }
-.icon-chaos-dragon-ball-z .path5 {
+.chaos-dragon-ball-z .path5 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path5;  
+    content: $chaos-dragon-ball-z-path5;  
     margin-left: -1em;  
     color: rgb(67, 67, 84);
   }
 }
-.icon-chaos-dragon-ball-z .path6 {
+.chaos-dragon-ball-z .path6 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path6;  
+    content: $chaos-dragon-ball-z-path6;  
     margin-left: -1em;  
     color: rgb(67, 67, 84);
   }
 }
-.icon-chaos-dragon-ball-z .path7 {
+.chaos-dragon-ball-z .path7 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path7;  
+    content: $chaos-dragon-ball-z-path7;  
     margin-left: -1em;  
     color: rgb(67, 67, 84);
   }
 }
-.icon-chaos-dragon-ball-z .path8 {
+.chaos-dragon-ball-z .path8 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path8;  
+    content: $chaos-dragon-ball-z-path8;  
     margin-left: -1em;  
     color: rgb(33, 34, 54);
   }
 }
-.icon-chaos-dragon-ball-z .path9 {
+.chaos-dragon-ball-z .path9 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path9;  
+    content: $chaos-dragon-ball-z-path9;  
     margin-left: -1em;  
     color: rgb(33, 34, 54);
   }
 }
-.icon-chaos-dragon-ball-z .path10 {
+.chaos-dragon-ball-z .path10 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path10;  
+    content: $chaos-dragon-ball-z-path10;  
     margin-left: -1em;  
     color: rgb(33, 34, 54);
   }
 }
-.icon-chaos-dragon-ball-z .path11 {
+.chaos-dragon-ball-z .path11 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path11;  
+    content: $chaos-dragon-ball-z-path11;  
     margin-left: -1em;  
     color: rgb(33, 34, 54);
   }
 }
-.icon-chaos-dragon-ball-z .path12 {
+.chaos-dragon-ball-z .path12 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path12;  
+    content: $chaos-dragon-ball-z-path12;  
     margin-left: -1em;  
     color: rgb(33, 34, 54);
   }
 }
-.icon-chaos-dragon-ball-z .path13 {
+.chaos-dragon-ball-z .path13 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path13;  
+    content: $chaos-dragon-ball-z-path13;  
     margin-left: -1em;  
     color: rgb(151, 202, 199);
   }
 }
-.icon-chaos-dragon-ball-z .path14 {
+.chaos-dragon-ball-z .path14 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path14;  
+    content: $chaos-dragon-ball-z-path14;  
     margin-left: -1em;  
     color: rgb(151, 202, 199);
   }
 }
-.icon-chaos-dragon-ball-z .path15 {
+.chaos-dragon-ball-z .path15 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path15;  
+    content: $chaos-dragon-ball-z-path15;  
     margin-left: -1em;  
     color: rgb(151, 202, 199);
   }
 }
-.icon-chaos-dragon-ball-z .path16 {
+.chaos-dragon-ball-z .path16 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path16;  
+    content: $chaos-dragon-ball-z-path16;  
     margin-left: -1em;  
     color: rgb(150, 159, 159);
   }
 }
-.icon-chaos-dragon-ball-z .path17 {
+.chaos-dragon-ball-z .path17 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path17;  
+    content: $chaos-dragon-ball-z-path17;  
     margin-left: -1em;  
     color: rgb(150, 159, 159);
   }
 }
-.icon-chaos-dragon-ball-z .path18 {
+.chaos-dragon-ball-z .path18 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path18;  
+    content: $chaos-dragon-ball-z-path18;  
     margin-left: -1em;  
     color: rgb(150, 159, 159);
   }
 }
-.icon-chaos-dragon-ball-z .path19 {
+.chaos-dragon-ball-z .path19 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path19;  
+    content: $chaos-dragon-ball-z-path19;  
     margin-left: -1em;  
     color: rgb(150, 159, 159);
   }
 }
-.icon-chaos-dragon-ball-z .path20 {
+.chaos-dragon-ball-z .path20 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path20;  
+    content: $chaos-dragon-ball-z-path20;  
     margin-left: -1em;  
     color: rgb(150, 159, 159);
   }
 }
-.icon-chaos-dragon-ball-z .path21 {
+.chaos-dragon-ball-z .path21 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path21;  
+    content: $chaos-dragon-ball-z-path21;  
     margin-left: -1em;  
     color: rgb(3, 112, 4);
   }
 }
-.icon-chaos-dragon-ball-z .path22 {
+.chaos-dragon-ball-z .path22 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path22;  
+    content: $chaos-dragon-ball-z-path22;  
     margin-left: -1em;  
     color: rgb(3, 112, 4);
   }
 }
-.icon-chaos-dragon-ball-z .path23 {
+.chaos-dragon-ball-z .path23 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path23;  
+    content: $chaos-dragon-ball-z-path23;  
     margin-left: -1em;  
     color: rgb(5, 54, 5);
   }
 }
-.icon-chaos-dragon-ball-z .path24 {
+.chaos-dragon-ball-z .path24 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path24;  
+    content: $chaos-dragon-ball-z-path24;  
     margin-left: -1em;  
     color: rgb(5, 54, 5);
   }
 }
-.icon-chaos-dragon-ball-z .path25 {
+.chaos-dragon-ball-z .path25 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path25;  
+    content: $chaos-dragon-ball-z-path25;  
     margin-left: -1em;  
     color: rgb(251, 201, 36);
   }
 }
-.icon-chaos-dragon-ball-z .path26 {
+.chaos-dragon-ball-z .path26 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path26;  
+    content: $chaos-dragon-ball-z-path26;  
     margin-left: -1em;  
     color: rgb(251, 201, 36);
   }
 }
-.icon-chaos-dragon-ball-z .path27 {
+.chaos-dragon-ball-z .path27 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path27;  
+    content: $chaos-dragon-ball-z-path27;  
     margin-left: -1em;  
     color: rgb(251, 201, 36);
   }
 }
-.icon-chaos-dragon-ball-z .path28 {
+.chaos-dragon-ball-z .path28 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path28;  
+    content: $chaos-dragon-ball-z-path28;  
     margin-left: -1em;  
     color: rgb(212, 120, 3);
   }
 }
-.icon-chaos-dragon-ball-z .path29 {
+.chaos-dragon-ball-z .path29 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path29;  
+    content: $chaos-dragon-ball-z-path29;  
     margin-left: -1em;  
     color: rgb(212, 120, 3);
   }
 }
-.icon-chaos-dragon-ball-z .path30 {
+.chaos-dragon-ball-z .path30 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path30;  
+    content: $chaos-dragon-ball-z-path30;  
     margin-left: -1em;  
     color: rgb(131, 4, 4);
   }
 }
-.icon-chaos-dragon-ball-z .path31 {
+.chaos-dragon-ball-z .path31 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path31;  
+    content: $chaos-dragon-ball-z-path31;  
     margin-left: -1em;  
     color: rgb(131, 4, 4);
   }
 }
-.icon-chaos-dragon-ball-z .path32 {
+.chaos-dragon-ball-z .path32 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path32;  
+    content: $chaos-dragon-ball-z-path32;  
     margin-left: -1em;  
     color: rgb(131, 4, 4);
   }
 }
-.icon-chaos-dragon-ball-z .path33 {
+.chaos-dragon-ball-z .path33 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path33;  
+    content: $chaos-dragon-ball-z-path33;  
     margin-left: -1em;  
     color: rgb(131, 4, 4);
   }
 }
-.icon-chaos-dragon-ball-z .path34 {
+.chaos-dragon-ball-z .path34 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path34;  
+    content: $chaos-dragon-ball-z-path34;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path35 {
+.chaos-dragon-ball-z .path35 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path35;  
+    content: $chaos-dragon-ball-z-path35;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path36 {
+.chaos-dragon-ball-z .path36 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path36;  
+    content: $chaos-dragon-ball-z-path36;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path37 {
+.chaos-dragon-ball-z .path37 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path37;  
+    content: $chaos-dragon-ball-z-path37;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path38 {
+.chaos-dragon-ball-z .path38 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path38;  
+    content: $chaos-dragon-ball-z-path38;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path39 {
+.chaos-dragon-ball-z .path39 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path39;  
+    content: $chaos-dragon-ball-z-path39;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path40 {
+.chaos-dragon-ball-z .path40 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path40;  
+    content: $chaos-dragon-ball-z-path40;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path41 {
+.chaos-dragon-ball-z .path41 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path41;  
+    content: $chaos-dragon-ball-z-path41;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path42 {
+.chaos-dragon-ball-z .path42 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path42;  
+    content: $chaos-dragon-ball-z-path42;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path43 {
+.chaos-dragon-ball-z .path43 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path43;  
+    content: $chaos-dragon-ball-z-path43;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path44 {
+.chaos-dragon-ball-z .path44 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path44;  
+    content: $chaos-dragon-ball-z-path44;  
     margin-left: -1em;  
     color: rgb(180, 1, 1);
   }
 }
-.icon-chaos-dragon-ball-z .path45 {
+.chaos-dragon-ball-z .path45 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path45;  
+    content: $chaos-dragon-ball-z-path45;  
     margin-left: -1em;  
     color: rgb(83, 6, 6);
   }
 }
-.icon-chaos-dragon-ball-z .path46 {
+.chaos-dragon-ball-z .path46 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path46;  
+    content: $chaos-dragon-ball-z-path46;  
     margin-left: -1em;  
     color: rgb(83, 6, 6);
   }
 }
-.icon-chaos-dragon-ball-z .path47 {
+.chaos-dragon-ball-z .path47 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path47;  
+    content: $chaos-dragon-ball-z-path47;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path48 {
+.chaos-dragon-ball-z .path48 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path48;  
+    content: $chaos-dragon-ball-z-path48;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path49 {
+.chaos-dragon-ball-z .path49 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path49;  
+    content: $chaos-dragon-ball-z-path49;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path50 {
+.chaos-dragon-ball-z .path50 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path50;  
+    content: $chaos-dragon-ball-z-path50;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path51 {
+.chaos-dragon-ball-z .path51 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path51;  
+    content: $chaos-dragon-ball-z-path51;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path52 {
+.chaos-dragon-ball-z .path52 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path52;  
+    content: $chaos-dragon-ball-z-path52;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path53 {
+.chaos-dragon-ball-z .path53 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path53;  
+    content: $chaos-dragon-ball-z-path53;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path54 {
+.chaos-dragon-ball-z .path54 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path54;  
+    content: $chaos-dragon-ball-z-path54;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path55 {
+.chaos-dragon-ball-z .path55 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path55;  
+    content: $chaos-dragon-ball-z-path55;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path56 {
+.chaos-dragon-ball-z .path56 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path56;  
+    content: $chaos-dragon-ball-z-path56;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path57 {
+.chaos-dragon-ball-z .path57 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path57;  
+    content: $chaos-dragon-ball-z-path57;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path58 {
+.chaos-dragon-ball-z .path58 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path58;  
+    content: $chaos-dragon-ball-z-path58;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path59 {
+.chaos-dragon-ball-z .path59 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path59;  
+    content: $chaos-dragon-ball-z-path59;  
     margin-left: -1em;  
     color: rgb(227, 220, 224);
   }
 }
-.icon-chaos-dragon-ball-z .path60 {
+.chaos-dragon-ball-z .path60 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path60;  
+    content: $chaos-dragon-ball-z-path60;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path61 {
+.chaos-dragon-ball-z .path61 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path61;  
+    content: $chaos-dragon-ball-z-path61;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path62 {
+.chaos-dragon-ball-z .path62 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path62;  
+    content: $chaos-dragon-ball-z-path62;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path63 {
+.chaos-dragon-ball-z .path63 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path63;  
+    content: $chaos-dragon-ball-z-path63;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path64 {
+.chaos-dragon-ball-z .path64 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path64;  
+    content: $chaos-dragon-ball-z-path64;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path65 {
+.chaos-dragon-ball-z .path65 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path65;  
+    content: $chaos-dragon-ball-z-path65;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path66 {
+.chaos-dragon-ball-z .path66 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path66;  
+    content: $chaos-dragon-ball-z-path66;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path67 {
+.chaos-dragon-ball-z .path67 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path67;  
+    content: $chaos-dragon-ball-z-path67;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path68 {
+.chaos-dragon-ball-z .path68 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path68;  
+    content: $chaos-dragon-ball-z-path68;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path69 {
+.chaos-dragon-ball-z .path69 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path69;  
+    content: $chaos-dragon-ball-z-path69;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-chaos-dragon-ball-z .path70 {
+.chaos-dragon-ball-z .path70 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path70;  
+    content: $chaos-dragon-ball-z-path70;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path71 {
+.chaos-dragon-ball-z .path71 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path71;  
+    content: $chaos-dragon-ball-z-path71;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path72 {
+.chaos-dragon-ball-z .path72 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path72;  
+    content: $chaos-dragon-ball-z-path72;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path73 {
+.chaos-dragon-ball-z .path73 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path73;  
+    content: $chaos-dragon-ball-z-path73;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path74 {
+.chaos-dragon-ball-z .path74 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path74;  
+    content: $chaos-dragon-ball-z-path74;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path75 {
+.chaos-dragon-ball-z .path75 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path75;  
+    content: $chaos-dragon-ball-z-path75;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path76 {
+.chaos-dragon-ball-z .path76 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path76;  
+    content: $chaos-dragon-ball-z-path76;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path77 {
+.chaos-dragon-ball-z .path77 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path77;  
+    content: $chaos-dragon-ball-z-path77;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path78 {
+.chaos-dragon-ball-z .path78 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path78;  
+    content: $chaos-dragon-ball-z-path78;  
     margin-left: -1em;  
     color: rgb(2, 4, 26);
   }
 }
-.icon-chaos-dragon-ball-z .path79 {
+.chaos-dragon-ball-z .path79 {
   &:before {
-    content: $icon-chaos-dragon-ball-z-path79;  
+    content: $chaos-dragon-ball-z-path79;  
     margin-left: -1em;  
     color: rgb(149, 242, 234);
   }
 }
-.icon-trasero-vegeta .path1 {
+.trasero-vegeta .path1 {
   &:before {
-    content: $icon-trasero-vegeta-path1;  
+    content: $trasero-vegeta-path1;  
     color: rgb(195, 155, 61);
   }
 }
-.icon-trasero-vegeta .path2 {
+.trasero-vegeta .path2 {
   &:before {
-    content: $icon-trasero-vegeta-path2;  
-    margin-left: -1em;  
-    color: rgb(195, 155, 61);
-  }
-}
-.icon-trasero-vegeta .path3 {
-  &:before {
-    content: $icon-trasero-vegeta-path3;  
+    content: $trasero-vegeta-path2;  
     margin-left: -1em;  
     color: rgb(195, 155, 61);
   }
 }
-.icon-trasero-vegeta .path4 {
+.trasero-vegeta .path3 {
   &:before {
-    content: $icon-trasero-vegeta-path4;  
+    content: $trasero-vegeta-path3;  
+    margin-left: -1em;  
+    color: rgb(195, 155, 61);
+  }
+}
+.trasero-vegeta .path4 {
+  &:before {
+    content: $trasero-vegeta-path4;  
     margin-left: -1em;  
     color: rgb(245, 245, 202);
   }
 }
-.icon-trasero-vegeta .path5 {
+.trasero-vegeta .path5 {
   &:before {
-    content: $icon-trasero-vegeta-path5;  
+    content: $trasero-vegeta-path5;  
     margin-left: -1em;  
     color: rgb(245, 245, 202);
   }
 }
-.icon-trasero-vegeta .path6 {
+.trasero-vegeta .path6 {
   &:before {
-    content: $icon-trasero-vegeta-path6;  
+    content: $trasero-vegeta-path6;  
     margin-left: -1em;  
     color: rgb(245, 245, 202);
   }
 }
-.icon-trasero-vegeta .path7 {
+.trasero-vegeta .path7 {
   &:before {
-    content: $icon-trasero-vegeta-path7;  
+    content: $trasero-vegeta-path7;  
     margin-left: -1em;  
     color: rgb(245, 245, 202);
   }
 }
-.icon-trasero-vegeta .path8 {
+.trasero-vegeta .path8 {
   &:before {
-    content: $icon-trasero-vegeta-path8;  
+    content: $trasero-vegeta-path8;  
     margin-left: -1em;  
     color: rgb(242, 214, 90);
   }
 }
-.icon-trasero-vegeta .path9 {
+.trasero-vegeta .path9 {
   &:before {
-    content: $icon-trasero-vegeta-path9;  
+    content: $trasero-vegeta-path9;  
     margin-left: -1em;  
     color: rgb(242, 214, 90);
   }
 }
-.icon-trasero-vegeta .path10 {
+.trasero-vegeta .path10 {
   &:before {
-    content: $icon-trasero-vegeta-path10;  
+    content: $trasero-vegeta-path10;  
     margin-left: -1em;  
     color: rgb(242, 214, 90);
   }
 }
-.icon-trasero-vegeta .path11 {
+.trasero-vegeta .path11 {
   &:before {
-    content: $icon-trasero-vegeta-path11;  
+    content: $trasero-vegeta-path11;  
     margin-left: -1em;  
     color: rgb(242, 214, 90);
   }
 }
-.icon-trasero-vegeta .path12 {
+.trasero-vegeta .path12 {
   &:before {
-    content: $icon-trasero-vegeta-path12;  
+    content: $trasero-vegeta-path12;  
     margin-left: -1em;  
     color: rgb(162, 162, 165);
   }
 }
-.icon-trasero-vegeta .path13 {
+.trasero-vegeta .path13 {
   &:before {
-    content: $icon-trasero-vegeta-path13;  
+    content: $trasero-vegeta-path13;  
     margin-left: -1em;  
     color: rgb(162, 162, 165);
   }
 }
-.icon-trasero-vegeta .path14 {
+.trasero-vegeta .path14 {
   &:before {
-    content: $icon-trasero-vegeta-path14;  
+    content: $trasero-vegeta-path14;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-trasero-vegeta .path15 {
+.trasero-vegeta .path15 {
   &:before {
-    content: $icon-trasero-vegeta-path15;  
+    content: $trasero-vegeta-path15;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-trasero-vegeta .path16 {
+.trasero-vegeta .path16 {
   &:before {
-    content: $icon-trasero-vegeta-path16;  
+    content: $trasero-vegeta-path16;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-trasero-vegeta .path17 {
+.trasero-vegeta .path17 {
   &:before {
-    content: $icon-trasero-vegeta-path17;  
+    content: $trasero-vegeta-path17;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path18 {
+.trasero-vegeta .path18 {
   &:before {
-    content: $icon-trasero-vegeta-path18;  
+    content: $trasero-vegeta-path18;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path19 {
+.trasero-vegeta .path19 {
   &:before {
-    content: $icon-trasero-vegeta-path19;  
+    content: $trasero-vegeta-path19;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path20 {
+.trasero-vegeta .path20 {
   &:before {
-    content: $icon-trasero-vegeta-path20;  
+    content: $trasero-vegeta-path20;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path21 {
+.trasero-vegeta .path21 {
   &:before {
-    content: $icon-trasero-vegeta-path21;  
+    content: $trasero-vegeta-path21;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path22 {
+.trasero-vegeta .path22 {
   &:before {
-    content: $icon-trasero-vegeta-path22;  
+    content: $trasero-vegeta-path22;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path23 {
+.trasero-vegeta .path23 {
   &:before {
-    content: $icon-trasero-vegeta-path23;  
+    content: $trasero-vegeta-path23;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path24 {
+.trasero-vegeta .path24 {
   &:before {
-    content: $icon-trasero-vegeta-path24;  
+    content: $trasero-vegeta-path24;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path25 {
+.trasero-vegeta .path25 {
   &:before {
-    content: $icon-trasero-vegeta-path25;  
+    content: $trasero-vegeta-path25;  
     margin-left: -1em;  
     color: rgb(44, 53, 79);
   }
 }
-.icon-trasero-vegeta .path26 {
+.trasero-vegeta .path26 {
   &:before {
-    content: $icon-trasero-vegeta-path26;  
+    content: $trasero-vegeta-path26;  
     margin-left: -1em;  
     color: rgb(41, 41, 41);
   }
 }
-.icon-trasero-vegeta .path27 {
+.trasero-vegeta .path27 {
   &:before {
-    content: $icon-trasero-vegeta-path27;  
+    content: $trasero-vegeta-path27;  
     margin-left: -1em;  
     color: rgb(41, 41, 41);
   }
 }
-.icon-trasero-vegeta .path28 {
+.trasero-vegeta .path28 {
   &:before {
-    content: $icon-trasero-vegeta-path28;  
+    content: $trasero-vegeta-path28;  
     margin-left: -1em;  
     color: rgb(41, 41, 41);
   }
 }
-.icon-trasero-vegeta .path29 {
+.trasero-vegeta .path29 {
   &:before {
-    content: $icon-trasero-vegeta-path29;  
+    content: $trasero-vegeta-path29;  
     margin-left: -1em;  
     color: rgb(41, 41, 41);
   }
 }
-.icon-trasero-vegeta .path30 {
+.trasero-vegeta .path30 {
   &:before {
-    content: $icon-trasero-vegeta-path30;  
+    content: $trasero-vegeta-path30;  
     margin-left: -1em;  
     color: rgb(41, 41, 41);
   }
 }
-.icon-trasero-vegeta .path31 {
+.trasero-vegeta .path31 {
   &:before {
-    content: $icon-trasero-vegeta-path31;  
+    content: $trasero-vegeta-path31;  
     margin-left: -1em;  
     color: rgb(41, 41, 41);
   }
 }
-.icon-trasero-vegeta .path32 {
+.trasero-vegeta .path32 {
   &:before {
-    content: $icon-trasero-vegeta-path32;  
+    content: $trasero-vegeta-path32;  
     margin-left: -1em;  
     color: rgb(34, 93, 149);
   }
 }
-.icon-amor-love-toy-story .path1 {
+.amor-love-toy-story .path1 {
   &:before {
-    content: $icon-amor-love-toy-story-path1;  
+    content: $amor-love-toy-story-path1;  
     color: rgb(253, 169, 1);
   }
 }
-.icon-amor-love-toy-story .path2 {
+.amor-love-toy-story .path2 {
   &:before {
-    content: $icon-amor-love-toy-story-path2;  
+    content: $amor-love-toy-story-path2;  
     margin-left: -1em;  
     color: rgb(114, 3, 4);
   }
 }
-.icon-amor-love-toy-story .path3 {
+.amor-love-toy-story .path3 {
   &:before {
-    content: $icon-amor-love-toy-story-path3;  
+    content: $amor-love-toy-story-path3;  
     margin-left: -1em;  
     color: rgb(114, 3, 4);
   }
 }
-.icon-amor-love-toy-story .path4 {
+.amor-love-toy-story .path4 {
   &:before {
-    content: $icon-amor-love-toy-story-path4;  
+    content: $amor-love-toy-story-path4;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-amor-love-toy-story .path5 {
+.amor-love-toy-story .path5 {
   &:before {
-    content: $icon-amor-love-toy-story-path5;  
+    content: $amor-love-toy-story-path5;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-amor-love-toy-story .path6 {
+.amor-love-toy-story .path6 {
   &:before {
-    content: $icon-amor-love-toy-story-path6;  
+    content: $amor-love-toy-story-path6;  
     margin-left: -1em;  
     color: rgb(234, 234, 234);
   }
 }
-.icon-amor-love-toy-story .path7 {
+.amor-love-toy-story .path7 {
   &:before {
-    content: $icon-amor-love-toy-story-path7;  
+    content: $amor-love-toy-story-path7;  
     margin-left: -1em;  
     color: rgb(248, 180, 133);
   }
 }
-.icon-amor-love-toy-story .path8 {
+.amor-love-toy-story .path8 {
   &:before {
-    content: $icon-amor-love-toy-story-path8;  
+    content: $amor-love-toy-story-path8;  
     margin-left: -1em;  
     color: rgb(4, 3, 5);
   }
 }
-.icon-amor-love-toy-story .path9 {
+.amor-love-toy-story .path9 {
   &:before {
-    content: $icon-amor-love-toy-story-path9;  
+    content: $amor-love-toy-story-path9;  
     margin-left: -1em;  
     color: rgb(56, 23, 5);
   }
 }
-.icon-amor-love-toy-story .path10 {
+.amor-love-toy-story .path10 {
   &:before {
-    content: $icon-amor-love-toy-story-path10;  
+    content: $amor-love-toy-story-path10;  
     margin-left: -1em;  
     color: rgb(2, 253, 4);
   }
 }
-.icon-amor-love-toy-story .path11 {
+.amor-love-toy-story .path11 {
   &:before {
-    content: $icon-amor-love-toy-story-path11;  
+    content: $amor-love-toy-story-path11;  
     margin-left: -1em;  
     color: rgb(139, 139, 139);
   }
 }
-.icon-amor-love-toy-story .path12 {
+.amor-love-toy-story .path12 {
   &:before {
-    content: $icon-amor-love-toy-story-path12;  
+    content: $amor-love-toy-story-path12;  
     margin-left: -1em;  
     color: rgb(9, 80, 9);
   }
 }
-.icon-amor-love-toy-story .path13 {
+.amor-love-toy-story .path13 {
   &:before {
-    content: $icon-amor-love-toy-story-path13;  
+    content: $amor-love-toy-story-path13;  
     margin-left: -1em;  
     color: rgb(109, 109, 108);
   }
 }
-.icon-amor-love-toy-story .path14 {
+.amor-love-toy-story .path14 {
   &:before {
-    content: $icon-amor-love-toy-story-path14;  
+    content: $amor-love-toy-story-path14;  
     margin-left: -1em;  
     color: rgb(233, 233, 233);
   }
 }
-.icon-amor-love-toy-story .path15 {
+.amor-love-toy-story .path15 {
   &:before {
-    content: $icon-amor-love-toy-story-path15;  
+    content: $amor-love-toy-story-path15;  
     margin-left: -1em;  
     color: rgb(172, 172, 172);
   }
 }
-.icon-amor-love-toy-story .path16 {
+.amor-love-toy-story .path16 {
   &:before {
-    content: $icon-amor-love-toy-story-path16;  
+    content: $amor-love-toy-story-path16;  
     margin-left: -1em;  
     color: rgb(155, 10, 231);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path1 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path1 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path1;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path1;  
     color: rgb(238, 40, 67);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path2 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path2 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path2;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path2;  
     margin-left: -1em;  
     color: rgb(252, 138, 28);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path3 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path3 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path3;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path3;  
     margin-left: -1em;  
     color: rgb(252, 138, 28);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path4 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path4 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path4;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path4;  
     margin-left: -1em;  
     color: rgb(1, 142, 64);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path5 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path5 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path5;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path5;  
     margin-left: -1em;  
     color: rgb(1, 142, 64);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path6 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path6 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path6;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path6;  
     margin-left: -1em;  
     color: rgb(1, 142, 64);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path7 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path7 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path7;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path7;  
     margin-left: -1em;  
     color: rgb(1, 142, 64);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path8 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path8 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path8;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path8;  
     margin-left: -1em;  
     color: rgb(62, 64, 149);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path9 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path9 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path9;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path9;  
     margin-left: -1em;  
     color: rgb(5, 85, 150);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path10 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path10 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path10;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path10;  
     margin-left: -1em;  
     color: rgb(5, 85, 150);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path11 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path11 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path11;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path11;  
     margin-left: -1em;  
     color: rgb(62, 64, 149);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path12 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path12 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path12;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path12;  
     margin-left: -1em;  
     color: rgb(254, 240, 19);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path13 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path13 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path13;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path13;  
     margin-left: -1em;  
     color: rgb(254, 240, 19);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path14 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path14 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path14;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path14;  
     margin-left: -1em;  
     color: rgb(254, 240, 19);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path15 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path15 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path15;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path15;  
     margin-left: -1em;  
     color: rgb(122, 39, 116);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path16 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path16 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path16;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path16;  
     margin-left: -1em;  
     color: rgb(122, 39, 116);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path17 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path17 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path17;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path17;  
     margin-left: -1em;  
     color: rgb(122, 39, 116);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path18 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path18 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path18;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path18;  
     margin-left: -1em;  
     color: rgb(122, 39, 116);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path19 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path19 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path19;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path19;  
     margin-left: -1em;  
     color: rgb(254, 137, 24);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path20 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path20 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path20;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path20;  
     margin-left: -1em;  
     color: rgb(254, 137, 24);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path21 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path21 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path21;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path21;  
     margin-left: -1em;  
     color: rgb(234, 44, 17);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path22 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path22 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path22;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path22;  
     margin-left: -1em;  
     color: rgb(5, 141, 65);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path23 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path23 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path23;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path23;  
     margin-left: -1em;  
     color: rgb(1, 86, 153);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path24 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path24 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path24;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path24;  
     margin-left: -1em;  
     color: rgb(1, 86, 150);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path25 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path25 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path25;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path25;  
     margin-left: -1em;  
     color: rgb(245, 138, 25);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path26 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path26 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path26;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path26;  
     margin-left: -1em;  
     color: rgb(5, 85, 153);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path27 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path27 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path27;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path27;  
     margin-left: -1em;  
     color: rgb(5, 85, 150);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path28 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path28 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path28;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path28;  
     margin-left: -1em;  
     color: rgb(62, 64, 149);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path29 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path29 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path29;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path29;  
     margin-left: -1em;  
     color: rgb(99, 40, 91);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path30 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path30 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path30;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path30;  
     margin-left: -1em;  
     color: rgb(62, 64, 149);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path31 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path31 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path31;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path31;  
     margin-left: -1em;  
     color: rgb(234, 140, 48);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path32 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path32 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path32;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path32;  
     margin-left: -1em;  
     color: rgb(216, 134, 56);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path33 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path33 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path33;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path33;  
     margin-left: -1em;  
     color: rgb(0, 0, 0);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path34 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path34 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path34;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path34;  
     margin-left: -1em;  
     color: rgb(254, 254, 254);
   }
 }
-.icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path35 {
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path35 {
   &:before {
-    content: $icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path35;  
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path35;  
     margin-left: -1em;  
     color: rgb(254, 240, 19);
   }
 }
-.icon-cursor-hand {
+.cursor-hand {
   &:before {
-    content: $icon-cursor-hand; 
+    content: $cursor-hand; 
   }
 }
-.icon-hospedaje {
+.hospedaje {
   &:before {
-    content: $icon-hospedaje; 
+    content: $hospedaje; 
   }
 }
-.icon-codepen {
+.codepen {
   &:before {
-    content: $icon-codepen; 
+    content: $codepen; 
   }
 }
-.icon-github {
+.github {
   &:before {
-    content: $icon-github; 
+    content: $github; 
   }
 }
-.icon-www {
+.www {
   &:before {
-    content: $icon-www;     
+    content: $www;     
     color: #aa1018;
   }
 }
-.icon-twitter-bird {
+.twitter-bird {
   &:before {
-    content: $icon-twitter-bird;     
+    content: $twitter-bird;     
     color: #00afef;
   }
 }
-.icon-drag-rupaul .path1 {
+.drag-rupaul .path1 {
   &:before {
-    content: $icon-drag-rupaul-path1;  
+    content: $drag-rupaul-path1;  
     color: rgb(1, 1, 1);
   }
 }
-.icon-drag-rupaul .path2 {
+.drag-rupaul .path2 {
   &:before {
-    content: $icon-drag-rupaul-path2;  
+    content: $drag-rupaul-path2;  
     margin-left: -1em;  
     color: rgb(1, 1, 1);
   }
 }
-.icon-drag-rupaul .path3 {
+.drag-rupaul .path3 {
   &:before {
-    content: $icon-drag-rupaul-path3;  
+    content: $drag-rupaul-path3;  
     margin-left: -1em;  
     color: rgb(1, 1, 1);
   }
 }
-.icon-drag-rupaul .path4 {
+.drag-rupaul .path4 {
   &:before {
-    content: $icon-drag-rupaul-path4;  
+    content: $drag-rupaul-path4;  
     margin-left: -1em;  
     color: rgb(1, 1, 1);
   }
 }
-.icon-drag-rupaul .path5 {
+.drag-rupaul .path5 {
   &:before {
-    content: $icon-drag-rupaul-path5;  
+    content: $drag-rupaul-path5;  
     margin-left: -1em;  
     color: rgb(136, 136, 136);
   }
 }
-.icon-viajero {
+.viajero {
   &:before {
-    content: $icon-viajero; 
+    content: $viajero; 
   }
 }
-.icon-solicitar-transporte {
+.solicitar-transporte {
   &:before {
-    content: $icon-solicitar-transporte; 
+    content: $solicitar-transporte; 
   }
 }
-.icon-sexoral-one {
+.sexoral-one {
   &:before {
-    content: $icon-sexoral-one; 
+    content: $sexoral-one; 
   }
 }
-.icon-bailar {
+.bailar {
   &:before {
-    content: $icon-bailar; 
+    content: $bailar; 
   }
 }
-.icon-avatar-fuera-del-closet {
+.avatar-fuera-del-closet {
   &:before {
-    content: $icon-avatar-fuera-del-closet; 
+    content: $avatar-fuera-del-closet; 
   }
 }
-.icon-hombre {
+.hombre {
   &:before {
-    content: $icon-hombre; 
+    content: $hombre; 
   }
 }
-.icon-corriendo {
+.corriendo {
   &:before {
-    content: $icon-corriendo; 
+    content: $corriendo; 
   }
 }
-.icon-flecha-atras {
+.flecha-atras {
   &:before {
-    content: $icon-flecha-atras; 
+    content: $flecha-atras; 
   }
 }
-.icon-flecha-siguiente {
+.flecha-siguiente {
   &:before {
-    content: $icon-flecha-siguiente; 
+    content: $flecha-siguiente; 
   }
 }
-.icon-touch_app {
+.touch_app {
   &:before {
-    content: $icon-touch_app; 
+    content: $touch_app; 
   }
 }
-.icon-tarjeta-de-regalo {
+.tarjeta-de-regalo {
   &:before {
-    content: $icon-tarjeta-de-regalo; 
+    content: $tarjeta-de-regalo; 
   }
 }
-.icon-home {
+.home {
   &:before {
-    content: $icon-home; 
+    content: $home; 
   }
 }
-.icon-avatar-hihello {
+.avatar-hihello {
   &:before {
-    content: $icon-avatar-hihello; 
+    content: $avatar-hihello; 
   }
 }
-.icon-pokebola {
+.pokebola {
   &:before {
-    content: $icon-pokebola; 
+    content: $pokebola; 
   }
 }
-.icon-logo-hihello .path1 {
+.logo-hihello .path1 {
   &:before {
-    content: $icon-logo-hihello-path1;  
+    content: $logo-hihello-path1;  
     color: rgb(0, 0, 0);
   }
 }
-.icon-logo-hihello .path2 {
+.logo-hihello .path2 {
   &:before {
-    content: $icon-logo-hihello-path2;  
+    content: $logo-hihello-path2;  
     margin-left: -5.7314453125em;  
     color: rgb(105, 54, 152);
   }
 }
-.icon-logo-hihello .path3 {
+.logo-hihello .path3 {
   &:before {
-    content: $icon-logo-hihello-path3;  
+    content: $logo-hihello-path3;  
     margin-left: -5.7314453125em;  
     color: rgb(80, 201, 135);
   }
 }
-.icon-xiiber {
+.xiiber {
   &:before {
-    content: $icon-xiiber; 
+    content: $xiiber; 
   }
 }
-.icon-mascota {
+.mascota {
   &:before {
-    content: $icon-mascota;     
+    content: $mascota;     
     color: #ec268f;
   }
 }
-.icon-dragon-ball-burger .path1 {
+.dragon-ball-burger .path1 {
   &:before {
-    content: $icon-dragon-ball-burger-path1;  
+    content: $dragon-ball-burger-path1;  
     color: rgb(233, 54, 56);
   }
 }
-.icon-dragon-ball-burger .path2 {
+.dragon-ball-burger .path2 {
   &:before {
-    content: $icon-dragon-ball-burger-path2;  
+    content: $dragon-ball-burger-path2;  
     margin-left: -1em;  
     color: rgb(0, 90, 171);
   }
 }
-.icon-dragon-ball-burger .path3 {
+.dragon-ball-burger .path3 {
   &:before {
-    content: $icon-dragon-ball-burger-path3;  
+    content: $dragon-ball-burger-path3;  
     margin-left: -1em;  
     color: rgb(250, 177, 22);
   }
 }
-.icon-senzubucks-coffee .path1 {
+.senzubucks-coffee .path1 {
   &:before {
-    content: $icon-senzubucks-coffee-path1;  
+    content: $senzubucks-coffee-path1;  
     color: rgb(0, 88, 46);
   }
 }
-.icon-senzubucks-coffee .path2 {
+.senzubucks-coffee .path2 {
   &:before {
-    content: $icon-senzubucks-coffee-path2;  
+    content: $senzubucks-coffee-path2;  
     margin-left: -1em;  
     color: rgb(32, 30, 30);
   }
 }
-.icon-corazon-doble {
+.corazon-doble {
   &:before {
-    content: $icon-corazon-doble; 
+    content: $corazon-doble; 
   }
 }
-.icon-netflix-sexflix {
+.netflix-sexflix {
   &:before {
-    content: $icon-netflix-sexflix;     
+    content: $netflix-sexflix;     
     color: #d9202b;
   }
 }
-.icon-masturbate .path1 {
+.masturbate .path1 {
   &:before {
-    content: $icon-masturbate-path1;  
+    content: $masturbate-path1;  
     color: rgb(253, 152, 0);
   }
 }
-.icon-masturbate .path2 {
+.masturbate .path2 {
   &:before {
-    content: $icon-masturbate-path2;  
+    content: $masturbate-path2;  
     margin-left: -1em;  
     color: rgb(204, 0, 1);
   }
 }
-.icon-gato {
+.gato {
   &:before {
-    content: $icon-gato; 
+    content: $gato; 
   }
 }
-.icon-luna-pokemon {
+.luna-pokemon {
   &:before {
-    content: $icon-luna-pokemon; 
+    content: $luna-pokemon; 
   }
 }
-.icon-sol-pokemon {
+.sol-pokemon {
   &:before {
-    content: $icon-sol-pokemon; 
+    content: $sol-pokemon; 
   }
 }
-.icon-yas-queen {
+.yas-queen {
   &:before {
-    content: $icon-yas-queen; 
+    content: $yas-queen; 
   }
 }
-.icon-flecha-atras1 {
+.flecha-atras1 {
   &:before {
-    content: $icon-flecha-atras1; 
+    content: $flecha-atras1; 
   }
 }
-.icon-flecha-siguiente1 {
+.flecha-siguiente1 {
   &:before {
-    content: $icon-flecha-siguiente1; 
+    content: $flecha-siguiente1; 
   }
 }
-.icon-lavarse-las-manos {
+.lavarse-las-manos {
   &:before {
-    content: $icon-lavarse-las-manos; 
+    content: $lavarse-las-manos; 
   }
 }
-.icon-enjabonarse-las-manos {
+.enjabonarse-las-manos {
   &:before {
-    content: $icon-enjabonarse-las-manos; 
+    content: $enjabonarse-las-manos; 
   }
 }
-.icon-secarse-las-manos {
+.secarse-las-manos {
   &:before {
-    content: $icon-secarse-las-manos; 
+    content: $secarse-las-manos; 
   }
 }
-.icon-touch_app1 {
+.touch_app1 {
   &:before {
-    content: $icon-touch_app1; 
+    content: $touch_app1; 
   }
 }
-.icon-copiar {
+.copiar {
   &:before {
-    content: $icon-copiar; 
+    content: $copiar; 
   }
 }
-.icon-guardar {
+.guardar {
   &:before {
-    content: $icon-guardar; 
+    content: $guardar; 
   }
 }
-.icon-menu-puntos {
+.menu-puntos {
   &:before {
-    content: $icon-menu-puntos; 
+    content: $menu-puntos; 
   }
 }
-.icon-menu {
+.menu {
   &:before {
-    content: $icon-menu; 
+    content: $menu; 
   }
 }
-.icon-home1 {
+.home1 {
   &:before {
-    content: $icon-home1; 
+    content: $home1; 
   }
 }
 
