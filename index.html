@@ -1,784 +1,554 @@
 <!DOCTYPE html>
-<html lang="es">
+<!-- 
+	⊙⩌⨀
+    2006 2021 © hiHello.monster! Martech Marketing Technology Stack
+    
+	   ˆ⩌ˆ
+    ⪘ ¿Quién hizo todo esto? 
+       »  https://twitter.com/luisangelmaciel 
+   
+-->
+
+<html lang="es-mx" Server="GitHub.com" Accept-Encoding="gzip" Content-Encoding="gzip" Vary="Accept-Encoding" Cache-Control="max-age=600 " SimpleHTTPServer=" 3000" lighthouse="https://hihello.monster" budget-path="https://hihello.monster/budget.json "
+    lighthouse="help">
 
 <head>
-    <meta charset="UTF-8">
-    <title>Envialov</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css'>
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css'>
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
-    <link rel="stylesheet" href="css/style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>hiHello-monster</title>
+    <meta name="description" content="Martech Marketing Technology Stack ur new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+    <link rel="canonical" href="https://hihello.monster">
+
+    <link rel="manifest " href="https://hihello.monster/manifest.json " crossorigin="use-credentials">
+    <meta name="theme-color" content="#990099">
+    <link rel="apple-touch-icon" href="https://hihello.monster/images/icons/icon-152x152.png">
+    <link rel="icon " href="https://hihello.monster/maskable_icon.png " sizes="114x114 " type="image/png " purpose="any maskable ">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="myNotes">
+    <meta name="theme-color" content="#990099">
+    <meta name="referrer" content="always" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="https://hihello.monster/css/colors.css">
+    <link rel="stylesheet" href="https://hihello.monster/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.2/dist/lazyload.min.js" async></script>
+
+    <link rel="preload" href="https://hihello.monster/css/histyle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+    <!--  <style>
+        
+        
+        body {
+            display: flex
+        }
+        
+        .ie-11 {
+            min-height: 100vh;
+            padding: 65px 120px 95px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            font-family: "Avenir Next", sans-serif;
+            font-size: 18px;
+            flex: 1 1 auto
+        }
+        
+        header {
+            margin-bottom: 0px;
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between
+        }
+        
+        .products-links {
+            display: flex;
+            align-items: center;
+            padding-bottom: 5px
+        }
+        
+        .mailto-logo {
+            padding-bottom: 9px;
+            display: flex;
+            align-items: flex-end;
+            flex-direction: row-reverse;
+            justify-content: space-between;
+            order: 2
+        }
+        
+        .products-links .mail {
+            display: block
+        }
+        
+        .mailto-logo .mail {
+            display: none
+        }
+        
+        a,
+        a:hover {
+            color: #000;
+            text-decoration: none
+        }
+        
+        .mail {
+            text-decoration: underline;
+            margin-right: -10px;
+            display: inline-block;
+            padding: 4px 10px 2px;
+            border-radius: 2px
+        }
+        
+        .mail:hover {
+            background: #000;
+            color: #fff;
+            text-decoration: none
+        }
+        
+        .logo {
+            display: inline-block;
+            width: 182px;
+            height: 42px;
+            background-image: url(https://hihellomonster.github.io/index-que-he-usado/img/logo-hihello.svg);
+            background-position: initial;
+            background-repeat: no-repeat;
+        }
+        
+        .featured {
+            width: auto;
+            padding-bottom: 2px;
+            order: 1;
+            flex: 1 1 auto;
+            text-align: left;
+            white-space: nowrap
+        }
+        
+        .featured * {
+            display: inline-block;
+            vertical-align: top
+        }
+        
+        .featured>* {
+            margin-right: 5%;
+            margin-top: 0
+        }
+        
+        .featured>*:last-child {
+            margin-right: 30px
+        }
+        
+        .featured>span {
+            font-size: 16px;
+            margin-right: 7%;
+            padding: 5px 0;
+            font-weight: normal;
+            color: #b0b0b0
+        }
+        
+        .titles-wrapper {
+            position: relative;
+            padding-right: 125px;
+            min-height: 328px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between
+        }
+        
+        h1 {
+            position: relative;
+            opacity: 0;
+            bottom: 30px;
+            margin: 0;
+            padding-bottom: 30px;
+            font-size: 30px;
+            font-weight: 600;
+            transition: 1s all ease-in-out;
+            padding-top: 5px;
+        }
+        
+        h1 .no-wrap {
+            white-space: nowrap;
+            font-size: 27px;
+            font-weight: 600;
+        }
+        
+        h1.animate {
+            opacity: 1;
+            bottom: 0
+        }
+        
+        h2 {
+            font-size: 30px;
+            font-weight: 400;
+            margin: 0;
+            letter-spacing: -0.8px
+        }
+        
+        .copyright {
+            transform: rotate(90deg);
+            display: inline-block;
+            transform-origin: right top;
+            position: absolute;
+            right: 0;
+            bottom: -11px
+        }
+        
+        @media (min-width:1400px) {
+            .featured>* {
+                margin-right: 50px
+            }
+            .featured>*:last-child {
+                margin-right: 30px
+            }
+            .featured>span {
+                margin-right: 70px
+            }
+        }
+        
+        @media (max-width:1300px) {
+            .ie-11 {
+                padding: 30px 40px
+            }
+        }
+        
+        @media (max-width:1050px) {
+            header {
+                margin-bottom: 5px;
+                flex-direction: column;
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between
+            }
+            .mailto-logo {
+                width: 100%;
+                min-width: 0;
+                flex-direction: row;
+                padding-bottom: 40px;
+                order: 0
+            }
+            .mailto-logo .mail {
+                display: block
+            }
+            .mail {
+                margin-bottom: -4px
+            }
+            .products-links {
+                display: none
+            }
+            .featured {
+                width: 100%;
+                order: 0;
+                text-align: left;
+                white-space: normal;
+                margin-bottom: 30px
+            }
+            .featured>* {
+                margin-right: 40px;
+                margin-top: 20px
+            }
+            .featured>span {
+                margin-right: 40px;
+                padding: 5px 0
+            }
+            .featured>*:last-child {
+                margin-right: 0
+            }
+            .titles-wrapper {
+                padding: 0
+            }
+            h1 {
+                line-height: 1.1;
+                padding-bottom: 0px;
+                font-size: 27px
+            }
+            h2 {
+                font-size: 25px
+            }
+            .copyright {
+                padding-top: 20px;
+                position: static;
+                transform: none;
+                color: #black;
+                font-size: 16px
+            }
+        }
+        
+        @media (max-width: 540px) {
+            .featured>span {
+                display: block;
+                margin-bottom: 10px;
+                color: #a0a0a0;
+                font-size: 14px
+            }
+        }
+        
+        @media (max-width:360px) {
+            .ie-11 {
+                padding: 10px
+            }
+            .mail {
+                font-size: 16px;
+                letter-spacing: -0.5px
+            }
+            .no-wrap {
+                white-space: normal
+            }
+        }
+        
+        hide {
+            display: none!important
+        }
+    </style> -->
 </head>
 
 <body>
-    <!-- partial:index.partial.html -->
-    <div class="container carousel-green-1">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="carousel-heading">Recomendados <span>supermercados</span></h2>
+    <div class="ie-11">
+        <header>
+            <div class="logo"></div>
+        </header>
+
+        <div class="titles-wrapper" style="text-align: left;">
+            <h1 class=" animate" style="text-align: left;">
+                <span style="color: #036b36;">h</span>ola! <br><br>
+                <span style="color: #036b36;">s</span>oy <span style="color: #693698; font-weight: 400;">@luisangelmaciel</span> y hago
+                <span style="color: #036b36;"><i> martech</i></span> que significa <span style="color: #693698;">Marketing Technology Stack. </span> <br> <br> para monsters, que hacen lo que les apasiona </h1>
+            <br>
+            <h2>
+                he reunido aproximadamente unos <span class="countup" cup-end="3285">3285</span> días de experiencia (y contando) haciendo lo que me gusta, he aquí algunos proyectos realizados <span style="color: #036b36;">...  </span>
+            </h2>
+            <br>
+            <div class="featured">
+
+                <a href="#portfolioModal1" data-toggle="modal"><img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" /></a>
+
+
+                <a href="#portfolioModal2" data-toggle="modal">
+                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-dragvesti-negro.svg " alt="Dragvesti, la carrera Drag Queen Online y en vivo " width="182px " height="42px " title=" Dragvesti, la carrera Drag Queen Online y en vivo " />
+                </a>
+
+                <a href="#portfolioModal3" data-toggle="modal">
+                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-geus.svg " alt="geus gourmé. Productos artesanales gourmet " width="142px " height="42px " title="geus gourmé. Productoss arteanales  gourmet " />
+                </a>
+
+                <a href="#portfolioModal4" data-toggle="modal" style="visibility:hidden; display: none; ">
+                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" />
+                </a>
+
+                <a href="#portfolioModal5" data-toggle="modal" style="visibility:hidden; display: none; ">
+                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" />
+                </a>
+
+                <a href="#portfolioModal6" data-toggle="modal" style="visibility:hidden; display: none; ">
+                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" />
+                </a>
+
+
+
             </div>
+
+            <div class="copyright">
+                © 2012-2021 hiHello.monster es @luisangelmaciel </div>
+
         </div>
-        <div class="row">
-            <div class="col-lg-9 col-sm-12 col-xs-12">
-                <div class="carousel-products carousel-products-trio owl-carousel">
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
+    </div>
+
+
+    <div id="content" class="container grey lighten-3" style="visibility:hidden; display: none; ">
+        <p>Add your notes below:</p>
+        <form action="" id="form-add-note" class="row">
+            <input type="text" placeholder="Notes..." class=" col-2 white">
+            <input type="submit" value="Add" class="blue-grey white-text col-1">
+        </form>
+        <ul id="notes">
+        </ul>
+    </div>
+
+    <!-- Portfolio Modals -->
+    <!-- seccion contacto -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="5">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-12 col-xs-12"><a class="carousel-see-more" href="#"><span class="btn-text-heading">Encuentra más de <span class="btn-text-heading-category">Deportes</span></span><span class="btn-text-cta">Aqu&iacute;</span><span class="btn-text-seemore"> Ver m&aacute;s</span></a></div>
+
+            <!-- seccion contacto -->
+            hiHello.monsterhttps://www.xiiber.com"
+
         </div>
     </div>
-    <div class="container carousel-dark-1">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="carousel-heading">Recomendados <span>tecnología</span></h2>
+    <!-- Services Section -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="4">
+        <div class="modal-content">
+            <div class="container">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Services Section -->
+                hiHello.monster
+
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-9 col-sm-12 col-xs-12">
-                <div class="carousel-products carousel-products-trio owl-carousel">
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
+    </div>
+    <!-- About Section -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="3">
+        <div class="modal-content">
+            <div class="container">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
                     </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
+                </div>
+
+
+                <!-- About Section -->
+                hiHello.monster
+
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="2">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-12 col-xs-12"><a class="carousel-see-more" href="#"><span class="btn-text-heading">Encuentra más de <span class="btn-text-heading-category">Deportes</span></span><span class="btn-text-cta">Aqu&iacute;</span><span class="btn-text-seemore"> Ver m&aacute;s</span></a></div>
-        </div>
-    </div>
-    <div class="container carousel-dark-2">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="carousel-heading">Recomendados <span>tecnología</span></h2>
+            <div class="container">
+                hiHello.monster
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-9 col-sm-12 col-xs-12">
-                <div class="carousel-products carousel-products-trio owl-carousel">
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="1">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-12 col-xs-12"><a class="carousel-see-more" href="#"><span class="btn-text-heading">Encuentra más de <span class="btn-text-heading-category">Deportes</span></span><span class="btn-text-cta">Aqu&iacute;</span><span class="btn-text-seemore"> Ver m&aacute;s               </span></a></div>
-        </div>
-    </div>
-    <div class="container carousel-dark-3">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="carousel-heading">Recomendados <span>tecnología</span></h2>
+            <div class="container">
+                hiHello.monster
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-9 col-sm-12 col-xs-12">
-                <div class="carousel-products carousel-products-trio owl-carousel">
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="carousel-product-wrapper">
-                        <a href="#">
-                            <div class="product-heading">Samsung Galaxy S10</div>
-                            <div class="product-description">Ariel detergente en polvo con perlas limpiadoras 6Kg</div>
-                            <div class="product-image" style="background-image: url(https://www.tottus.com.pe/static/carrito/tottus-carrito-flotante-final-peru/images/vino.png)"></div>
-                            <div class="product-actions">
-                                <div class="cta-buy-now">LO QUIERO</div>
-                            </div>
-                            <div class="price-tags">
-                                <div class="price-tag-wrapper flip-price">
-                                    <div class="price-tag-outer">
-                                        <div class="price-tag-cover"></div>
-                                        <div class="price-tag price-tag-imbatible">
-                                            <div class="price-tag-inner"><span class="price-tag-heading">Cerveza Cristal</span><span class="price-tag-list"><span class="price-tag-list-meta"><span class="price-tag-list-factor">2x</span><span class="price-tag-list-curr">S/</span></span>1999
-                                                <span class="price-tag-list-decimal">.90</span>
-                                                </span><span class="price-tag-regular">Antes S/35.90</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="0">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-12 col-xs-12"><a class="carousel-see-more" href="#"><span class="btn-text-heading">Encuentra más de <span class="btn-text-heading-category">Deportes</span></span><span class="btn-text-cta">Aqu&iacute;</span><span class="btn-text-seemore"> Ver m&aacute;s               </span></a></div>
+            <div class="container">
+                hiHello.monster
+            </div>
         </div>
     </div>
-    <!-- partial -->
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js'></script>
-    <script src="script/script.js"></script>
+
+
+    <!-- jQuery Version 1.11.0 en eralidad es el 3.6  -->
+    <script src="https://hihello.monster/js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="https://hihello.monster/js/bootstrap.min.js"></script>
+
+    <!-- Contador -->
+    <script>
+        window.NodeList && !NodeList.prototype.forEach && (NodeList.prototype.forEach = function(e, a) {
+            a = a || window;
+            for (var b = 0; b < this.length; b++) e.call(a, this[b], b, this)
+        });
+
+        function f(e) {
+            this.g = {
+                duration: 1e1,
+                b: "",
+                append: "%",
+                m: ".countup",
+                start: 0,
+                end: 100,
+                c: !1,
+                interval: 1
+            };
+            var a = this;
+            this.i = null;
+            this.a = {};
+            for (var b in this.g) "undefined" !== typeof b && (a.a[b] = a.g[b], e.hasOwnProperty(b) && a.a.hasOwnProperty(b) && (a.a[b] = e[b]));
+            this.l = document.querySelectorAll(this.a.m);
+            this.h = [];
+            var c = {};
+            this.l.forEach(function(b) {
+                c.j = b;
+                var d = parseInt(b.getAttribute("cup-start"));
+                isNaN(d) ? c.start = a.a.start : c.start = d;
+                d = parseInt(b.getAttribute("cup-end"));
+                isNaN(d) ? c.end = a.a.end : c.end = d;
+                d = parseInt(b.getAttribute("cup-duration"));
+                isNaN(d) ? c.duration = a.a.duration : c.duration = d;
+                d = b.getAttribute("cup-prepend");
+                null == d ? c.b = a.a.b : c.b = d;
+                d = b.getAttribute("cup-append");
+                null == d ? c.append = a.a.append : c.append = d;
+                b = b.getAttribute("cup-intval");
+                null == b ? c.c = a.a.c : c.c = b;
+                c.step = (c.end - c.start) / (c.duration / a.a.interval);
+                c.f = c.start;
+                a.h.push(c);
+                c = {}
+            })
+        }
+        f.prototype.start = function() {
+            var e = this;
+            this.i = setInterval(function() {
+                e.updating || e.update()
+            }, e.a.interval)
+        };
+        f.prototype.update = function() {
+            var e = this.updating = !0;
+            this.h.forEach(function(a) {
+                a.f += a.step;
+                a.f < a.end ? (a.j.innerHTML = 1 == a.c ? a.b + Math.floor(a.f).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + a.append : a.b + (Math.round(100 * a.f) / 100).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + a.append, e = !1) : a.j.innerHTML = a.b + a.end.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + a.append
+            });
+            1 == e && clearInterval(this.i);
+            this.updating = !1
+        };
+        var g = new f({
+            start: 4.5,
+            duration: 3E3,
+            c: !0,
+            interval: 10,
+            b: "",
+            append: ""
+        });
+        window.onload = function() {
+            document.getElementsByTagName("h1")[0].className += " animate";
+            g.start()
+        };
+    </script>
+
+    <script>
+        console.log('This is index!'.toUpperCase());
+    </script>
+
+    <script src="js/object.observe.polyfill.js"></script>
+    <script src="js/array.observe.polyfill.js"></script>
+    <script src="js/scripts.js"></script>
+
 
 </body>
+
 
 </html>
