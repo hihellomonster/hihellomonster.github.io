@@ -278,3 +278,32 @@ a:visited {
 .panel__animation-list span:hover:after {
     border-color: white;
 }
+
+.hi-dropdown-hover {
+    cursor: pointer;
+    align-items: center;
+    display: -moz-popup;
+}
+
+.hi-dropdown-hover:hover .hi-dropdown-content {
+    display: block
+}
+
+.hi-dropdown-content {
+    cursor: auto;
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    align-items: center;
+}
+
+.hi-container:after,
+.hi-container:before {
+    content: "";
+    display: table;
+    clear: both;
+    align-items: center;
+}
