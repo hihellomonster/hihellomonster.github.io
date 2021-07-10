@@ -14,7 +14,7 @@ body {
     letter-spacing: 0.1rem;
     margin: 0;
     overflow: hidden;
-    perspective: 1000px;
+    perspective: 900px;
     /*    text-transform: uppercase; */
 }
 
