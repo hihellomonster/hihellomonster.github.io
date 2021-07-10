@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Oswald'), url(Oswald.woff2) format('woff2');
+    font-display: swap;
+}
+
 body {
     background-image: url('');
     background-repeat: repeat;
@@ -28,6 +36,11 @@ h1 {
     margin: 0;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 a {
     text-decoration: none;
     color: rgb(0, 0, 0);
@@ -46,6 +59,11 @@ a:link {
 a:hover {
     text-decoration: none;
     color: #de2a84;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
 }
 
 .panel-wrap {
