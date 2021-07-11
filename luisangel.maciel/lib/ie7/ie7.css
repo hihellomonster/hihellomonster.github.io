@@ -1,3 +1,9 @@
+.icon-github {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
+}
+.icon-hhm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
+}
 .icon-ico-codepen {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
 }
@@ -18,33 +24,6 @@
 }
 .icon-sol-pokemon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4b;');
-}
-.icon-b-google-my-business {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
-}
-.icon-b-grindr {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
-}
-.icon-b-hornet {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
-}
-.icon-b-mercado-libre {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
-}
-.icon-b-onlyfans {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
-}
-.icon-b-scruff {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
-}
-.icon-google-my-business {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
-}
-.icon-grindr {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90b;');
-}
-.icon-hornet {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90c;');
 }
 .icon-mercado-libre {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;');
@@ -106,9 +85,6 @@
 .icon-hi5 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf662;');
 }
-.icon-hhm {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea54;');
-}
 .icon-xiib {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0b5;');
 }
@@ -126,9 +102,6 @@
 }
 .icon-github-logo {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf671;');
-}
-.icon-github {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65c;');
 }
 .icon-www {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65f;');

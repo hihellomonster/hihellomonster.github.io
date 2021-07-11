@@ -12,6 +12,8 @@ class Luisangelmaciel {
 
   static const String _fontFamily = 'luisangelmaciel';
 
+  static const IconData github = IconData(0xe900, fontFamily: _fontFamily);
+  static const IconData hhm = IconData(0xe901, fontFamily: _fontFamily);
   static const IconData ico_codepen = IconData(0xe92a, fontFamily: _fontFamily);
   static const IconData ico_codesandbox = IconData(0xe92f, fontFamily: _fontFamily);
   static const IconData ico_replit = IconData(0xe930, fontFamily: _fontFamily);
@@ -19,15 +21,6 @@ class Luisangelmaciel {
   static const IconData avatar_hihello = IconData(0xec41, fontFamily: _fontFamily);
   static const IconData luna_pokemon = IconData(0xea48, fontFamily: _fontFamily);
   static const IconData sol_pokemon = IconData(0xea4b, fontFamily: _fontFamily);
-  static const IconData b_google_my_business = IconData(0xe900, fontFamily: _fontFamily);
-  static const IconData b_grindr = IconData(0xe901, fontFamily: _fontFamily);
-  static const IconData b_hornet = IconData(0xe902, fontFamily: _fontFamily);
-  static const IconData b_mercado_libre = IconData(0xe903, fontFamily: _fontFamily);
-  static const IconData b_onlyfans = IconData(0xe904, fontFamily: _fontFamily);
-  static const IconData b_scruff = IconData(0xe905, fontFamily: _fontFamily);
-  static const IconData google_my_business = IconData(0xe906, fontFamily: _fontFamily);
-  static const IconData grindr = IconData(0xe90b, fontFamily: _fontFamily);
-  static const IconData hornet = IconData(0xe90c, fontFamily: _fontFamily);
   static const IconData mercado_libre = IconData(0xe914, fontFamily: _fontFamily);
   static const IconData onlyfans = IconData(0xe91b, fontFamily: _fontFamily);
   static const IconData scruff = IconData(0xe91d, fontFamily: _fontFamily);
@@ -48,14 +41,12 @@ class Luisangelmaciel {
   static const IconData codesandbox = IconData(0xf65b, fontFamily: _fontFamily);
   static const IconData w3spaces = IconData(0xf663, fontFamily: _fontFamily);
   static const IconData hi5 = IconData(0xf662, fontFamily: _fontFamily);
-  static const IconData hhm = IconData(0xea54, fontFamily: _fontFamily);
   static const IconData xiib = IconData(0xf0b5, fontFamily: _fontFamily);
   static const IconData logo_viajemos_todxs_por_mexico_turismo_gay_turismo_rosa_color = IconData(0xf344, fontFamily: _fontFamily);
   static const IconData cursor_hand = IconData(0xf630, fontFamily: _fontFamily);
   static const IconData hospedaje = IconData(0xf63d, fontFamily: _fontFamily);
   static const IconData codepen = IconData(0xf657, fontFamily: _fontFamily);
   static const IconData github_logo = IconData(0xf671, fontFamily: _fontFamily);
-  static const IconData github = IconData(0xf65c, fontFamily: _fontFamily);
   static const IconData www = IconData(0xf65f, fontFamily: _fontFamily);
   static const IconData twitter_bird = IconData(0xf5a4, fontFamily: _fontFamily);
   static const IconData flecha_atras = IconData(0xf0a8, fontFamily: _fontFamily);

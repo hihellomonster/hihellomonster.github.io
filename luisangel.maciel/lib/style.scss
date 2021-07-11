@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lfd74s');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lfd74s#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lfd74s') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lfd74s') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lfd74s##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lyf4y5');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lyf4y5#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lyf4y5') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lyf4y5') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lyf4y5##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,6 +27,16 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-github {
+  &:before {
+    content: $icon-github; 
+  }
+}
+.icon-hhm {
+  &:before {
+    content: $icon-hhm; 
+  }
+}
 .icon-ico-codepen {
   &:before {
     content: $icon-ico-codepen; 
@@ -44,8 +54,7 @@ i {
 }
 .icon-w3 {
   &:before {
-    content: $icon-w3;     
-    color: #04a96c;
+    content: $icon-w3; 
   }
 }
 .icon-avatar-hihello {
@@ -61,137 +70,6 @@ i {
 .icon-sol-pokemon {
   &:before {
     content: $icon-sol-pokemon; 
-  }
-}
-.icon-b-google-my-business {
-  &:before {
-    content: $icon-b-google-my-business;     
-    color: #e1e1e1;
-  }
-}
-.icon-b-grindr {
-  &:before {
-    content: $icon-b-grindr;     
-    color: #e1e1e1;
-  }
-}
-.icon-b-hornet {
-  &:before {
-    content: $icon-b-hornet;     
-    color: #e1e1e1;
-  }
-}
-.icon-b-mercado-libre {
-  &:before {
-    content: $icon-b-mercado-libre;     
-    color: #e1e1e1;
-  }
-}
-.icon-b-onlyfans {
-  &:before {
-    content: $icon-b-onlyfans;     
-    color: #e1e1e1;
-  }
-}
-.icon-b-scruff {
-  &:before {
-    content: $icon-b-scruff;     
-    color: #e1e1e1;
-  }
-}
-.icon-google-my-business .path1 {
-  &:before {
-    content: $icon-google-my-business-path1;  
-    color: rgb(126, 172, 247);
-  }
-}
-.icon-google-my-business .path2 {
-  &:before {
-    content: $icon-google-my-business-path2;  
-    margin-left: -1em;  
-    color: rgb(126, 172, 247);
-  }
-}
-.icon-google-my-business .path3 {
-  &:before {
-    content: $icon-google-my-business-path3;  
-    margin-left: -1em;  
-    color: rgb(73, 89, 183);
-  }
-}
-.icon-google-my-business .path4 {
-  &:before {
-    content: $icon-google-my-business-path4;  
-    margin-left: -1em;  
-    color: rgb(73, 89, 183);
-  }
-}
-.icon-google-my-business .path5 {
-  &:before {
-    content: $icon-google-my-business-path5;  
-    margin-left: -1em;  
-    color: rgb(72, 129, 236);
-  }
-}
-.icon-grindr {
-  &:before {
-    content: $icon-grindr;     
-    color: #fcb83b;
-  }
-}
-.icon-hornet .path1 {
-  &:before {
-    content: $icon-hornet-path1;  
-    color: rgb(223, 84, 55);
-  }
-}
-.icon-hornet .path2 {
-  &:before {
-    content: $icon-hornet-path2;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
-  }
-}
-.icon-hornet .path3 {
-  &:before {
-    content: $icon-hornet-path3;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
-  }
-}
-.icon-hornet .path4 {
-  &:before {
-    content: $icon-hornet-path4;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
-  }
-}
-.icon-hornet .path5 {
-  &:before {
-    content: $icon-hornet-path5;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
-  }
-}
-.icon-hornet .path6 {
-  &:before {
-    content: $icon-hornet-path6;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
-  }
-}
-.icon-hornet .path7 {
-  &:before {
-    content: $icon-hornet-path7;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
-  }
-}
-.icon-hornet .path8 {
-  &:before {
-    content: $icon-hornet-path8;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 254);
   }
 }
 .icon-mercado-libre .path1 {
@@ -550,12 +428,6 @@ i {
     color: rgb(132, 139, 140);
   }
 }
-.icon-hhm {
-  &:before {
-    content: $icon-hhm;     
-    color: #b00a8c;
-  }
-}
 .icon-xiib {
   &:before {
     content: $icon-xiib; 
@@ -823,11 +695,6 @@ i {
 .icon-github-logo {
   &:before {
     content: $icon-github-logo; 
-  }
-}
-.icon-github {
-  &:before {
-    content: $icon-github; 
   }
 }
 .icon-www {
