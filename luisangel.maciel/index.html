@@ -45,13 +45,14 @@
     <link rel="preload" href="https://hihellomonster.github.io/xiiber/xiibicon/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://hihellomonster.github.io/xiiber/xiibicon/style.css"></noscript>
     <link data-no-async=”1″ rel="stylesheet" href="https://hihellomonster.github.io/xiiber/xiibicon/style.css" media="all">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"  type="text/javascript" charset="utf-8"  async></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript" charset="utf-8" async></script>
     <style>
         body {
             font-family: "Roboto", sans-serif;
             margin: 0;
         }
-             a {
+        
+        a {
             text-decoration: none;
             color: rgb(0, 0, 0);
         }
@@ -77,6 +78,7 @@
             color: inherit;
             font-weight: bold;
         }
+        
         div.scrollmenu {
             background-color: white;
             overflow: auto;
@@ -196,6 +198,8 @@
             <i><p></p></i> <i><p></p></i>
             <i class="icon-calendario hi-hover-opacity" onclick="openName(event, 'how-to')" id="defaultOpen"> <p>How-to</p></i>
             <i><p></p></i> <i><p></p></i>
+            <i class="icon-calendario hi-hover-opacity" onclick="openName(event, 'aboutme')"> <p>¡Hola!</p></i>
+            <i><p></p></i> <i><p></p></i>
             <i class="icon-calendario hi-hover-opacity" onclick="openName(event, 'proyectos')"> <p>Proyectos</p></i>
             <i><p></p></i> <i><p></p></i>
             <i class="icon-calendario hi-hover-opacity" onclick="openName(event, 'github-hihello')"> <p>hi.hello</p></i>
@@ -242,6 +246,232 @@
             <div id="proyectos" class="tabcontent">
                 <h4 style="font-size:20px;font-weight:300; text-align: center; font-family: Roboto ">Code snippets for HTML, CSS and JavaScript</h4>
                 <h2 style="font-size:45px;font-weight:700; text-align: center; font-family: Roboto ">proyectos</h2>
+                <script>
+                    $(document).ready(function() {
+                        $("#bio").load(" https://hihello.monster/how-to/bio/");
+                    });
+                </script>
+
+                <div id="bio"> </div>
+
+            </div>
+
+            <div id="aboutme" class="tabcontent">
+                <!doctype html>
+                <html lang="es-MX">
+
+                <head>
+                    <meta charset="utf-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title> Encabezado de perfil </title>
+                    <meta name="description" content="Encabezado del perfil de luisngel.maciel">
+                    <meta name="author" content="[ hiHello.monster ] Luis Angel Maciel">
+                    <meta name="generator " content="HiHello.monster! @luisangelmaciel  - Content Management ">
+                    <meta name="rights" content="®hiHello.monster!">
+
+                    <style>
+                        .section .title {
+                            font-size: 36px;
+                            height: 90px;
+                            text-align: center;
+                            color: #363636;
+                            font-weight: 100;
+                        }
+                        
+                        .card-subtitle {
+                            font-size: 17px;
+                            margin: 20px 0;
+                            display: block;
+                            font-weight: 400;
+                            color: #363636;
+                        }
+                        
+                        * {
+                            box-sizing: border-box;
+                        }
+                        
+                        .material {
+                            background: #ffffff;
+                            border-radius: 1px;
+                            box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+                            padding: 15px;
+                            margin: 0 0 30px 0;
+                        }
+                        
+                        .material .card-subname {
+                            margin: 0 0 10px 0;
+                            padding: 1px 5px;
+                            display: inline-block;
+                            vertical-align: top;
+                            background: #efefef;
+                            font-size: 13px;
+                            color: #363636;
+                            border-radius: 2px;
+                        }
+                        
+                        .material .card-content {
+                            margin-bottom: 0;
+                        }
+                        
+                        .card-title {
+                            position: relative;
+                            margin: -57px 0 0 0;
+                            text-align: center;
+                        }
+                        
+                        .card-icon {
+                            margin: 0 auto;
+                            position: relative;
+                            display: block;
+                            overflow: hidden;
+                            width: 62px;
+                            height: 62px;
+                            line-height: 62px;
+                            background: #253137;
+                            border-radius: 51%;
+                            box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+                            color: #fefefe;
+                        }
+                        
+                        {
+                            margin: 0 auto;
+                            padding: 0 0 30px 0;
+                            max-width: 1100px;
+                        }
+                        
+                        @media (max-width: 1080px) {
+                            .row {
+                                margin: 0 10px;
+                            }
+                        }
+                        
+                        @media (max-width: 420px) {
+                            .row {
+                                margin: 0 5px;
+                            }
+                        }
+                        
+                        .row:after {
+                            content: '';
+                            display: table;
+                            clear: both;
+                        }
+                        
+                        .row [class*="col-"] {
+                            float: left;
+                            width: 100%;
+                            padding: 10px;
+                            text-align: center;
+                        }
+                        
+                        @media only screen and (min-width: 768px) {
+                            .row .col-12 {
+                                width: 99.996%;
+                            }
+                        }
+                        
+                        body.about-me .section.contact .content .material {
+                            width: 100%;
+                            max-width: 700px;
+                        }
+                        
+                        body.about-me {
+                            text-align: center;
+                        }
+                        
+                        body.about-me .section.contact .content .material {
+                            display: inline-block;
+                        }
+                        
+                        body.about-me .section.contact .vcard.content {
+                            padding-bottom: 0;
+                        }
+                        
+                        body.about-me .section.contact .vcard.content .material {
+                            position: relative;
+                            top: 15px;
+                        }
+                        
+                        body.about-me .section.contact .vcard.content .material .card-icon {
+                            background: url("me.webp") no-repeat center;
+                            filter: grayscale(85%);
+                            -webkit-filter: grayscale(85%);
+                            -moz-filter: grayscale(85%);
+                            background-size: contain;
+                            width: 100px;
+                            height: 100px;
+                            bottom: 20px;
+                        }
+                        
+                        body.about-me .section.contact .vcard.content .material .card-icon:hover {
+                            background: url("img/me.webp") no-repeat center;
+                            background-size: contain;
+                            width: 100px;
+                            height: 100px;
+                            bottom: 20px;
+                        }
+                        
+                        body.about-me .section.contact .vcard.content .material .card-subname {
+                            padding: 2px 5px;
+                            background: #253137;
+                            color: #fefefe;
+                            font-weight: 400;
+                        }
+                        
+                        body.about-me .section.contact .vcard.content .card-subtitle {
+                            margin-top: 0px;
+                        }
+                        
+                        a {
+                            text-decoration: none;
+                            color: inherit;
+                        }
+                        
+                        a:hover {
+                            text-decoration: none;
+                            font-weight: bold;
+                        }
+                        
+                        a:visited {
+                            text-decoration: none;
+                            color: inherit;
+                        }
+                    </style>
+
+
+
+
+                    <body class="about-me">
+                        <div class="section contact" style=" text-align: center;  padding: 35px 0;">
+
+                            <div class="subject">
+                                <div class="title">
+                                    Estemos en contacto
+                                </div>
+                            </div>
+                            <div class="vcard content row">
+                                <div class="col-12">
+                                    <div class="material">
+                                        <div class="card-title">
+                                            <div class="card-icon"></div>
+                                            <div class="card-subtitle">Luis Angel Maciel</div>
+                                            <div class="card-subname">luis.angel.maciel.padilla
+                                                <i>[at]</i> gmail.com</div>
+                                        </div>
+                                        <div class="card-content">
+                                            Entusiasta en temas de emprendimiento, sexualidad, investigación de mercados rosa, diseño, UI/UX.
+                                            <br><br>Me siento bien cuando recibo un like o comentario de retroalimentación o agradecimiento a mi trabajo diciendo les ha ayudado, marcado la diferencia o gustado algo que hice.
+                                            <br><br>Developer experience and marketer en la agencia de viajes
+                                            <a href="https://www.xiiber.com/linktr.ee" target="_blank" rel="noopener noreferrer" `title="Xiiber. Experiencias y viajes gay" aria-label="Acceso al link"><b>Xiiber</b>.</a>
+                                            <!-- Siempre entusiasta -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </body>
             </div>
         </div>
     </div>
