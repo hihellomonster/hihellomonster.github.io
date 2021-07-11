@@ -1,0 +1,860 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?9bbi5k');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?9bbi5k#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?9bbi5k') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?9bbi5k') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?9bbi5k##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.avatar-hihello {
+  &:before {
+    content: $avatar-hihello; 
+  }
+}
+.luna-pokemon {
+  &:before {
+    content: $luna-pokemon; 
+  }
+}
+.sol-pokemon {
+  &:before {
+    content: $sol-pokemon; 
+  }
+}
+.b-google-my-business {
+  &:before {
+    content: $b-google-my-business;     
+    color: #e1e1e1;
+  }
+}
+.b-grindr {
+  &:before {
+    content: $b-grindr;     
+    color: #e1e1e1;
+  }
+}
+.b-hornet {
+  &:before {
+    content: $b-hornet;     
+    color: #e1e1e1;
+  }
+}
+.b-mercado-libre {
+  &:before {
+    content: $b-mercado-libre;     
+    color: #e1e1e1;
+  }
+}
+.b-onlyfans {
+  &:before {
+    content: $b-onlyfans;     
+    color: #e1e1e1;
+  }
+}
+.b-scruff {
+  &:before {
+    content: $b-scruff;     
+    color: #e1e1e1;
+  }
+}
+.google-my-business .path1 {
+  &:before {
+    content: $google-my-business-path1;  
+    color: rgb(126, 172, 247);
+  }
+}
+.google-my-business .path2 {
+  &:before {
+    content: $google-my-business-path2;  
+    margin-left: -1em;  
+    color: rgb(126, 172, 247);
+  }
+}
+.google-my-business .path3 {
+  &:before {
+    content: $google-my-business-path3;  
+    margin-left: -1em;  
+    color: rgb(73, 89, 183);
+  }
+}
+.google-my-business .path4 {
+  &:before {
+    content: $google-my-business-path4;  
+    margin-left: -1em;  
+    color: rgb(73, 89, 183);
+  }
+}
+.google-my-business .path5 {
+  &:before {
+    content: $google-my-business-path5;  
+    margin-left: -1em;  
+    color: rgb(72, 129, 236);
+  }
+}
+.grindr {
+  &:before {
+    content: $grindr;     
+    color: #fcb83b;
+  }
+}
+.hornet .path1 {
+  &:before {
+    content: $hornet-path1;  
+    color: rgb(223, 84, 55);
+  }
+}
+.hornet .path2 {
+  &:before {
+    content: $hornet-path2;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.hornet .path3 {
+  &:before {
+    content: $hornet-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.hornet .path4 {
+  &:before {
+    content: $hornet-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.hornet .path5 {
+  &:before {
+    content: $hornet-path5;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.hornet .path6 {
+  &:before {
+    content: $hornet-path6;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.hornet .path7 {
+  &:before {
+    content: $hornet-path7;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.hornet .path8 {
+  &:before {
+    content: $hornet-path8;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 254);
+  }
+}
+.mercado-libre .path1 {
+  &:before {
+    content: $mercado-libre-path1;  
+    color: rgb(242, 206, 0);
+  }
+}
+.mercado-libre .path2 {
+  &:before {
+    content: $mercado-libre-path2;  
+    margin-left: -1em;  
+    color: rgb(242, 206, 0);
+  }
+}
+.mercado-libre .path3 {
+  &:before {
+    content: $mercado-libre-path3;  
+    margin-left: -1em;  
+    color: rgb(242, 206, 0);
+  }
+}
+.mercado-libre .path4 {
+  &:before {
+    content: $mercado-libre-path4;  
+    margin-left: -1em;  
+    color: rgb(242, 206, 0);
+  }
+}
+.mercado-libre .path5 {
+  &:before {
+    content: $mercado-libre-path5;  
+    margin-left: -1em;  
+    color: rgb(254, 254, 254);
+  }
+}
+.mercado-libre .path6 {
+  &:before {
+    content: $mercado-libre-path6;  
+    margin-left: -1em;  
+    color: rgb(254, 254, 254);
+  }
+}
+.mercado-libre .path7 {
+  &:before {
+    content: $mercado-libre-path7;  
+    margin-left: -1em;  
+    color: rgb(49, 54, 115);
+  }
+}
+.onlyfans .path1 {
+  &:before {
+    content: $onlyfans-path1;  
+    color: rgb(0, 0, 0);
+  }
+}
+.onlyfans .path2 {
+  &:before {
+    content: $onlyfans-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 174, 239);
+  }
+}
+.scruff .path1 {
+  &:before {
+    content: $scruff-path1;  
+    color: rgb(109, 109, 109);
+  }
+}
+.scruff .path2 {
+  &:before {
+    content: $scruff-path2;  
+    margin-left: -1em;  
+    color: rgb(109, 109, 109);
+  }
+}
+.scruff .path3 {
+  &:before {
+    content: $scruff-path3;  
+    margin-left: -1em;  
+    color: rgb(146, 146, 146);
+  }
+}
+.scruff .path4 {
+  &:before {
+    content: $scruff-path4;  
+    margin-left: -1em;  
+    color: rgb(146, 146, 146);
+  }
+}
+.scruff .path5 {
+  &:before {
+    content: $scruff-path5;  
+    margin-left: -1em;  
+    color: rgb(146, 146, 146);
+  }
+}
+.scruff .path6 {
+  &:before {
+    content: $scruff-path6;  
+    margin-left: -1em;  
+    color: rgb(146, 146, 146);
+  }
+}
+.scruff .path7 {
+  &:before {
+    content: $scruff-path7;  
+    margin-left: -1em;  
+    color: rgb(212, 212, 212);
+  }
+}
+.scruff .path8 {
+  &:before {
+    content: $scruff-path8;  
+    margin-left: -1em;  
+    color: rgb(212, 212, 212);
+  }
+}
+.scruff .path9 {
+  &:before {
+    content: $scruff-path9;  
+    margin-left: -1em;  
+    color: rgb(212, 212, 212);
+  }
+}
+.scruff .path10 {
+  &:before {
+    content: $scruff-path10;  
+    margin-left: -1em;  
+    color: rgb(212, 212, 212);
+  }
+}
+.scruff .path11 {
+  &:before {
+    content: $scruff-path11;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.scruff .path12 {
+  &:before {
+    content: $scruff-path12;  
+    margin-left: -1em;  
+    color: rgb(76, 76, 76);
+  }
+}
+.netflix-gayflix {
+  &:before {
+    content: $netflix-gayflix;     
+    color: #d9202b;
+  }
+}
+.tumblr {
+  &:before {
+    content: $tumblr;     
+    color: #36465d;
+  }
+}
+.youtube .path1 {
+  &:before {
+    content: $youtube-path1;  
+    color: rgb(255, 0, 0);
+  }
+}
+.youtube .path2 {
+  &:before {
+    content: $youtube-path2;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tripadvisor {
+  &:before {
+    content: $tripadvisor;     
+    color: #08808a;
+  }
+}
+.google .path1 {
+  &:before {
+    content: $google-path1;  
+    color: rgb(1, 125, 187);
+  }
+}
+.google .path2 {
+  &:before {
+    content: $google-path2;  
+    margin-left: -1em;  
+    color: rgb(22, 182, 90);
+  }
+}
+.google .path3 {
+  &:before {
+    content: $google-path3;  
+    margin-left: -1em;  
+    color: rgb(43, 128, 247);
+  }
+}
+.google .path4 {
+  &:before {
+    content: $google-path4;  
+    margin-left: -1em;  
+    color: rgb(254, 186, 17);
+  }
+}
+.twitter-bird1 {
+  &:before {
+    content: $twitter-bird1;     
+    color: #00afef;
+  }
+}
+.whatsapp {
+  &:before {
+    content: $whatsapp;     
+    color: #00a859;
+  }
+}
+.facebook-azul-letra .path1 {
+  &:before {
+    content: $facebook-azul-letra-path1;  
+    color: rgb(132, 134, 136);
+  }
+}
+.facebook-azul-letra .path2 {
+  &:before {
+    content: $facebook-azul-letra-path2;  
+    margin-left: -1em;  
+    color: rgb(132, 134, 136);
+  }
+}
+.facebook-azul-letra .path3 {
+  &:before {
+    content: $facebook-azul-letra-path3;  
+    margin-left: -1em;  
+    color: rgb(132, 134, 136);
+  }
+}
+.facebook-azul-letra .path4 {
+  &:before {
+    content: $facebook-azul-letra-path4;  
+    margin-left: -1em;  
+    color: rgb(62, 64, 149);
+  }
+}
+.gmail {
+  &:before {
+    content: $gmail;     
+    color: #d14836;
+  }
+}
+.tumbrl {
+  &:before {
+    content: $tumbrl; 
+  }
+}
+.intagram-camera {
+  &:before {
+    content: $intagram-camera;     
+    color: #aa1018;
+  }
+}
+.pinterest {
+  &:before {
+    content: $pinterest;     
+    color: #bd081c;
+  }
+}
+.send {
+  &:before {
+    content: $send;     
+    color: #e6e7e8;
+  }
+}
+.codepen2 {
+  &:before {
+    content: $codepen2; 
+  }
+}
+.repliit {
+  &:before {
+    content: $repliit; 
+  }
+}
+.codesandbox .path1 {
+  &:before {
+    content: $codesandbox-path1;  
+    color: rgb(55, 52, 53);
+  }
+}
+.codesandbox .path2 {
+  &:before {
+    content: $codesandbox-path2;  
+    margin-left: -1em;  
+    color: rgb(24, 24, 24);
+  }
+}
+.w3spaces {
+  &:before {
+    content: $w3spaces;     
+    color: #04a96c;
+  }
+}
+.hi5 .path1 {
+  &:before {
+    content: $hi5-path1;  
+    color: rgb(165, 170, 170);
+  }
+}
+.hi5 .path2 {
+  &:before {
+    content: $hi5-path2;  
+    margin-left: -1em;  
+    color: rgb(165, 170, 170);
+  }
+}
+.hi5 .path3 {
+  &:before {
+    content: $hi5-path3;  
+    margin-left: -1em;  
+    color: rgb(165, 170, 170);
+  }
+}
+.hi5 .path4 {
+  &:before {
+    content: $hi5-path4;  
+    margin-left: -1em;  
+    color: rgb(254, 254, 254);
+  }
+}
+.hi5 .path5 {
+  &:before {
+    content: $hi5-path5;  
+    margin-left: -1em;  
+    color: rgb(254, 254, 254);
+  }
+}
+.hi5 .path6 {
+  &:before {
+    content: $hi5-path6;  
+    margin-left: -1em;  
+    color: rgb(254, 254, 254);
+  }
+}
+.hi5 .path7 {
+  &:before {
+    content: $hi5-path7;  
+    margin-left: -1em;  
+    color: rgb(51, 62, 64);
+  }
+}
+.hi5 .path8 {
+  &:before {
+    content: $hi5-path8;  
+    margin-left: -1em;  
+    color: rgb(254, 148, 20);
+  }
+}
+.hi5 .path9 {
+  &:before {
+    content: $hi5-path9;  
+    margin-left: -1em;  
+    color: rgb(132, 139, 140);
+  }
+}
+.hhm {
+  &:before {
+    content: $hhm;     
+    color: #b00a8c;
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path1 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path1;  
+    color: rgb(238, 40, 67);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path2 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path2;  
+    margin-left: -1em;  
+    color: rgb(252, 138, 28);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path3 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path3;  
+    margin-left: -1em;  
+    color: rgb(252, 138, 28);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path4 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path4;  
+    margin-left: -1em;  
+    color: rgb(1, 142, 64);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path5 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path5;  
+    margin-left: -1em;  
+    color: rgb(1, 142, 64);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path6 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path6;  
+    margin-left: -1em;  
+    color: rgb(1, 142, 64);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path7 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path7;  
+    margin-left: -1em;  
+    color: rgb(1, 142, 64);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path8 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path8;  
+    margin-left: -1em;  
+    color: rgb(62, 64, 149);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path9 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path9;  
+    margin-left: -1em;  
+    color: rgb(5, 85, 150);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path10 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path10;  
+    margin-left: -1em;  
+    color: rgb(5, 85, 150);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path11 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path11;  
+    margin-left: -1em;  
+    color: rgb(62, 64, 149);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path12 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path12;  
+    margin-left: -1em;  
+    color: rgb(254, 240, 19);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path13 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path13;  
+    margin-left: -1em;  
+    color: rgb(254, 240, 19);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path14 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path14;  
+    margin-left: -1em;  
+    color: rgb(254, 240, 19);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path15 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path15;  
+    margin-left: -1em;  
+    color: rgb(122, 39, 116);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path16 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path16;  
+    margin-left: -1em;  
+    color: rgb(122, 39, 116);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path17 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path17;  
+    margin-left: -1em;  
+    color: rgb(122, 39, 116);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path18 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path18;  
+    margin-left: -1em;  
+    color: rgb(122, 39, 116);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path19 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path19;  
+    margin-left: -1em;  
+    color: rgb(254, 137, 24);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path20 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path20;  
+    margin-left: -1em;  
+    color: rgb(254, 137, 24);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path21 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path21;  
+    margin-left: -1em;  
+    color: rgb(234, 44, 17);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path22 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path22;  
+    margin-left: -1em;  
+    color: rgb(5, 141, 65);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path23 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path23;  
+    margin-left: -1em;  
+    color: rgb(1, 86, 153);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path24 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path24;  
+    margin-left: -1em;  
+    color: rgb(1, 86, 150);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path25 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path25;  
+    margin-left: -1em;  
+    color: rgb(245, 138, 25);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path26 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path26;  
+    margin-left: -1em;  
+    color: rgb(5, 85, 153);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path27 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path27;  
+    margin-left: -1em;  
+    color: rgb(5, 85, 150);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path28 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path28;  
+    margin-left: -1em;  
+    color: rgb(62, 64, 149);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path29 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path29;  
+    margin-left: -1em;  
+    color: rgb(99, 40, 91);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path30 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path30;  
+    margin-left: -1em;  
+    color: rgb(62, 64, 149);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path31 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path31;  
+    margin-left: -1em;  
+    color: rgb(234, 140, 48);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path32 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path32;  
+    margin-left: -1em;  
+    color: rgb(216, 134, 56);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path33 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path33;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path34 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path34;  
+    margin-left: -1em;  
+    color: rgb(254, 254, 254);
+  }
+}
+.logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path35 {
+  &:before {
+    content: $logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color-path35;  
+    margin-left: -1em;  
+    color: rgb(254, 240, 19);
+  }
+}
+.cursor-hand {
+  &:before {
+    content: $cursor-hand; 
+  }
+}
+.hospedaje {
+  &:before {
+    content: $hospedaje; 
+  }
+}
+.codepen {
+  &:before {
+    content: $codepen; 
+  }
+}
+.repliit1 {
+  &:before {
+    content: $repliit1; 
+  }
+}
+.github-logo {
+  &:before {
+    content: $github-logo; 
+  }
+}
+.github {
+  &:before {
+    content: $github; 
+  }
+}
+.w3spaces1 {
+  &:before {
+    content: $w3spaces1;     
+    color: #04a96c;
+  }
+}
+.www {
+  &:before {
+    content: $www;     
+    color: #aa1018;
+  }
+}
+.twitter-bird {
+  &:before {
+    content: $twitter-bird;     
+    color: #00afef;
+  }
+}
+.flecha-atras {
+  &:before {
+    content: $flecha-atras; 
+  }
+}
+.flecha-siguiente {
+  &:before {
+    content: $flecha-siguiente; 
+  }
+}
+.touch_app {
+  &:before {
+    content: $touch_app; 
+  }
+}
+.tarjeta-de-regalo {
+  &:before {
+    content: $tarjeta-de-regalo; 
+  }
+}
+.home {
+  &:before {
+    content: $home; 
+  }
+}
+
