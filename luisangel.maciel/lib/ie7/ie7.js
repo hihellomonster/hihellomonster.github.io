@@ -13,6 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'luisangelmaciel\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'icon-github-d': '&#xe902;',
+		'icon-github-g': '&#xe903;',
+		'icon-github-x': '&#xe904;',
 		'icon-github': '&#xe900;',
 		'icon-hhm': '&#xe901;',
 		'icon-ico-codepen': '&#xe92a;',

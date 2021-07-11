@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'luisangelmaciel';
-  src:  url('fonts/luisangelmaciel.eot?lyf4y5');
-  src:  url('fonts/luisangelmaciel.eot?lyf4y5#iefix') format('embedded-opentype'),
-    url('fonts/luisangelmaciel.ttf?lyf4y5') format('truetype'),
-    url('fonts/luisangelmaciel.woff?lyf4y5') format('woff'),
-    url('fonts/luisangelmaciel.svg?lyf4y5#luisangelmaciel') format('svg');
+  src:  url('fonts/luisangelmaciel.eot?xa2boi');
+  src:  url('fonts/luisangelmaciel.eot?xa2boi#iefix') format('embedded-opentype'),
+    url('fonts/luisangelmaciel.ttf?xa2boi') format('truetype'),
+    url('fonts/luisangelmaciel.woff?xa2boi') format('woff'),
+    url('fonts/luisangelmaciel.svg?xa2boi#luisangelmaciel') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,15 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-github-d:before {
+  content: "\e902";
+}
+.icon-github-g:before {
+  content: "\e903";
+}
+.icon-github-x:before {
+  content: "\e904";
+}
 .icon-github:before {
   content: "\e900";
 }
