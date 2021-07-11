@@ -1,3 +1,15 @@
+.icon-ico-codepen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.icon-ico-codesandbox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92f;');
+}
+.icon-ico-replit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe930;');
+}
+.icon-w3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe931;');
+}
 .icon-avatar-hihello {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec41;');
 }
@@ -82,9 +94,6 @@
 .icon-send {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;');
 }
-.icon-codepen2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf659;');
-}
 .icon-repliit {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65a;');
 }
@@ -100,6 +109,9 @@
 .icon-hhm {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea54;');
 }
+.icon-xiib {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0b5;');
+}
 .icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf344;');
 }
@@ -112,17 +124,11 @@
 .icon-codepen {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf657;');
 }
-.icon-repliit1 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf66f;');
-}
 .icon-github-logo {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf671;');
 }
 .icon-github {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65c;');
-}
-.icon-w3spaces1 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf672;');
 }
 .icon-www {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf65f;');
@@ -135,6 +141,9 @@
 }
 .icon-flecha-siguiente {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0a9;');
+}
+.icon-etiquetas-codigo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09f;');
 }
 .icon-touch_app {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf56b;');

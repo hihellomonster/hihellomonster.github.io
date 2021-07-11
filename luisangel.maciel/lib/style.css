@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'luisangelmaciel';
-  src:  url('fonts/luisangelmaciel.eot?jxfnl2');
-  src:  url('fonts/luisangelmaciel.eot?jxfnl2#iefix') format('embedded-opentype'),
-    url('fonts/luisangelmaciel.ttf?jxfnl2') format('truetype'),
-    url('fonts/luisangelmaciel.woff?jxfnl2') format('woff'),
-    url('fonts/luisangelmaciel.svg?jxfnl2#luisangelmaciel') format('svg');
+  src:  url('fonts/luisangelmaciel.eot?lfd74s');
+  src:  url('fonts/luisangelmaciel.eot?lfd74s#iefix') format('embedded-opentype'),
+    url('fonts/luisangelmaciel.ttf?lfd74s') format('truetype'),
+    url('fonts/luisangelmaciel.woff?lfd74s') format('woff'),
+    url('fonts/luisangelmaciel.svg?lfd74s#luisangelmaciel') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,19 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ico-codepen:before {
+  content: "\e92a";
+}
+.icon-ico-codesandbox:before {
+  content: "\e92f";
+}
+.icon-ico-replit:before {
+  content: "\e930";
+}
+.icon-w3:before {
+  content: "\e931";
+  color: #04a96c;
+}
 .icon-avatar-hihello:before {
   content: "\ec41";
 }
@@ -313,9 +326,6 @@ i {
   content: "\e92e";
   color: #e6e7e8;
 }
-.icon-codepen2:before {
-  content: "\f659";
-}
 .icon-repliit:before {
   content: "\f65a";
 }
@@ -379,6 +389,9 @@ i {
 .icon-hhm:before {
   content: "\ea54";
   color: #b00a8c;
+}
+.icon-xiib:before {
+  content: "\f0b5";
 }
 .icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path1:before {
   content: "\f344";
@@ -563,18 +576,11 @@ i {
 .icon-codepen:before {
   content: "\f657";
 }
-.icon-repliit1:before {
-  content: "\f66f";
-}
 .icon-github-logo:before {
   content: "\f671";
 }
 .icon-github:before {
   content: "\f65c";
-}
-.icon-w3spaces1:before {
-  content: "\f672";
-  color: #04a96c;
 }
 .icon-www:before {
   content: "\f65f";
@@ -589,6 +595,9 @@ i {
 }
 .icon-flecha-siguiente:before {
   content: "\f0a9";
+}
+.icon-etiquetas-codigo:before {
+  content: "\f09f";
 }
 .icon-touch_app:before {
   content: "\f56b";
