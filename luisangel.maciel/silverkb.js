@@ -1,6 +1,22 @@
 var myObject = {
     "hiHelloMaciel": [{
         "img-src": "ico.png",
+        "fecha-De-Publicacion": "11 julio 2021",
+        "a-href": "https://hihello.monster/how-to/responsive-gallery ",
+        "a-href-tittle": "Responsive Image Gallery con jQuery Lightbox",
+        "how-to-tittle": "Responsive Image Gallery con jQuery Lightbox",
+        "el-Post": "Responsive Image Gallery con jQuery Lightbox",
+        "accion": "Ver ejemplo",
+        "postFoto1": "https://www.xiiber.com/img/photo-preview-01.png",
+        "altPostFoto1": "Alt Post Foto 1",
+        "postFoto2": "https://www.xiiber.com/img/photo-preview-02.png",
+        "altPostFoto2": "Alt Post Foto 2",
+        "postFoto3": "https://www.xiiber.com/img/photo-preview-03.png",
+        "altPostFoto3": "Alt Post Foto 3",
+        "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
+        "altPostFoto4": "Alt Post Foto 4",
+    }, {
+        "img-src": "ico.png",
         "fecha-De-Publicacion": "14-agosto-2021",
         "a-href": "https://hihello.monster/how-to/Tab-Pure-CSS/ ",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -16,7 +32,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "ico.png  ",
         "fecha-De-Publicacion": "14-agosto-2021",
         "a-href": "https://hihello.monster/how-to/Tab-Pure-CSS/ ",
         "a-href-tittle": "Tab-Pure-CSS",
