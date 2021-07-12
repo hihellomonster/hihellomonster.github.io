@@ -1,12 +1,11 @@
 var myObject = {
     "hiHelloMaciel": [{
-        "img-src": "ico.png",
-        "fecha-De-Publicacion": "11 julio 2021",
-        "a-href": "https://hihello.monster/how-to/responsive-gallery ",
-        "a-href-tittle": "Responsive Image Gallery con jQuery Lightbox",
-        "how-to-tittle": "Responsive Image Gallery con jQuery Lightbox",
-        "el-Post": "Responsive Image Gallery con jQuery Lightbox",
-        "accion": "Ver ejemplo",
+        "img-src": "hhm.png",
+        "fecha-De-Publicacion": "20 de junio 2021",
+        "a-href": "https://hihello.monster/how-to/css-image-modal.html",
+        "a-href-tittle": "Tab-Pure-CSS",
+        "el-Post": "Debo llevar más control sobre cada formato. Tengo que si el de Xiiber, que si el de Marthech, que si el personal. <br>En general fue un día pesado pero con buenos resultados.<br><br> <strong>El mode multicolor </strong> quedo ok, <b>el scroll, listo</b>, pero se reptio el templete de <i>viajes</i>. Estuve aprendiendo a sacarle provecho al Studio. Le pude poner link a una imagen. La lección más importante del día es... <br><br>hazlo y no busques templetes, más recisa bien los apuntes o instrucciones de la W3 y/o Mozilla. Todo por no hacer eso, he tenido que trabajar al doble y perder tiempo extra buscando. Que esta bien, pero ya demore mucho. <br><br>El mismo día hice dos versiones, una con una base URL y la segunda solo utilizando exclusivamente el W3.JS. Hice el primer example dedicado a la misma herramienta que me esta encantado",
+        "accion": "Ver",
         "postFoto1": "https://www.xiiber.com/img/photo-preview-01.png",
         "altPostFoto1": "Alt Post Foto 1",
         "postFoto2": "https://www.xiiber.com/img/photo-preview-02.png",
@@ -16,7 +15,22 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
+        "fecha-De-Publicacion": "19 de junio 2021",
+        "a-href": "https://hihello.monster/how-to/css-image-modal.html",
+        "a-href-tittle": "Tab-Pure-CSS",
+        "el-Post": "Para crear esta primera instancia, utilice w3.js como base para programar. Referente al diseño, el style se integro en cada instruccion, esto opr que w3.js jala con todo su style al proyecto principal. <br><br> La base de datos esta integrada en el mismo archivo que tambien incluye una instrución para personalizar las URL y estas puedan ayudar a generar más rapido un Mapa de sitios y enlaces de información por entrada en el sitio. <br><br>  <b>Quede muy contento con el resultado </b>y la lección de este día fue: guardar una copia de los js y css para no sufrir como sufri.Resulta que la pagina de la w3 no estaba linea!!!!!cuando estaba corriendo la penultima prueba, jalaba todo super bien, le hice un ajuste y zas,   cuando vuelvo actualizar resulta que el.js salia con errores por que no encontraba el servidor. <br><br> Me paso por la cabeza mil cosas, valide la información en una pagina, dos paginas, un navegador, en el celular y hasta  reinicie la computadora. <br>  <br> Pero ya quedo la lección aprendida",
+        "accion": "Ver ",
+        "postFoto1": "https://www.xiiber.com/img/photo-preview-01.png",
+        "altPostFoto1": "Alt Post Foto 1",
+        "postFoto2": "https://www.xiiber.com/img/photo-preview-02.png",
+        "altPostFoto2": "Alt Post Foto 2",
+        "postFoto3": "https://www.xiiber.com/img/photo-preview-03.png",
+        "altPostFoto3": "Alt Post Foto 3",
+        "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
+        "altPostFoto4": "Alt Post Foto 4",
+    }, {
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "14-agosto-2021",
         "a-href": "https://hihello.monster/how-to/Tab-Pure-CSS/ ",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -32,7 +46,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png  ",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "14-agosto-2021",
         "a-href": "https://hihello.monster/how-to/Tab-Pure-CSS/ ",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -49,7 +63,7 @@ var myObject = {
         "altPostFoto4": "Alt Post Foto 4",
 
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "16-agosto-2021",
         "a-href": "https://hihello.monster/how-to/responsive-typography-generator/",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -65,12 +79,12 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "16-agosto-2021",
         "a-href": "https://hihello.monster/how-to/simple-blog-concept-pure-modal-tab-icon-efect-css/",
         "a-href-tittle": "Tab-Pure-CSS",
         "how-to-tittle": "Simple-blog-concept-pure-modal-tab-icon-efect-css",
-        "el-Post": "Simple blog concept pure modal tab icon efefect css",
+        "el-Post": "Hice tal cosa",
         "accion": "Descargar",
         "postFoto1": "",
         "altPostFoto1": "",
@@ -81,7 +95,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "16-agosto-2021",
         "a-href": "https://hihello.monster/how-to/DateTime.html ",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -97,7 +111,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "16-agosto-2021",
         "a-href": "https://hihello.monster/how-to/Expanding-Menu-Concept.html",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -113,7 +127,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "15-agosto-2021",
         "a-href": "https://hihello.monster/how-to/Lightbox+Horizontal_Scrollable_menu.html",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -129,7 +143,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "16-agosto-2021",
         "a-href": "https://hihello.monster/how-to/modal-CSS.html",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -145,7 +159,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "16-agosto-2021",
         "a-href": "https://hihello.monster/how-to/simpleModal.html",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -161,7 +175,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "5-julio-2021",
         "a-href": "https://hihello.monster/how-to/i/style.css",
         "a-href-tittle": "Iconos para ilustrar los ejemplos How-to",
@@ -177,7 +191,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "8 de julio",
         "a-href": "https: //hihello.monster/how-to/mapa-de-sitio.html",
         "a-href-tittle": "Mapa de sitio",
@@ -193,7 +207,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "8 julio 2021",
         "a-href": "https: //hihello.monster/how-to/cambio_de_texto.html",
         "a-href-tittle": "Cambio de texto",
@@ -209,7 +223,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/tab-in-tab.html",
         "a-href-tittle": "Tab-Pure-CSS",
@@ -225,7 +239,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "10 julio 2021",
         "a-href": "https://hihello.monster/how-to/popup-window-opener-location-href-document-location",
         "a-href-tittle": "Popup-window-opener-location-href-document-location",
@@ -241,7 +255,7 @@ var myObject = {
         "postFoto4": "https://www.xiiber.com/img/photo-preview-00.png",
         "altPostFoto4": "Alt Post Foto 4",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "8 julio 2021",
         "a-href": "https://hihello.monster/how-to/twitter-follow-boton-door ",
         "a-href-tittle": "twitter-follow-boton",
@@ -257,7 +271,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/twitter-follow-boton-de-colors",
         "a-href-tittle": "Twitter Follow boton de colores",
@@ -273,7 +287,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, , {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/twitter-follow-boton-logo.html",
         "a-href-tittle": "Twitter Follow boton de colores",
@@ -289,7 +303,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "Star-wars-himno-nacional-mexicano",
         "a-href": "https://hihello.monster/how-to/star-wars-himno-nacional-mexicano",
         "a-href-tittle": "Starwars-himno-nacional-mexicano",
@@ -305,7 +319,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "",
         "a-href": "https://hihello.monster/how-to/bio",
         "a-href-tittle": "Encabezado de un perfil de social media",
@@ -321,7 +335,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "",
         "a-href": "https://hihello.monster/how-to/ficha-de-producto.html",
         "a-href-tittle": "ficha-de-producto.html",
@@ -337,7 +351,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/loader-travel/",
         "a-href-tittle": "Loader Travel",
@@ -353,7 +367,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "xiiber.png",
         "fecha-De-Publicacion": "",
         "a-href": "https://xiiberpage.github.io/cgtravel/",
         "a-href-tittle": "Linktr.ee",
@@ -369,7 +383,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "8 julio 2021",
         "a-href": "https://hihellomonster.github.io/dragvesti/Linktr.ee",
         "a-href-tittle": "Linktr.ee Dragvesti",
@@ -385,7 +399,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "",
         "a-href": "https://hihello.monster/quiz",
         "a-href-tittle": "ficha-de-producto.html",
@@ -401,7 +415,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/loader-travel/",
         "a-href-tittle": "Linktr.ee Dragvesti",
@@ -417,7 +431,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/descuento/ ",
         "a-href-tittle": "Descuento",
@@ -433,7 +447,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/boton-modal-flotante.html",
         "a-href-tittle": "Descuento",
@@ -449,7 +463,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/envialov",
         "a-href-tittle": "Envialov",
@@ -465,7 +479,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/code-tab-in-tab.html",
         "a-href-tittle": "code-tab-in-tab",
@@ -481,7 +495,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/hamburguesas.html",
         "a-href-tittle": "",
@@ -497,7 +511,7 @@ var myObject = {
         "altPostFoto3": "",
         "postFoto4": "",
         "altPostFoto4": "",
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/cat",
         "a-href-tittle": "",
@@ -513,7 +527,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/ScrollDownHorizontalScrollableMenu.html",
         "a-href-tittle": "",
@@ -529,7 +543,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/css-image-modal.html",
         "a-href-tittle": "",
@@ -545,7 +559,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "9 julio 2021",
         "a-href": "https://hihello.monster/how-to/css-GalleryResponsive-ImageModal.html",
         "a-href-tittle": "",
@@ -561,7 +575,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "10 julio 2021",
         "a-href": "https://hihello.monster/seccion.rosa",
         "a-href-tittle": "seccion.rosa",
@@ -577,7 +591,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "10 julio 2021",
         "a-href": "https://hihello.monster/how-to/css_dropdown_card.html",
         "a-href-tittle": "css_dropdown_card",
@@ -593,7 +607,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "10 julio 2021",
         "a-href": "https://hihello.monster/how-to/Boton-flotante-draggable-en-JavaScript",
         "a-href-tittle": "Boton-flotante-draggable-en-JavaScript",
@@ -609,7 +623,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "dragvesti.png",
         "fecha-De-Publicacion": "10 julio 2021",
         "a-href": "https://hihello.monster/how-to/summary.html",
         "a-href-tittle": "summary",
@@ -625,7 +639,7 @@ var myObject = {
         "postFoto4": "",
         "altPostFoto4": "",
     }, {
-        "img-src": "ico.png",
+        "img-src": "hhm.png",
         "fecha-De-Publicacion": "11 julio 2021",
         "a-href": "https://hihello.monster/raw/true/silverkb.html",
         "a-href-tittle": "Silverkb",
@@ -645,4 +659,4 @@ var myObject = {
     }]
 };
 
-hi.displayObject("Activity", myObject);
+w3.displayObject("Activity", myObject);
