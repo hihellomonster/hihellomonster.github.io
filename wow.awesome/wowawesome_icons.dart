@@ -64,7 +64,7 @@ class Wowawesome {
   static const IconData emoji_molesto = IconData(0xe93e, fontFamily: _fontFamily);
   static const IconData emoji_positivo = IconData(0xe93f, fontFamily: _fontFamily);
   static const IconData dick_vector = IconData(0xe940, fontFamily: _fontFamily);
-  static const IconData h = IconData(0xe906, fontFamily: _fontFamily);
+  static const IconData love = IconData(0xe906, fontFamily: _fontFamily);
   static const IconData logo_viajemos_todxs_por_mexico_turismo_gay_turismo_rosa_color = IconData(0xf344, fontFamily: _fontFamily);
   static const IconData corazones_love = IconData(0xf509, fontFamily: _fontFamily);
   static const IconData pregunta = IconData(0xf50a, fontFamily: _fontFamily);
@@ -96,10 +96,10 @@ class Wowawesome {
   static const IconData avatar_hombre = IconData(0xea46, fontFamily: _fontFamily);
   static const IconData drag_rupaul = IconData(0xea47, fontFamily: _fontFamily);
   static const IconData regresar = IconData(0xed14, fontFamily: _fontFamily);
-  static const IconData l = IconData(0xea48, fontFamily: _fontFamily);
+  static const IconData moon = IconData(0xea48, fontFamily: _fontFamily);
   static const IconData luna_one = IconData(0xea49, fontFamily: _fontFamily);
   static const IconData sol_one = IconData(0xea4a, fontFamily: _fontFamily);
-  static const IconData m = IconData(0xea4b, fontFamily: _fontFamily);
+  static const IconData sun = IconData(0xea4b, fontFamily: _fontFamily);
   static const IconData pacman = IconData(0xea4c, fontFamily: _fontFamily);
   static const IconData corazon = IconData(0xea4d, fontFamily: _fontFamily);
   static const IconData logo_dragvesti = IconData(0xf257, fontFamily: _fontFamily);

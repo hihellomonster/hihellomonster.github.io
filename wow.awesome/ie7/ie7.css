@@ -154,7 +154,7 @@
 .icon-dick-vector {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe940;');
 }
-.icon-h {
+.icon-love {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
 }
 .icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color {
@@ -250,7 +250,7 @@
 .icon-regresar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed14;');
 }
-.icon-l {
+.icon-moon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea48;');
 }
 .icon-luna-one {
@@ -259,7 +259,7 @@
 .icon-sol-one {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4a;');
 }
-.icon-m {
+.icon-sun {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4b;');
 }
 .icon-pacman {

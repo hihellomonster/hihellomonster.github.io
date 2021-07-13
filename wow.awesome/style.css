@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'wowawesome';
-  src:  url('fonts/wowawesome.eot?ce3cmw');
-  src:  url('fonts/wowawesome.eot?ce3cmw#iefix') format('embedded-opentype'),
-    url('fonts/wowawesome.ttf?ce3cmw') format('truetype'),
-    url('fonts/wowawesome.woff?ce3cmw') format('woff'),
-    url('fonts/wowawesome.svg?ce3cmw#wowawesome') format('svg');
+  src:  url('fonts/wowawesome.eot?oky3mm');
+  src:  url('fonts/wowawesome.eot?oky3mm#iefix') format('embedded-opentype'),
+    url('fonts/wowawesome.ttf?oky3mm') format('truetype'),
+    url('fonts/wowawesome.woff?oky3mm') format('woff'),
+    url('fonts/wowawesome.svg?oky3mm#wowawesome') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -33,7 +33,6 @@ i {
 }
 .icon-corazon-rayado:before {
   content: "\e948";
-  color: #ed3237;
 }
 .icon-pantalla-de-monitor:before {
   content: "\e949";
@@ -467,7 +466,7 @@ i {
   margin-left: -1em;
   color: rgb(4, 4, 4);
 }
-.icon-h:before {
+.icon-love:before {
   content: "\e906";
 }
 .icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path1:before {
@@ -843,7 +842,7 @@ i {
   margin-left: -1em;
   color: rgb(116, 116, 116);
 }
-.icon-l:before {
+.icon-moon:before {
   content: "\ea48";
 }
 .icon-luna-one:before {
@@ -852,7 +851,7 @@ i {
 .icon-sol-one:before {
   content: "\ea4a";
 }
-.icon-m:before {
+.icon-sun:before {
   content: "\ea4b";
 }
 .icon-pacman:before {

@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ce3cmw');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ce3cmw#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ce3cmw') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ce3cmw') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ce3cmw##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?oky3mm');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?oky3mm#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?oky3mm') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?oky3mm') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?oky3mm##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -39,8 +39,7 @@ i {
 }
 .icon-corazon-rayado {
   &:before {
-    content: $icon-corazon-rayado;     
-    color: #ed3237;
+    content: $icon-corazon-rayado; 
   }
 }
 .icon-pantalla-de-monitor {
@@ -675,9 +674,9 @@ i {
     color: rgb(4, 4, 4);
   }
 }
-.icon-h {
+.icon-love {
   &:before {
-    content: $icon-h; 
+    content: $icon-love; 
   }
 }
 .icon-logo-viajemos-todxs-por-mexico-turismo-gay-turismo-rosa-color .path1 {
@@ -1223,9 +1222,9 @@ i {
     color: rgb(116, 116, 116);
   }
 }
-.icon-l {
+.icon-moon {
   &:before {
-    content: $icon-l; 
+    content: $icon-moon; 
   }
 }
 .icon-luna-one {
@@ -1238,9 +1237,9 @@ i {
     content: $icon-sol-one; 
   }
 }
-.icon-m {
+.icon-sun {
   &:before {
-    content: $icon-m; 
+    content: $icon-sun; 
   }
 }
 .icon-pacman {
