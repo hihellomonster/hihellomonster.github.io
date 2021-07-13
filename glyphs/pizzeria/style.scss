@@ -1,0 +1,840 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?r852vj');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?r852vj#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?r852vj') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?r852vj') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?r852vj##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pizzeriaiconografia-pizzeria .path1 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path1;  
+    color: rgb(168, 109, 95);
+  }
+}
+.pizzeriaiconografia-pizzeria .path2 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path2;  
+    margin-left: -1.515625em;  
+    color: rgb(168, 109, 95);
+  }
+}
+.pizzeriaiconografia-pizzeria .path3 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path3;  
+    margin-left: -1.515625em;  
+    color: rgb(193, 151, 128);
+  }
+}
+.pizzeriaiconografia-pizzeria .path4 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path4;  
+    margin-left: -1.515625em;  
+    color: rgb(193, 151, 128);
+  }
+}
+.pizzeriaiconografia-pizzeria .path5 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path5;  
+    margin-left: -1.515625em;  
+    color: rgb(193, 151, 128);
+  }
+}
+.pizzeriaiconografia-pizzeria .path6 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path6;  
+    margin-left: -1.515625em;  
+    color: rgb(254, 254, 205);
+  }
+}
+.pizzeriaiconografia-pizzeria .path7 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path7;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path8 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path8;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path9 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path9;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path10 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path10;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path11 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path11;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path12 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path12;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path13 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path13;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path14 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path14;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path15 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path15;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path16 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path16;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path17 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path17;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path18 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path18;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path19 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path19;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path20 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path20;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path21 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path21;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path22 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path22;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path23 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path23;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path24 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path24;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path25 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path25;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path26 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path26;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path27 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path27;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path28 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path28;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path29 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path29;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path30 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path30;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path31 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path31;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path32 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path32;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path33 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path33;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path34 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path34;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path35 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path35;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path36 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path36;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path37 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path37;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path38 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path38;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path39 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path39;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path40 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path40;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path41 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path41;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path42 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path42;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path43 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path43;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path44 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path44;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path45 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path45;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path46 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path46;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path47 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path47;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path48 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path48;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path49 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path49;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path50 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path50;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path51 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path51;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path52 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path52;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path53 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path53;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path54 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path54;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path55 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path55;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path56 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path56;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path57 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path57;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path58 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path58;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path59 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path59;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path60 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path60;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path61 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path61;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path62 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path62;  
+    margin-left: -1.515625em;  
+    color: rgb(162, 98, 86);
+  }
+}
+.pizzeriaiconografia-pizzeria .path63 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path63;  
+    margin-left: -1.515625em;  
+    color: rgb(254, 254, 205);
+  }
+}
+.pizzeriaiconografia-pizzeria .path64 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path64;  
+    margin-left: -1.515625em;  
+    color: rgb(254, 254, 205);
+  }
+}
+.pizzeriaiconografia-pizzeria .path65 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path65;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria .path66 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-path66;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-caja-de-pizza {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-caja-de-pizza;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-de-pizza {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-de-pizza;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-masa-de-pizza {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-masa-de-pizza;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-me-gusta {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-me-gusta;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path1 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path1;  
+    color: rgb(193, 151, 128);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path2 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path2;  
+    margin-left: -1.515625em;  
+    color: rgb(193, 151, 128);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path3 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path3;  
+    margin-left: -1.515625em;  
+    color: rgb(193, 151, 128);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path4 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path4;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path5 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path5;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path6 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path6;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path7 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path7;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path8 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path8;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path9 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path9;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path10 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path10;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path11 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path11;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path12 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path12;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path13 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path13;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path14 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path14;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path15 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path15;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path16 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path16;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path17 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path17;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path18 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path18;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path19 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path19;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path20 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path20;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path21 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pago-con-terminal-path21;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pala {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pala;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-pedidos-a-domicilio {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pedidos-a-domicilio;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path1 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path1;  
+    color: rgb(168, 109, 95);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path2 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path2;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path3 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path3;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path4 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path4;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path5 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path5;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path6 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path6;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path7 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path7;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path8 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path8;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path9 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path9;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path10 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path10;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza .path11 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-path11;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-pizza-al-horno {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-pizza-al-horno;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path1 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-preparando-pizza-path1;  
+    color: rgb(162, 98, 86);
+  }
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path2 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-preparando-pizza-path2;  
+    margin-left: -1.515625em;  
+    color: rgb(254, 254, 205);
+  }
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path3 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-preparando-pizza-path3;  
+    margin-left: -1.515625em;  
+    color: rgb(254, 254, 205);
+  }
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path4 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-preparando-pizza-path4;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path5 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-preparando-pizza-path5;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-queso {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-queso;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-rebanadora .path1 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-rebanadora-path1;  
+    color: rgb(254, 254, 205);
+  }
+}
+.pizzeriaiconografia-pizzeria-rebanadora .path2 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-rebanadora-path2;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-rebanadora .path3 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-rebanadora-path3;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-rodillo .path1 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-rodillo-path1;  
+    color: rgb(168, 109, 95);
+  }
+}
+.pizzeriaiconografia-pizzeria-rodillo .path2 {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-rodillo-path2;  
+    margin-left: -1.515625em;  
+    color: rgb(136, 54, 54);
+  }
+}
+.pizzeriaiconografia-pizzeria-salsa-de-tomate {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-salsa-de-tomate;     
+    color: #883636;
+  }
+}
+.pizzeriaiconografia-pizzeria-tomate {
+  &:before {
+    content: $pizzeriaiconografia-pizzeria-tomate;     
+    color: #883636;
+  }
+}
+

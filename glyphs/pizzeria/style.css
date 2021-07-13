@@ -1,0 +1,601 @@
+@font-face {
+  font-family: 'pizzeria';
+  src:  url('fonts/pizzeria.eot?r852vj');
+  src:  url('fonts/pizzeria.eot?r852vj#iefix') format('embedded-opentype'),
+    url('fonts/pizzeria.ttf?r852vj') format('truetype'),
+    url('fonts/pizzeria.woff?r852vj') format('woff'),
+    url('fonts/pizzeria.svg?r852vj#pizzeria') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'pizzeria' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pizzeriaiconografia-pizzeria .path1:before {
+  content: "\e900";
+  color: rgb(168, 109, 95);
+}
+.pizzeriaiconografia-pizzeria .path2:before {
+  content: "\e901";
+  margin-left: -1.515625em;
+  color: rgb(168, 109, 95);
+}
+.pizzeriaiconografia-pizzeria .path3:before {
+  content: "\e902";
+  margin-left: -1.515625em;
+  color: rgb(193, 151, 128);
+}
+.pizzeriaiconografia-pizzeria .path4:before {
+  content: "\e903";
+  margin-left: -1.515625em;
+  color: rgb(193, 151, 128);
+}
+.pizzeriaiconografia-pizzeria .path5:before {
+  content: "\e904";
+  margin-left: -1.515625em;
+  color: rgb(193, 151, 128);
+}
+.pizzeriaiconografia-pizzeria .path6:before {
+  content: "\e905";
+  margin-left: -1.515625em;
+  color: rgb(254, 254, 205);
+}
+.pizzeriaiconografia-pizzeria .path7:before {
+  content: "\e906";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path8:before {
+  content: "\e907";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path9:before {
+  content: "\e908";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path10:before {
+  content: "\e909";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path11:before {
+  content: "\e90a";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path12:before {
+  content: "\e90b";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path13:before {
+  content: "\e90c";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path14:before {
+  content: "\e90d";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path15:before {
+  content: "\e90e";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path16:before {
+  content: "\e90f";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path17:before {
+  content: "\e910";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path18:before {
+  content: "\e911";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path19:before {
+  content: "\e912";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path20:before {
+  content: "\e913";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path21:before {
+  content: "\e914";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path22:before {
+  content: "\e915";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path23:before {
+  content: "\e916";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path24:before {
+  content: "\e917";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path25:before {
+  content: "\e918";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path26:before {
+  content: "\e919";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path27:before {
+  content: "\e91a";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path28:before {
+  content: "\e91b";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path29:before {
+  content: "\e91c";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path30:before {
+  content: "\e91d";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path31:before {
+  content: "\e91e";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path32:before {
+  content: "\e91f";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path33:before {
+  content: "\e920";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path34:before {
+  content: "\e921";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path35:before {
+  content: "\e922";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path36:before {
+  content: "\e923";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path37:before {
+  content: "\e924";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path38:before {
+  content: "\e925";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path39:before {
+  content: "\e926";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path40:before {
+  content: "\e927";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path41:before {
+  content: "\e928";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path42:before {
+  content: "\e929";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path43:before {
+  content: "\e92a";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path44:before {
+  content: "\e92b";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path45:before {
+  content: "\e92c";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path46:before {
+  content: "\e92d";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path47:before {
+  content: "\e92e";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path48:before {
+  content: "\e92f";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path49:before {
+  content: "\e930";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path50:before {
+  content: "\e931";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path51:before {
+  content: "\e932";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path52:before {
+  content: "\e933";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path53:before {
+  content: "\e934";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path54:before {
+  content: "\e935";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path55:before {
+  content: "\e936";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path56:before {
+  content: "\e937";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path57:before {
+  content: "\e938";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path58:before {
+  content: "\e939";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path59:before {
+  content: "\e93a";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path60:before {
+  content: "\e93b";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path61:before {
+  content: "\e93c";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path62:before {
+  content: "\e93d";
+  margin-left: -1.515625em;
+  color: rgb(162, 98, 86);
+}
+.pizzeriaiconografia-pizzeria .path63:before {
+  content: "\e93e";
+  margin-left: -1.515625em;
+  color: rgb(254, 254, 205);
+}
+.pizzeriaiconografia-pizzeria .path64:before {
+  content: "\e93f";
+  margin-left: -1.515625em;
+  color: rgb(254, 254, 205);
+}
+.pizzeriaiconografia-pizzeria .path65:before {
+  content: "\e940";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria .path66:before {
+  content: "\e941";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-caja-de-pizza:before {
+  content: "\e942";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-de-pizza:before {
+  content: "\e943";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-masa-de-pizza:before {
+  content: "\e944";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-me-gusta:before {
+  content: "\e945";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path1:before {
+  content: "\e946";
+  color: rgb(193, 151, 128);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path2:before {
+  content: "\e947";
+  margin-left: -1.515625em;
+  color: rgb(193, 151, 128);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path3:before {
+  content: "\e948";
+  margin-left: -1.515625em;
+  color: rgb(193, 151, 128);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path4:before {
+  content: "\e949";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path5:before {
+  content: "\e94a";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path6:before {
+  content: "\e94b";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path7:before {
+  content: "\e94c";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path8:before {
+  content: "\e94d";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path9:before {
+  content: "\e94e";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path10:before {
+  content: "\e94f";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path11:before {
+  content: "\e950";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path12:before {
+  content: "\e951";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path13:before {
+  content: "\e952";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path14:before {
+  content: "\e953";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path15:before {
+  content: "\e954";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path16:before {
+  content: "\e955";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path17:before {
+  content: "\e956";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path18:before {
+  content: "\e957";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path19:before {
+  content: "\e958";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path20:before {
+  content: "\e959";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal .path21:before {
+  content: "\e95a";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pala:before {
+  content: "\e95b";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-pedidos-a-domicilio:before {
+  content: "\e95c";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-pizza .path1:before {
+  content: "\e95d";
+  color: rgb(168, 109, 95);
+}
+.pizzeriaiconografia-pizzeria-pizza .path2:before {
+  content: "\e95e";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path3:before {
+  content: "\e95f";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path4:before {
+  content: "\e960";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path5:before {
+  content: "\e961";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path6:before {
+  content: "\e962";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path7:before {
+  content: "\e963";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path8:before {
+  content: "\e964";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path9:before {
+  content: "\e965";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path10:before {
+  content: "\e966";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza .path11:before {
+  content: "\e967";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-pizza-al-horno:before {
+  content: "\e968";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path1:before {
+  content: "\e969";
+  color: rgb(162, 98, 86);
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path2:before {
+  content: "\e96a";
+  margin-left: -1.515625em;
+  color: rgb(254, 254, 205);
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path3:before {
+  content: "\e96b";
+  margin-left: -1.515625em;
+  color: rgb(254, 254, 205);
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path4:before {
+  content: "\e96c";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza .path5:before {
+  content: "\e96d";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-queso:before {
+  content: "\e96e";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-rebanadora .path1:before {
+  content: "\e96f";
+  color: rgb(254, 254, 205);
+}
+.pizzeriaiconografia-pizzeria-rebanadora .path2:before {
+  content: "\e970";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-rebanadora .path3:before {
+  content: "\e971";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-rodillo .path1:before {
+  content: "\e972";
+  color: rgb(168, 109, 95);
+}
+.pizzeriaiconografia-pizzeria-rodillo .path2:before {
+  content: "\e973";
+  margin-left: -1.515625em;
+  color: rgb(136, 54, 54);
+}
+.pizzeriaiconografia-pizzeria-salsa-de-tomate:before {
+  content: "\e974";
+  color: #883636;
+}
+.pizzeriaiconografia-pizzeria-tomate:before {
+  content: "\e975";
+  color: #883636;
+}

@@ -1,0 +1,49 @@
+.pizzeriaiconografia-pizzeria {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
+}
+.pizzeriaiconografia-pizzeria-caja-de-pizza {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe942;');
+}
+.pizzeriaiconografia-pizzeria-de-pizza {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe943;');
+}
+.pizzeriaiconografia-pizzeria-masa-de-pizza {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe944;');
+}
+.pizzeriaiconografia-pizzeria-me-gusta {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe945;');
+}
+.pizzeriaiconografia-pizzeria-pago-con-terminal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe946;');
+}
+.pizzeriaiconografia-pizzeria-pala {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95b;');
+}
+.pizzeriaiconografia-pizzeria-pedidos-a-domicilio {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95c;');
+}
+.pizzeriaiconografia-pizzeria-pizza {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95d;');
+}
+.pizzeriaiconografia-pizzeria-pizza-al-horno {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;');
+}
+.pizzeriaiconografia-pizzeria-preparando-pizza {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe969;');
+}
+.pizzeriaiconografia-pizzeria-queso {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96e;');
+}
+.pizzeriaiconografia-pizzeria-rebanadora {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96f;');
+}
+.pizzeriaiconografia-pizzeria-rodillo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe972;');
+}
+.pizzeriaiconografia-pizzeria-salsa-de-tomate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;');
+}
+.pizzeriaiconografia-pizzeria-tomate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe975;');
+}
+
