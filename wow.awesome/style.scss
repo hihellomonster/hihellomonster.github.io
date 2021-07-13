@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gzv0hm');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gzv0hm#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?gzv0hm') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?gzv0hm') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?gzv0hm##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ce3cmw');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ce3cmw#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ce3cmw') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ce3cmw') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ce3cmw##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -48,31 +48,9 @@ i {
     content: $icon-pantalla-de-monitor; 
   }
 }
-.icon-refresh .path1 {
+.icon-refresh {
   &:before {
-    content: $icon-refresh-path1;  
-    color: rgb(153, 153, 153);
-  }
-}
-.icon-refresh .path2 {
-  &:before {
-    content: $icon-refresh-path2;  
-    margin-left: -1em;  
-    color: rgb(153, 153, 153);
-  }
-}
-.icon-refresh .path3 {
-  &:before {
-    content: $icon-refresh-path3;  
-    margin-left: -1em;  
-    color: rgb(153, 153, 153);
-  }
-}
-.icon-refresh .path4 {
-  &:before {
-    content: $icon-refresh-path4;  
-    margin-left: -1em;  
-    color: rgb(1, 1, 1);
+    content: $icon-refresh; 
   }
 }
 .icon-github-d {
