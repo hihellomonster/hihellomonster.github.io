@@ -65,6 +65,7 @@
         cursor: pointer;
         font-size: 110%;
         letter-spacing: -.05em;
+        padding: 8px
     }
     
     button:hover {
