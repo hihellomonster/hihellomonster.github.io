@@ -1,13 +1,5 @@
 <!DOCTYPE html>
-<!-- 
-	⊙⩌⨀
-    2006 2021 © hiHello.monster! Martech Marketing Technology Stack
-    
-	   ˆ⩌ˆ
-    ⪘ ¿Quién hizo todo esto? 
-       »  https://twitter.com/luisangelmaciel 
-   
--->
+
 
 <html lang="es-mx" Server="GitHub.com" Accept-Encoding="gzip" Content-Encoding="gzip" Vary="Accept-Encoding" Cache-Control="max-age=600 " SimpleHTTPServer=" 3000" lighthouse="https://hihello.monster" budget-path="https://hihello.monster/budget.json "
     lighthouse="help">
@@ -17,17 +9,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>hiHello-monster</title>
-    <meta name="description" content="Martech Marketing Technology Stack ur new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+    <title>hiHello.monster</title>
+    <meta name="description" content="Martech Marketing Technology Stack ur new site here. ">
     <link rel="canonical" href="https://hihello.monster">
-
     <link rel="manifest " href="https://hihello.monster/manifest.json " crossorigin="use-credentials">
     <meta name="theme-color" content="#990099">
     <link rel="apple-touch-icon" href="https://hihello.monster/images/icons/icon-152x152.png">
     <link rel="icon " href="https://hihello.monster/maskable_icon.png " sizes="114x114 " type="image/png " purpose="any maskable ">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="myNotes">
+    <meta name="apple-mobile-web-app-title" content="hihello.monster martech">
     <meta name="theme-color" content="#990099">
     <meta name="referrer" content="always" />
     <meta name="robots" content="index, follow" />
@@ -35,271 +26,7 @@
     <link rel="stylesheet" href="https://hihello.monster/css/style.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.2/dist/lazyload.min.js" async></script>
 
-    <link rel="preload" href="https://hihello.monster/css/histyle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-
-    <!--  <style>
-        
-        
-        body {
-            display: flex
-        }
-        
-        .ie-11 {
-            min-height: 100vh;
-            padding: 65px 120px 95px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-evenly;
-            font-family: "Avenir Next", sans-serif;
-            font-size: 18px;
-            flex: 1 1 auto
-        }
-        
-        header {
-            margin-bottom: 0px;
-            display: flex;
-            align-items: flex-end;
-            justify-content: space-between
-        }
-        
-        .products-links {
-            display: flex;
-            align-items: center;
-            padding-bottom: 5px
-        }
-        
-        .mailto-logo {
-            padding-bottom: 9px;
-            display: flex;
-            align-items: flex-end;
-            flex-direction: row-reverse;
-            justify-content: space-between;
-            order: 2
-        }
-        
-        .products-links .mail {
-            display: block
-        }
-        
-        .mailto-logo .mail {
-            display: none
-        }
-        
-        a,
-        a:hover {
-            color: #000;
-            text-decoration: none
-        }
-        
-        .mail {
-            text-decoration: underline;
-            margin-right: -10px;
-            display: inline-block;
-            padding: 4px 10px 2px;
-            border-radius: 2px
-        }
-        
-        .mail:hover {
-            background: #000;
-            color: #fff;
-            text-decoration: none
-        }
-        
-        .logo {
-            display: inline-block;
-            width: 182px;
-            height: 42px;
-            background-image: url(https://hihellomonster.github.io/index-que-he-usado/img/logo-hihello.svg);
-            background-position: initial;
-            background-repeat: no-repeat;
-        }
-        
-        .featured {
-            width: auto;
-            padding-bottom: 2px;
-            order: 1;
-            flex: 1 1 auto;
-            text-align: left;
-            white-space: nowrap
-        }
-        
-        .featured * {
-            display: inline-block;
-            vertical-align: top
-        }
-        
-        .featured>* {
-            margin-right: 5%;
-            margin-top: 0
-        }
-        
-        .featured>*:last-child {
-            margin-right: 30px
-        }
-        
-        .featured>span {
-            font-size: 16px;
-            margin-right: 7%;
-            padding: 5px 0;
-            font-weight: normal;
-            color: #b0b0b0
-        }
-        
-        .titles-wrapper {
-            position: relative;
-            padding-right: 125px;
-            min-height: 328px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between
-        }
-        
-        h1 {
-            position: relative;
-            opacity: 0;
-            bottom: 30px;
-            margin: 0;
-            padding-bottom: 30px;
-            font-size: 30px;
-            font-weight: 600;
-            transition: 1s all ease-in-out;
-            padding-top: 5px;
-        }
-        
-        h1 .no-wrap {
-            white-space: nowrap;
-            font-size: 27px;
-            font-weight: 600;
-        }
-        
-        h1.animate {
-            opacity: 1;
-            bottom: 0
-        }
-        
-        h2 {
-            font-size: 30px;
-            font-weight: 400;
-            margin: 0;
-            letter-spacing: -0.8px
-        }
-        
-        .copyright {
-            transform: rotate(90deg);
-            display: inline-block;
-            transform-origin: right top;
-            position: absolute;
-            right: 0;
-            bottom: -11px
-        }
-        
-        @media (min-width:1400px) {
-            .featured>* {
-                margin-right: 50px
-            }
-            .featured>*:last-child {
-                margin-right: 30px
-            }
-            .featured>span {
-                margin-right: 70px
-            }
-        }
-        
-        @media (max-width:1300px) {
-            .ie-11 {
-                padding: 30px 40px
-            }
-        }
-        
-        @media (max-width:1050px) {
-            header {
-                margin-bottom: 5px;
-                flex-direction: column;
-                display: flex;
-                align-items: flex-end;
-                justify-content: space-between
-            }
-            .mailto-logo {
-                width: 100%;
-                min-width: 0;
-                flex-direction: row;
-                padding-bottom: 40px;
-                order: 0
-            }
-            .mailto-logo .mail {
-                display: block
-            }
-            .mail {
-                margin-bottom: -4px
-            }
-            .products-links {
-                display: none
-            }
-            .featured {
-                width: 100%;
-                order: 0;
-                text-align: left;
-                white-space: normal;
-                margin-bottom: 30px
-            }
-            .featured>* {
-                margin-right: 40px;
-                margin-top: 20px
-            }
-            .featured>span {
-                margin-right: 40px;
-                padding: 5px 0
-            }
-            .featured>*:last-child {
-                margin-right: 0
-            }
-            .titles-wrapper {
-                padding: 0
-            }
-            h1 {
-                line-height: 1.1;
-                padding-bottom: 0px;
-                font-size: 27px
-            }
-            h2 {
-                font-size: 25px
-            }
-            .copyright {
-                padding-top: 20px;
-                position: static;
-                transform: none;
-                color: #black;
-                font-size: 16px
-            }
-        }
-        
-        @media (max-width: 540px) {
-            .featured>span {
-                display: block;
-                margin-bottom: 10px;
-                color: #a0a0a0;
-                font-size: 14px
-            }
-        }
-        
-        @media (max-width:360px) {
-            .ie-11 {
-                padding: 10px
-            }
-            .mail {
-                font-size: 16px;
-                letter-spacing: -0.5px
-            }
-            .no-wrap {
-                white-space: normal
-            }
-        }
-        
-        hide {
-            display: none!important
-        }
-    </style> -->
+    <link rel="preload" href="css/histyle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 </head>
 
 <body>
@@ -309,154 +36,134 @@
         </header>
 
         <div class="titles-wrapper" style="text-align: left;">
-            <h1 class=" animate" style="text-align: left;">
-                <span style="color: #036b36;">h</span>ola! <br><br>
-                <span style="color: #036b36;">s</span>oy <span style="color: #693698; font-weight: 400;">@luisangelmaciel</span> y hago
-                <span style="color: #036b36;"><i> martech</i></span> que significa <span style="color: #693698;">Marketing Technology Stack. </span> <br> <br> para monsters, que hacen lo que les apasiona </h1>
-            <br>
-            <h2>
-                he reunido aproximadamente unos <span class="countup" cup-end="3285">3285</span> días de experiencia (y contando) haciendo lo que me gusta, he aquí algunos proyectos realizados <span style="color: #036b36;">...  </span>
-            </h2>
-            <br>
+            <h1 class=" animate" style="text-align: left; font-size: 2em;">
+                <span style="color: #036b36;"><b>•<i>m</span>artech</i>•</b>
+                <br><span style="color: #693698;  ">m</span>arketing
+                <span style="color: #036b36;">technology</i></span> <span style="color: #693698;"> stack. </span>
+                <br>
+                <span style="color: #d4d6d5;"><i><small>Let’s create something amazing together <) </small></i></span>
+            </h1>
+            <br> <br>
+
             <div class="featured">
 
-                <a href="#portfolioModal1" data-toggle="modal"><img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" /></a>
+                <a href="#portfolioModal1" data-toggle="modal">
+                    <h1 class=" animate" style="text-align: left; font-size: 1.5em;">
+                        <span style="color: #036b36;">d</span>esing </h1>
+                </a>
 
 
                 <a href="#portfolioModal2" data-toggle="modal">
-                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-dragvesti-negro.svg " alt="Dragvesti, la carrera Drag Queen Online y en vivo " width="182px " height="42px " title=" Dragvesti, la carrera Drag Queen Online y en vivo " />
+                    <h1 class=" animate" style="text-align: left; font-size: 1.5em;">
+                        <span style="color: #693698;">s</span>trategy</h1>
                 </a>
 
                 <a href="#portfolioModal3" data-toggle="modal">
-                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-geus.svg " alt="geus gourmé. Productos artesanales gourmet " width="142px " height="42px " title="geus gourmé. Productoss arteanales  gourmet " />
+                    <h1 class=" animate" style="text-align: left; font-size: 1.5em;">
+                        <span style="color: #693698;">d</span>ata </h1>
                 </a>
-
-                <a href="#portfolioModal4" data-toggle="modal" style="visibility:hidden; display: none; ">
-                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" />
+                <br>
+                <a href="#portfolioModal4" data-toggle="modal">
+                    <h1 class=" animate" style="text-align: left; font-size: 1.5em;">
+                        <span style="color: #693698;">d</span>ouble view</h1><br>
+                    <img src=" https://hihello.monster/doble.pantalla/icon.png">
                 </a>
-
-                <a href="#portfolioModal5" data-toggle="modal" style="visibility:hidden; display: none; ">
-                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" />
-                </a>
-
-                <a href="#portfolioModal6" data-toggle="modal" style="visibility:hidden; display: none; ">
-                    <img src="https://hihellomonster.github.io/index-que-he-usado/img/logo-xiiber-travel.svg" alt="Xiiber Travel, viajes gay" width="182px" height="42px" title="Xiiber Travel, viajes gay" />
-                </a>
-
-
 
             </div>
 
             <div class="copyright">
-                © 2012-2021 hiHello.monster es @luisangelmaciel </div>
-
+                All rights reserved <span style="color: #036b36;"><b>©</b></span> <span class="countup" cup-end="2021" style="color: #693698;">2021</span> hiHello.monster
+            </div>
         </div>
+
+
+        <details class="hhm-summary   " style="font-family: Roboto">
+            <summary><strong>Learn</strong></summary>
+            <div>
+                <b> editor </b><a href=" https://hihello.monster/" target="_blank "> online</a><br>
+                <b> how-to </b><a href=" https://hihello.monster/" target="_blank "> course</a><br>
+            </div>
+        </details>
+
+
     </div>
 
 
-    <div id="content" class="container grey lighten-3" style="visibility:hidden; display: none; ">
-        <p>Add your notes below:</p>
-        <form action="" id="form-add-note" class="row">
-            <input type="text" placeholder="Notes..." class=" col-2 white">
-            <input type="submit" value="Add" class="blue-grey white-text col-1">
-        </form>
-        <ul id="notes">
-        </ul>
-    </div>
 
-    <!-- Portfolio Modals -->
-    <!-- seccion contacto -->
+    <!-- desing -->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="5">
         <div class="modal-content">
+            <center>
+                <h1 class=" animate " style="text-align: center; font-size: 2em; ">
+                    <span style="color: #036b36; ">What we do •desing</span>
+                    <br>Graphic Design
+                    <br><span style="color: #693698; ">w</span>ebsite development
+                    <br>website desing
+                    <br> Social Media Management
+                </h1>
+                WE HELP BRANDS OF ALL SHAPES AND SIZES.<br><br><br><br>
+                <h3>Let’s create something amazing together</h3>
+            </center>
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
-                    <div class="rl">
-                    </div>
+                    <div class="rl"> </div>
                 </div>
-            </div>
-
-            <!-- seccion contacto -->
-            hiHello.monsterhttps://www.xiiber.com"
-
-        </div>
-    </div>
-    <!-- Services Section -->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="4">
-        <div class="modal-content">
-            <div class="container">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Services Section -->
-                hiHello.monster
-
             </div>
         </div>
     </div>
-    <!-- About Section -->
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="3">
+    <!-- strategy -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="5">
         <div class="modal-content">
-            <div class="container">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-
-
-                <!-- About Section -->
-                hiHello.monster
-
-            </div>
-        </div>
-    </div>
-
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="2">
-        <div class="modal-content">
+            <center>
+                <h1 class=" animate " style="text-align: center; font-size: 2em; ">
+                    <span style="color: #036b36; ">What we do •content strategy</span>
+                    <br><span style="color: #693698; ">m</span>edia Management
+                    <br>brand identity
+                    <br>social experience
+                </h1>
+                WE HELP BRANDS OF ALL SHAPES AND SIZES.<br><br><br><br>
+                <h3>Let’s create something amazing together</h3>
+            </center>
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
-                    <div class="rl">
-                    </div>
+                    <div class="rl"> </div>
                 </div>
             </div>
-            <div class="container">
-                hiHello.monster
+        </div>
+    </div>
+    <!-- data -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="5">
+        <div class="modal-content">
+            <center>
+                <h1 class=" animate " style="text-align: center; font-size: 2em; ">
+                    <span style="color: #036b36; ">What we do •seo</span>
+                    <br>WE HELP BRANDS OF ALL SHAPES AND SIZES. </h1><br><br><br><br>
+                <h3>Let’s create something amazing together</h3>
+            </center>
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl"> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- data -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="5">
+        <div class="modal-content">
+            <center>
+                <h1 class=" animate" style=" font-size: 1.5em;">
+                    <span style="color: #693698;">d</span>ouble view</h1><br>
+                <img src=" https://hihello.monster/doble.pantalla/icon.png">
+            </center>
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl"> </div>
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="1">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                hiHello.monster
-            </div>
-        </div>
-    </div>
 
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true" wfd-id="0">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                hiHello.monster
-            </div>
-        </div>
-    </div>
 
 
     <!-- jQuery Version 1.11.0 en eralidad es el 3.6  -->
@@ -547,8 +254,6 @@
     <script src="js/array.observe.polyfill.js"></script>
     <script src="js/scripts.js"></script>
 
-
 </body>
-
 
 </html>
