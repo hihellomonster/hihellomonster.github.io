@@ -22,8 +22,9 @@
     <link rel='prefetch' href="https://hihello.monster/wow.awesome/fonts/wowawesome.eot">
 
 
-
     <style>
+        /* rgb(1, 125, 187, 0.2); */
+        
         html {
             font-family: sans-serif;
             line-height: 1.15;
@@ -74,6 +75,7 @@
             transition: 0.2s ease-in-out 0.35s;
             z-index: 4;
             text-shadow: 2px 2px 5px #017dbb;
+            background-color: rgb(255, 248, 248, 0.2);
         }
         
         .nav__trigger:hover {
@@ -443,6 +445,7 @@
             align-items: center;
             float: left;
             width: 100%;
+            padding-top: 12px;
         }
         
         div.gallery:hover {
@@ -467,6 +470,7 @@
             border-radius: 5px;
             cursor: pointer;
             transition: 0.3s;
+            padding-top: 5px;
             align-items: center;
         }
         
@@ -586,7 +590,7 @@
             width: 25%; */
             padding: 6px;
             float: left;
-            width: 25%;
+            width: 33.33%;
             align-items: center;
             vertical-align: middle;
             line-height: 110px;
@@ -594,9 +598,10 @@
         
         @media only screen and (max-width: 700px) {
             .column {
-                width: 25%;
+                width: 33.33%;
                 margin: 6px 0;
                 line-height: 150px;
+                padding-top: 5px;
             }
         }
         
@@ -604,6 +609,7 @@
             .column {
                 width: 33.33%;
                 line-height: 120px;
+                padding-top: 5px;
             }
         }
         
@@ -618,23 +624,41 @@
             display: none;
             position: fixed;
             z-index: 1;
-            padding-top: 100px;
+            padding-top: 33px;
             left: 0;
             top: 0;
             width: 100%;
             height: 100%;
             overflow: auto;
-            background-color: black;
+            background-color: rgba(0, 0, 0, 0.95);
+            ;
         }
         /* Modal Content */
         
         .modal-content {
             position: relative;
-            background-color: #fefefe;
+            background-color: #000000;
             margin: auto;
-            padding: 0;
+            padding: 0px;
             width: 80%;
-            max-width: 1200px;
+            max-width: 900px;
+            height: 30%;
+            padding-top: 12px;
+        }
+        
+        .column-modal-content {
+            /*   float: left;
+            width: 25%; */
+            padding: 6px;
+            float: left;
+            width: 20%;
+            align-items: center;
+        }
+        
+        .clearfix:after {
+            content: "";
+            display: table;
+            clear: both;
         }
         /* The Close Button */
         
@@ -642,7 +666,7 @@
             color: white;
             position: absolute;
             top: 35px;
-            right: 35px;
+            right: 3px;
             font-size: 45px;
             font-weight: bold;
         }
@@ -706,8 +730,7 @@
         
         .caption-container {
             text-align: center;
-            background-color: black;
-            padding: 2px 16px;
+            padding: 1px 1px;
             color: white;
         }
         
@@ -735,9 +758,9 @@
 
     <div class="navbar">
         <div class="icon-bar">
-            <i class=" menu-puntos "></i>
-            <i class="avatar-hihello" style="color: #18487D "></i>
-            <i class=" icon"><b> ☰</b> </i>
+            <i class=" icon-home "></i>
+            <i class="icon-drag-rupaul" style="color: #18487D "><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span></i>
+            <i class="icon-sol-one  "> </i>
         </div>
     </div>
 
@@ -749,9 +772,7 @@
         <div class="nav__center ">
             <nav class="nav__list ">
                 <ul>
-                    <li class="nav__item "><a href="https://www.xiiber.com ">Xiiber</a></li>
                     <li class="nav__item "><a href="https://dragvesti.xiiber.comcdmx.xiiber.com ">Dragvesti</a></li>
-                    <li class="nav__item "><a href="https://cdmx.xiiber.com ">Hola CDMX</a></li>
                 </ul>
             </nav>
 
@@ -759,11 +780,15 @@
 
             <div class="nav__sublist ">
                 <ul>
-                    <li class="nav__item "><a href="https://twitter.com/luisangelmaciel">Twitter</a></li>
+                    <li class="nav__item ">
+                        <a href="https://twitter.com/luisangelmaciel"></a>
+                    </li>
                 </ul>
 
                 <ul>
-                    <li class="nav__item "><a href="https://tepozspa.xiiber.com ">Vámonos de viaje</a></li>
+                    <li class="nav__item ">
+                        <a href="https://tepozspa.xiiber.com "></a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -793,58 +818,30 @@ color: #18487D; line-height: 1">
         <div id="memesRuPaulsDragRace">
 
             <div class=" row responsive column" style=" align-items:center; ">
-                <div class="gallery ">
-                    <img id="myImg " src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor" onclick="openModal();currentSlide(1)">
-                </div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/meme-nicole-peige-brooks-atlanta-georgia-meryl-streep.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(1)"></div><br>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/alaska-thunderfuck-ganadora-rupauls-drag-race-all-stars-2-meme-el-diablo-algo-que-recordaran.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(2)"></div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/boy-wow-drag-queen-violet-chachki.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor" onclick="openModal();currentSlide(3)"></div>
             </div>
 
-            <div class="row responsive column ">
-                <div class="gallery ">
-                    <img id="myImg " src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" alt=" https://hihello.monster/guiarosi/ " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(2)">                    </div>
-            </div>
 
-            <div class="row responsive  column ">
-                <div class="gallery ">
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(3)">
-                </div>
-            </div>
-
-            <div class="row responsive  column">
-                <div class="gallery ">
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(4)">
-                </div>
-            </div>
-            <div class="row responsive  column">
-                <div class="gallery ">
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(5)">
-                </div>
-            </div>
             <div class=" row responsive column" style=" align-items:center; ">
-                <div class="gallery ">
-                    <img id="myImg " src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor" onclick="openModal();currentSlide(1)">
-                </div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/cuando-me-preguntan-por-algo-y-no-se-pero-cuando-me-preguntan-algo-de-lo-que-se-ahi-si-se-todo.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(4)"></div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/el-fanatismo-es-un-pecado-segun-la-biblia-rupaul-es-un-pecado.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(5)"></div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/estoy-harto.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor" onclick="openModal();currentSlide(6)"></div>
             </div>
 
-            <div class="row responsive column ">
-                <div class="gallery ">
-                    <img id="myImg " src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" alt=" https://hihello.monster/guiarosi/ " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(2)">                    </div>
-            </div>
 
-            <div class="row responsive  column ">
-                <div class="gallery ">
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(3)">
-                </div>
-            </div>
-
-            <div class="row responsive  column">
-                <div class="gallery ">
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(4)">
-                </div>
-            </div>
-            <div class="row responsive  column">
-                <div class="gallery ">
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " alt="Image " width="600 " height="400 " loading="lazy " class="responsive_image lazyload hover-shadow cursor" onclick="openModal();currentSlide(5)">
-                </div>
+            <div class=" row responsive column" style=" align-items:center; ">
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/estuviste-oda-la-noche-viendo-rupuals-drag-race-verdad-shante-you-stay.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(7)"></div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/estuviste-Toda-la-noche-viendo-rupuals-drag-race-verdad-shante-you-stay-dragvesti.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(8)"></div>
+                <div class="gallery "><img id="myImg " src="https://hihello.monster/memes/rupaul.drag.race/hoy-voy-a-ser-realmente-productivo-pero-gace-otra-cosa.webp" alt="Image " width="600 " height="400 " loading="lazy " class="lazyload responsive_image  hover-shadow cursor"
+                        onclick="openModal();currentSlide(9)"></div>
             </div>
 
             <div class="clearfix "></div>
@@ -854,57 +851,85 @@ color: #18487D; line-height: 1">
 
         <div id="myModal" class="modal">
             <span class="close cursor" onclick="closeModal()">&times;</span>
-            <div class="modal-content">
-
-                <div class="mySlidex">
-                    <div class="numbertext">1 / 4</div>
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%">
-                </div>
-
-                <div class="mySlidex">
-                    <div class="numbertext">2 / 4</div>
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg " style="width:100%">
-                </div>
-
-                <div class="mySlidex">
-                    <div class="numbertext">3 / 4</div>
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%">
-                </div>
-
-                <div class="mySlidex">
-                    <div class="numbertext">4 / 4</div>
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%">
-                </div>
-
-                <div class="mySlidex">
-                    <div class="numbertext">4 / 5</div>
-                    <img src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%">
-                </div>
-
+            <div class="modal-content ">
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                <center>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/meme-nicole-peige-brooks-atlanta-georgia-meryl-streep.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/alaska-thunderfuck-ganadora-rupauls-drag-race-all-stars-2-meme-el-diablo-algo-que-recordaran.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/boy-wow-drag-queen-violet-chachki.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/cuando-me-preguntan-por-algo-y-no-se-pero-cuando-me-preguntan-algo-de-lo-que-se-ahi-si-se-todo.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/el-fanatismo-es-un-pecado-segun-la-biblia-rupaul-es-un-pecado.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/estoy-harto.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/estuviste-oda-la-noche-viendo-rupuals-drag-race-verdad-shante-you-stay.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/estuviste-Toda-la-noche-viendo-rupuals-drag-race-verdad-shante-you-stay-dragvesti.webp" style="width:90%">
+                    </div>
+                    <div class="mySlidex ">
+                        <div class="numbertext"><i class="icon-love"></i></div>
+                        <img src="https://hihello.monster/memes/rupaul.drag.race/hoy-voy-a-ser-realmente-productivo-pero-gace-otra-cosa.webp" style="width:90%">
+                    </div>
 
-                <div class="caption-container">
-                    <p id="caption"></p>
-                </div>
+
+                    <div class="caption-container">
+                        <p id="caption"> </p>
+                    </div>
 
 
-                <div class="column">
-                    <img class="demo cursor" src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%" onclick="currentSlide(1)" alt="Mom´s Pizzas">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="https://hihello.monster/seccion.rosa/seccion-rosa.svg " style="width:100%" onclick="currentSlide(2)" alt="Mom´s Pizzas">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%" onclick="currentSlide(3)" alt="Mom´s Pizzas">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%" onclick="currentSlide(4)" alt="Mom´s Pizzas">
-                </div>
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/meme-nicole-peige-brooks-atlanta-georgia-meryl-streep.webp " style="width:100%" onclick="currentSlide(1)" alt="Rupaul´s Drag Race Memes">
+                        <img style="padding-top: 10px;" class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/alaska-thunderfuck-ganadora-rupauls-drag-race-all-stars-2-meme-el-diablo-algo-que-recordaran.webp " style="width:100%" onclick="currentSlide(2)" alt="Rupaul´s Drag Race Memes">
+                    </div>
 
-                <div class="column">
-                    <img class="demo cursor" src="https://hihello.monster//moms.pizzas/img/arte-moms-pizzas.svg" style="width:100%" onclick="currentSlide(5)" alt="Northern Lights">
-                </div>
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/boy-wow-drag-queen-violet-chachki.webp " style="width:100%" onclick="currentSlide(3)" alt="Rupaul´s Drag Race Memes">
+                    </div>
+
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/cuando-me-preguntan-por-algo-y-no-se-pero-cuando-me-preguntan-algo-de-lo-que-se-ahi-si-se-todo.webp " style="width:100%" onclick="currentSlide(4)" alt="Rupaul´s Drag Race Memes">
+                    </div>
+
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/el-fanatismo-es-un-pecado-segun-la-biblia-rupaul-es-un-pecado.webp " style="width:100%" onclick="currentSlide(5)" alt="Rupaul´s Drag Race Memes">
+                    </div>
+
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/estoy-harto.webp " style="width:100%" onclick="currentSlide(6)" alt="Rupaul´s Drag Race Memes">
+                    </div>
+
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/estuviste-oda-la-noche-viendo-rupuals-drag-race-verdad-shante-you-stay.webp " style="width:100%" onclick="currentSlide(7)" alt="Rupaul´s Drag Race Memes">
+                    </div>
+
+                    <div class=" column-modal-content">
+                        <img class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/estuviste-Toda-la-noche-viendo-rupuals-drag-race-verdad-shante-you-stay-dragvesti.webp " style="width:100%" onclick="currentSlide(8)" alt="Rupaul´s Drag Race Memes">
+                        <img style="padding-top: 10px;" class="demo cursor" src="https://hihello.monster/memes/rupaul.drag.race/hoy-voy-a-ser-realmente-productivo-pero-gace-otra-cosa.webp " style="width:100%" onclick="currentSlide(9)" alt="Rupaul´s Drag Race Memes">
+                    </div>
+
+
+                </center>
 
             </div>
         </div>
@@ -917,7 +942,7 @@ color: #18487D; line-height: 1">
     bottom: 0;
     font-size: 30px;
     color: #003d66;">
-        <i class="flecha-atras " style=" float: left;
+        <i class="icon-flecha-atras " style=" float: left;
         width: 33.33%;
         text-align: center;
         padding: 14px 12px;
@@ -932,7 +957,8 @@ color: #18487D; line-height: 1">
        transition: all 0.3s ease;
        color: #003d66;
        font-size: 30px;
-       text-decoration: none;"></i> <i class=" flecha-siguiente " style=" float: left;
+       text-decoration: none;">   </i>
+        <i class="icon-flecha-siguiente " style=" float: left;
         width: 33.33%;
         text-align: center;
         padding: 14px 12px;
@@ -1095,5 +1121,18 @@ color: #18487D; line-height: 1">
 
 
 </body>
+
+</html>
+
+</html>
+
+</body>
+
+</html>
+
+</html>
+</body>
+
+</html>
 
 </html>
