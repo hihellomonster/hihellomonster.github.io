@@ -1,5 +1,63 @@
+//   <time datetime="2021-04-29T20:10:18.429Z">29 April 2021</time>
+// <a href = "https://github.com/alfio-event/alf.io" > Gestion de tickets < /a>> 
+
+
 var myObject = {
     "hiHelloMaciel": [{
+        "img-src": "ico.png",
+        "fecha-De-Publicacion": "13 julio 2021",
+        "a-href": "https://hihello.monster/how-to.plus/full_screen_modal-bootstrap.html",
+        "a-href-tittle": "full_screen_modal-bootstrap",
+        "how-to-tittle": "full_screen_modal-bootstrap.html",
+        "el-Post": "full_screen_modal-bootstrap.html ",
+        "accion": "Abrir modal ",
+        "postFoto1": "",
+        "altPostFoto1": "",
+        "postFoto2": "",
+        "altPostFoto2": "",
+        "postFoto3": "",
+        "altPostFoto3": "",
+        "postFoto4": "",
+        "altPostFoto4": "",
+        "score-lighthouse": "",
+        "img-score-lighthouse": "",
+    }, {
+        "img-src": "ico.png",
+        "fecha-De-Publicacion": "13 julio 2021",
+        "a-href": "https://hihello.monster/how-to.plus/love.html",
+        "a-href-tittle": "Sendme Love",
+        "how-to-tittle": "Boton love",
+        "el-Post": "Un boton con animación para demostrar gracias/amor ",
+        "accion": "Envia amor ",
+        "postFoto1": "",
+        "altPostFoto1": "",
+        "postFoto2": "",
+        "altPostFoto2": "",
+        "postFoto3": "",
+        "altPostFoto3": "",
+        "postFoto4": "",
+        "altPostFoto4": "",
+        "score-lighthouse": "",
+        "img-score-lighthouse": "",
+    }, {
+        "img-src": "ico.png",
+        "fecha-De-Publicacion": "13 julio 2021",
+        "a-href": "https://hihello.monster/how-to/halloween.html",
+        "a-href-tittle": "Halloween Dracula",
+        "how-to-tittle": "Feliz halloween",
+        "el-Post": "Incluir audio, ejemplo con una canción de Michael Jackson ",
+        "accion": "Escuchar Thriller ",
+        "postFoto1": "",
+        "altPostFoto1": "",
+        "postFoto2": "",
+        "altPostFoto2": "",
+        "postFoto3": "",
+        "altPostFoto3": "",
+        "postFoto4": "",
+        "altPostFoto4": "",
+        "score-lighthouse": "",
+        "img-score-lighthouse": "",
+    }, {
         "img-src": "ico.png",
         "fecha-De-Publicacion": "12 julio 2021",
         "a-href": "https://hihello.monster/moms.pizzas/guide-style.html",
@@ -790,6 +848,3 @@ var myObject = {
 };
 
 hi.displayObject("Activity", myObject);
-
-//   <time datetime="2021-04-29T20:10:18.429Z">29 April 2021</time>
-// <a href = "https://github.com/alfio-event/alf.io" > Gestion de tickets < /a>>
