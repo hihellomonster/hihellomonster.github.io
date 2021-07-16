@@ -1,0 +1,2063 @@
+<!-- 
+	⊙⩌⨀
+    2006 2021 © hiHello.monster! Marketing Technology Stack
+    2015 2021 © Xiiber Travel. Experiencias y viajes gay México
+    
+	   ˆ⩌ˆ
+    ⪘ ¿Quién hizo todo esto? 
+       »  http://twitter.com/luisangelmaciel 
+    ⪘ Para Xiiber
+       »  http://twitter.com/XiiberTravel    
+-->
+
+<!DOCTYPE html>
+<html lang="es-MX" Cache-Control: max-age="31536000">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KDD26NF');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Pntst -->
+    <meta name="p:domain_verify " content="1ccb70a44d7509dd6e6cad4538b2b9e2 " />
+
+    <title>TepozSpa | Viajes gay </title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta http-equiv="Content-Language" content="es-mx">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible " content="IE=edge ">
+    <meta http-equiv="Cache-Control" content="max-age=31536000  ">
+
+    <!-- HiHello.monster! Tag Manager -->
+    <meta name="keywords " content="A club for gay men, TepozSpa Tepoztlán, TepozSpa Morelos, TepozSpa Gay, Sauna Tepoztlán, Tepospa, Tepoz spa, Tepos spa, Tepozpa, Viajes gay, turismo gay, Guía de saunas gais,
+    TepozSpa Mexico City, excursiones gay, tepozspa precio, tepozspa comentarios, tepozspa como llegar, balneario tepozspa, excursiones a tepozspa, gay Mexico City">
+    <meta name="description" content="Reserva tu lugar con locker o vestidor. Viaje excursion en bus desde la CDMX, salida en sábado a las 9am del metro General Anaya. Viajes temáticos: Para solteros, En tanga, Para Osos y admiradores. Lo que pasa en Tepozspa, se queda en Tepozspa. Whatsapp 55 3979 3727.">
+    <meta name="rights" content="®Xiiber" />
+    <meta name="generator" content="HiHello.monster! -  Content Management" />
+    <meta name="author" content="Xiiber Travel [xiiber.com]">
+
+    <meta name="robots " content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1 ">
+    <meta name="googlebot" content="index, follow">
+    <meta name="googlebot-video" content="index" />
+    <meta name="googlebot-image" content="index" />
+    <meta name="googlebot-news" content="index, follow">
+
+    <meta property="og:locale " content="es_MX ">
+    <meta property="og:type " content="website">
+    <meta property="og:title " content="TepozSpa, Club para hombres | Viajes gay Xiiber">
+    <meta property='og:description' content='Reserva tu lugar con locker o vestidor. Salida en sábado a las 9am del metro General Anaya. Whatsapp 55 3979 3727.'>
+    <meta property="og:url " content="https://tepozspa.xiiber.com/ ">
+    <meta property="og:site_name " content="Tepozspa, Tepoz spa, Tepospa. Xiiber ">
+    <meta property="og:image " content="https://tepozspa.xiiber.com/fotos/viajes-gay-solteros-novios-tepozspa-reserva-tu-lugar.webp " />
+    <meta property="og:image:secure_url " content="https://tepozspa.xiiber.com/fotos/viajes-gay-solteros-novios-tepozspa-reserva-tu-lugar.webp " />
+    <meta property="og:image:width " content="1080 " />
+    <meta property="og:image:height " content="400 " />
+    <meta property="og:image:alt " content="Hombres gay que gustan de viajar y pasarla bien " />
+    <meta property=" og:video " content="https://example.com/movie.swf " />
+    <meta property="og:video:secure_url " content="https://secure.example.com/movie.swf " />
+    <meta property="og:video:type " content="website " />
+    <meta property="og:video:width " content="400 " />
+    <meta property="og:video:height " content="300 " />
+
+    <meta property="twitter:card " content="summary ">
+    <meta property="twitter:site " content="@xiibertravel ">
+    <meta property="twitter:domain " content="xiiber.com ">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card " content="summary_large_image " />
+    <meta name="twitter:title " content="Viaje en bus desde CDMX a TepozSpa " />
+    <meta name="twitter:image " content="https://tepozspa.xiiber.com/fotos/viajes-gay-solteros-novios-tepozspa-reserva-tu-lugar.webp" />
+    <meta name="twitter:image:alt" content="Summary Card" />
+    <meta name='twitter:description' content='Excursion, viaje en grupo en bus desde la CDMX, salida del metro General Anaya. Aparta con el 50%. Whatsapp 55 3979 3727.'>
+    <meta name="twitter:site" content="@xiibertravel" />
+    <meta name="twitter:label1" content="Tiempo de lectura">
+    <meta name="twitter:data1" content="17 minutos">
+
+    <meta name="twitter:card" content="player" />
+    <meta name="twitter:site" content="@xiibertravel" />
+    <meta name="twitter:title" content="CGTravel ahora es Xiiber. Viajes gay" />
+    <meta name="twitter:description" content="Viaje en grupo a Tepozspa. Reserva tu lugar, cupo limitado. " />
+    <meta name="twitter:image" content="https://tepozspa.xiiber.com/fotos/viajes-gay-solteros-novios-tepozspa-reserva-tu-lugar.webp" />
+    <meta name="twitter:player" content="https://www.xiiber.com/alberca_home.html" />
+    <meta name="twitter:player:width" content="480" />
+    <meta name="twitter:player:height" content="350" />
+    <meta name="twitter:player:stream" content="https://www.xiiber.com/alberca_tepozspa.mp4" />
+    <meta name="twitter:player:stream:content_type" content="video/mp4" />
+
+
+    <link rel="canonical" href="https://tepozspa.xiiber.com/" />
+    <link rel="icon" href="https://www.xiiber.com/img/rojo_80x80.png" sizes="192x192" id="favicon" type="image/x-icon" />
+    <link rel="preload" as="font">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect " href="https://fonts.gstatic.com ">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap " rel="stylesheet ">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@900&display=swap" rel="stylesheet">
+
+    <!-- Complementos -->
+    <link rel="stylesheet" href="https://www.xiiber.com/logo_xiiber.css">
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="./whatsstyle.css">
+
+
+    <style>
+/*  
+    Theme Name: Xiiber Travel Tepozspa
+    Version:    1.14.20
+    Author:     @LuisAngelMaciel 
+    TABLE OF CONTENTS
+        01 - General and Typography
+        02 - Header
+        03 - Navigation
+        04 - Services
+        05 - Parallax
+        06 - Food menu
+        07 - Special offers
+        08 - Abordaje
+        09 - Blog
+        10 - Footer
+        11 - Responsive styles
+    */
+        /* ==========================================================================
+        01. General and Typography 
+    ========================================================================== */
+        
+        body {
+            font-family: 'Roboto', serif;
+            -webkit-font-smoothing: antialiased;
+            -webkit-text-size-adjust: 100%;
+        }
+        
+        img {
+            max-height: 100%;
+            max-width: 100%;
+        }
+        
+        section {
+            position: relative;
+            padding: 0;
+            background: #F0A830;
+            color: #FFF;
+            text-align: center;
+        }
+        
+        section::before,
+        section::after {
+            position: absolute;
+            content: '';
+        }
+        /* Separators Styles */
+        
+        .ss-style-top::before {
+            left: 0;
+            width: 100%;
+            height: 30px;
+            -webkit-background-size: 25px 100%;
+            -moz-background-size: 25px 100%;
+            -o-background-size: 25px 100%;
+            background-size: 25px 100%;
+            top: 0;
+            background-image: linear-gradient(315deg, #FFF 50%, transparent 50%), linear-gradient(45deg, #FFF 50%, transparent 50%);
+            margin-top: -30px;
+            z-index: 100;
+        }
+        
+        .ss-style-bottom::before {
+            left: 0;
+            width: 100%;
+            height: 30px;
+            -webkit-background-size: 25px 100%;
+            -moz-background-size: 25px 100%;
+            -o-background-size: 25px 100%;
+            background-size: 25px 100%;
+            top: 0;
+            background-image: linear-gradient(583deg, #FFF 50%, transparent 50%), linear-gradient(136deg, #FFF 50%, transparent 50%);
+            margin-top: 0px;
+            z-index: 100;
+        }
+        /* ==========================================================================
+        02. Header 
+    ========================================================================== */
+        
+        #header {
+            background-image: url(https://tepozspa.xiiber.com/fotos/viajes-gay-tepozspa-01.webp);
+            -webkit-background-size: /*@@prefixmycss->No equivalent*/
+            ;
+            -moz-background-size: cover;
+            -o-background-size: /*@@prefixmycss->No equivalent*/
+            ;
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            position: relative;
+        }
+        
+        .bg-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(44, 33, 5, 0.5);
+            z-index: 0;
+        }
+        
+        #header .center {
+            position: relative;
+            z-index: 1;
+            color: white;
+        }
+        
+        #header .bottom {
+            color: white;
+        }
+        
+        #header .center .slogan {
+            font-size: 26px;
+        }
+        
+        #header .banner h1 {
+            font-size: 100px;
+            color: white;
+            font-weight: bold;
+            display: inline-block;
+            background: #660066;
+            padding: 0px 30px;
+        }
+        
+        #header .subtitle h4 {
+            display: inline-block;
+            background: white;
+            color: #660066;
+            font-size: 38px;
+            padding: 0px 15px;
+        }
+        
+        #header .bottom {
+            text-align: center;
+            width: 100%;
+            position: absolute;
+            bottom: 30px;
+        }
+        
+        #header .bottom a {
+            font-size: 36px;
+            color: whitesmoke;
+            position: relative;
+            top: -5px;
+        }
+        
+        .navbar-nav>li:nth-child(3) {
+            margin-right: 110px;
+        }
+        /* ==========================================================================
+        03. Navigation 
+    ========================================================================== */
+        
+        #menu {
+            background: rgba(33, 45, 57, 0.8);
+            margin-bottom: 0;
+        }
+        
+        .navbar-brand h2 {
+            margin-top: 0;
+            font-weight: bold;
+            color: white;
+        }
+        
+        .navbar-brand {
+            padding-top: 8px;
+            padding-bottom: 0;
+        }
+        /*logo*/
+        
+        .navbar #logo {
+            margin-top: -15px;
+            background: rgba(33, 45, 57, 0.0);
+            background-position: bottom;
+            -webkit-transition: all 0.4s;
+            -moz-transition: all 0.4s;
+            -o-transition: all 0.4s;
+            transition: all 0.4s;
+            color: #fff;
+        }
+        
+        .navbar #logo:hover {
+            background: #660066;
+            -webkit-transition: all 0.4s;
+            -moz-transition: all 0.4s;
+            -o-transition: all 0.4s;
+            transition: all 0.4s;
+        }
+        
+        .navbar-inverse .navbar-nav>li>a {
+            -webkit-transition: all 0.4s;
+            -moz-transition: all 0.4s;
+            -o-transition: all 0.4s;
+            transition: all 0.4s;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .navbar-inverse .navbar-nav>li>a:hover,
+        .navbar-inverse .navbar-nav>.active>a {
+            background: #660066;
+            color: white;
+            text-shadow: none;
+        }
+        /* ==========================================================================
+        04. Services 
+    ========================================================================== */
+        
+        .light-wrapper {
+            background: #fbfbfb;
+        }
+        
+        .inner {
+            padding-top: 100px;
+            padding-bottom: 100px;
+        }
+        
+        .section-title {
+            font-size: 36px;
+            line-height: 40px;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        .main.lead {
+            margin-bottom: 80px;
+        }
+        
+        .lead {
+            font-size: 17px;
+            line-height: 24px;
+            font-weight: normal;
+            margin-bottom: 15px;
+            color: #2e2e2e;
+            position: relative;
+        }
+        
+        .lead:after {
+            position: absolute;
+            content: ' ';
+            background: #660066;
+            width: 80px;
+            height: 3px;
+            bottom: -22px;
+            left: 50%;
+            margin-left: -40px;
+        }
+        
+        .story .col-wrapper {
+            padding: 0 10px;
+        }
+        
+        .story .icon-wrapper {
+            position: relative;
+            height: 80px;
+            margin-top: 40px;
+        }
+        /* ==========================================================================
+        05. parallax 
+    ========================================================================== */
+        
+        .parallax {
+            background: rgba(0, 0, 0, 0.5);
+        }
+        
+        .parallax {
+            background: url(https://tepozspa.xiiber.com/fotos/viajes-gay-tepozspa-02.webp) fixed no-repeat center center;
+            -webkit-background-size: /*@@prefixmycss->No equivalent*/
+            ;
+            -moz-background-size: cover;
+            -o-background-size: /*@@prefixmycss->No equivalent*/
+            ;
+            background-size: cover;
+            position: relative;
+            color: #FFF;
+        }
+        
+        .parallax .inner {
+            padding-top: 130px;
+            padding-bottom: 130px;
+        }
+        
+        .parallax.parallax2 {
+            background-image: url(https://tepozspa.xiiber.com/fotos/viajes-gay-tepozspa-06.webp);
+        }
+        
+        .bm10 {
+            margin-bottom: 10px !important;
+        }
+        
+        .facts h4 {
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+        
+        .parallax h1,
+        .parallax h2,
+        .parallax h3,
+        .parallax h4,
+        .parallax h5,
+        .parallax h6 {
+            color: #fff;
+        }
+        
+        .facts p {
+            font-size: 16px;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        
+        .story .icon-wrapper i {
+            font-size: 70px;
+        }
+        
+        .facts i {
+            font-size: 70px;
+        }
+        /* ==========================================================================
+        06. Food menu 
+    ========================================================================== */
+        
+        .menu-items {
+            text-align: center;
+            margin: 0 auto;
+        }
+        
+        .menu-titles h1 {
+            text-shadow: none;
+            color: #660066;
+            text-align: center;
+            margin: 0 auto;
+            padding-top: 30px;
+            padding-bottom: 15px;
+        }
+        
+        #food-menu ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        
+        .menu-images img {
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            border-radius: 10px;
+            border: 5px solid #dadada;
+            display: block;
+            margin: auto;
+            margin-top: 40px;
+            height: 200px;
+        }
+        /* ==========================================================================
+        07. Special offers 
+    ========================================================================== */
+        /*Gets the overlay*/
+        
+        .bg-overlay-white {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(44, 33, 5, 0.5);
+            ;
+            z-index: 0;
+        }
+        
+        .hot-tag {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            z-index: 15;
+            display: inline-block;
+            width: 80px;
+            height: 80px;
+            line-height: 90px;
+            text-align: center;
+            font-weight: 700;
+            color: #f1f1f1;
+            -webkit-border-radius: 100px;
+            -moz-border-radius: 100px;
+            border-radius: 100px;
+        }
+        
+        .br-red {
+            background-color: #808000 !important;
+        }
+        
+        .br-lblue {
+            background-color: #32c8de !important;
+        }
+        
+        .br-green {
+            background-color: #51d466 !important;
+        }
+        
+        .pricing {
+            border-top: 1px solid #f1f1f1;
+        }
+        /*gets tastyboxbites h2*/
+        
+        .pricing h2 {
+            color: #f1f1f1;
+        }
+        
+        .pricing .pricing-item {
+            position: relative;
+            margin-top: 40px;
+            margin-bottom: 10px;
+        }
+        
+        .pricing .pricing-item img {
+            max-width: 250px;
+            float: left;
+        }
+        /*Gets a, p elements*/
+        
+        .pricing-item-details a,
+        .pricing-item-details p,
+        .pricing .lead {
+            color: #f1f1f1;
+            font-weight: bold;
+        }
+        
+        .pricing .pricing-item .pricing-item-details {
+            margin-left: 265px;
+        }
+        
+        .pricing .pricing-item .pricing-item-details h3 {
+            margin-top: 0;
+            margin-bottom: 8px;
+        }
+        
+        .pricing .pricing-item .pricing-item-details p {
+            color: #f1f1f1;
+        }
+        
+        .pricing .pricing-item .pricing-item-details a.btn {
+            margin-top: 10px;
+        }
+        
+        .pricing .pricing-item .pricing-item-details a.view-link {
+            display: inline-block;
+            margin-top: 7px;
+            font-size: 12px;
+            border-bottom: 1px dotted #aeaeae;
+        }
+        
+        .pricing .pricing-item .hot-tag {
+            top: 0;
+            left: 0;
+            margin-top: -15px;
+            margin-left: -15px;
+            width: 55px;
+            height: 55px;
+            line-height: 50px;
+            font-size: 23px;
+            font-weight: 700;
+            border: 4px solid white;
+        }
+        /* ==========================================================================
+        08. Abordaje
+    ========================================================================== */
+        
+        .form-group {
+            margin-bottom: 24px;
+        }
+        
+        .form-control[disabled],
+        .form-control[readonly],
+        fieldset[disabled] .form-control {
+            cursor: not-allowed;
+            background-color: transparent;
+        }
+        
+        .form-control {
+            height: 38px;
+            font-size: 14px;
+            vertical-align: middle;
+            background-color: transparent;
+            -webkit-border-radius: 2px;
+            -webkit-border-radius: 2px;
+            -moz-border-radius: 2px;
+            border-radius: 2px;
+            -webkit-box-shadow: none !important;
+            -moz-box-shadow: none !important;
+            box-shadow: none !important;
+            -webkit-transition: none !important;
+            -moz-transition: none !important;
+            -o-transition: none !important;
+            transition: none !important;
+        }
+        
+        .form p {
+            margin: 10px 0 30px 0;
+        }
+        /* ==========================================================================
+        09. Chefs 
+    ========================================================================== */
+        
+        .chefs img {
+            border: 5px solid #e7e7e7;
+            width: 80%;
+        }
+        
+        .button {
+            background-color: #cc00cc;
+            border: none;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        
+        .button4 {
+            border-radius: 12px;
+        }
+        
+        .alert {
+            padding: 20px;
+            background-color: #cc00cc;
+            color: white;
+        }
+        
+        .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 25px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        
+        .closebtn:hover {
+            color: black;
+        }
+        
+        .collapsible {
+            background-color: #800080;
+            color: white;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            font-family: 'Roboto', serif;
+            outline: none;
+            font-size: 20px;
+        }
+        
+        .active,
+        .collapsible:hover {
+            background-color: rgb(173, 76, 173);
+        }
+        
+        .collapsible:after {
+            content: '\002B';
+            color: white;
+            font-weight: bold;
+            float: right;
+            margin-left: 5px;
+            font-size: 18px;
+        }
+        
+        .active:after {
+            content: "\2212";
+        }
+        
+        .content {
+            padding: 0 18px;
+            max-height: 0;
+            overflow: hidden;
+            font-size: 18px;
+            transition: max-height 0.2s ease-out;
+            background-color: #f1eded;
+        }
+        /* ==========================================================================
+        10. Footer 
+    ========================================================================== */
+        /* Footer */
+        
+        .footerblack {
+            padding: 20px;
+            text-align: center;
+            background: #000000;
+            color: white;
+        }
+        /* Footer xiib morado */
+        
+        .footerxiib {
+            padding: 20px;
+            text-align: center;
+            background: #660066;
+            color: white;
+        }
+        
+        .dark-wrapper {
+            background: #660066;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        
+        .dark-wrapper .ss-style-top::before {
+            background-image: linear-gradient(315deg, #660066 50%, transparent 50%), linear-gradient(45deg, #660066 50%, transparent 50%);
+        }
+        
+        .social-bar {
+            width: 100%;
+            text-align: center;
+        }
+        
+        .social-bar a {
+            display: inline-block;
+            margin-right: 11px;
+            font-size: 2.15em;
+            text-decoration: none;
+            color: #fff;
+            opacity: 1;
+            filter: alpha(opacity=100);
+            -webkit-transition: opacity 350ms ease;
+            -moz-transition: opacity 350ms ease;
+            -o-transition: opacity 350ms ease;
+            transition: opacity 350ms ease;
+        }
+        
+        .social-bar a:hover {
+            opacity: 0.5;
+            filter: alpha(opacity=50);
+        }
+        
+        .themeBy {
+            color: #660066;
+            background: white;
+        }
+        /* inicio Scroll Down   */
+        
+        #myBtn {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            font-size: 20px;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 15px;
+            text-align: center;
+        }
+    }
+    #myBtn:hover {
+        background-color: #b300b3;
+    }
+    /* final Scroll Down   */
+    /* ==========================================================================
+        11. Responsive styles 
+    ========================================================================== */
+    @media (max-width: 991px) {
+        .pricing .pricing-item .pricing-item-details {
+            margin-left: 0;
+        }
+        
+        .pricing .pricing-item a img {
+            float: none;
+            margin-bottom: 30px;
+        }
+        
+        .menu-titles h1 {
+            font-size: 25px;
+        }
+    }
+    @media (min-width:768px) {
+        .navbar-nav {
+            float: none !important;
+            width: 100%;
+            text-align: center;
+            margin-left: 9px;
+        }
+        
+        .navbar-nav>li {
+            display: inline-block;
+            float: none;
+        }
+        
+        #logo {
+            position: absolute;
+            display: block !important;
+            width: 110px;
+            left: 50%;
+            margin-left: -55px;
+            background: black;
+            -webkit-border-radius: 0 0 100% 100%;
+            -moz-border-radius: 0 0 100% 100%;
+            border-radius: 0 0 100% 100%;
+            padding: 12px;
+        }
+    }
+    @media (max-width:767px) {
+        #header .banner h1 {
+            font-size: 30px;
+        }
+        
+        #header .subtitle h4 {
+            font-size: 22px;
+        }
+        
+        .social-bar {
+            text-align: center;
+            margin-top: 30px;
+        }
+    }
+    /* inicio Icon Bar   */
+    body {
+        margin: 0;
+    }
+    .icon-bar {
+        width: 100%;
+        background-color: #ffffff;
+        overflow: auto;
+    }
+    .icon-bar a {
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 12px 0;
+        transition: all 0.3s ease;
+        color: #bfbfbf;
+        font-size: 36px;
+    }
+    .icon-bar a:hover {
+        background-color: #f2f2f2;
+    }
+}
+
+/* Final Icon Bar  */
+
+/* inicio Hoverable Sidenav Buttons  */
+#mySidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 10px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+/* inicio menu2 */
+
+}
+body {
+    margin:0;
+}
+.icon-bar2 {
+    width: 100%;
+    background-color: #555;
+    overflow: hidden;
+    position: fixed;
+}
+.icon-bar2 a {
+    float: left;
+    display: block;
+    width: 20%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
+.icon-bar2 a:hover {
+    background-color: #000;
+}
+.active2 {
+    background-color: #4CAF50;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: none;
+    border-radius: 4px
+}
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus {
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px
+}
+.btn.focus,
+.btn:focus,
+.btn:hover {
+    color: #333;
+    text-decoration: none
+}
+.btn.active,
+.btn:active {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125)
+}
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn {
+    cursor: not-allowed;
+    filter: alpha(opacity=65);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    opacity: .65
+}
+a.btn.disabled,
+fieldset[disabled] a.btn {
+    pointer-events: none
+}
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc
+}
+.btn-default.focus,
+.btn-default:focus {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #8c8c8c
+}
+.btn-default:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad
+}
+.btn-default.active,
+.btn-default:active,
+.open>.dropdown-toggle.btn-default {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad
+}
+.btn-default.active.focus,
+.btn-default.active:focus,
+.btn-default.active:hover,
+.btn-default:active.focus,
+.btn-default:active:focus,
+.btn-default:active:hover,
+.open>.dropdown-toggle.btn-default.focus,
+.open>.dropdown-toggle.btn-default:focus,
+.open>.dropdown-toggle.btn-default:hover {
+    color: #333;
+    background-color: #d4d4d4;
+    border-color: #8c8c8c
+}
+.btn-default.active,
+.btn-default:active,
+.open>.dropdown-toggle.btn-default {
+    background-image: none
+}
+.btn-default.disabled.focus,
+.btn-default.disabled:focus,
+.btn-default.disabled:hover,
+.btn-default[disabled].focus,
+.btn-default[disabled]:focus,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default.focus,
+fieldset[disabled] .btn-default:focus,
+fieldset[disabled] .btn-default:hover {
+    background-color: #fff;
+    border-color: #ccc
+}
+.btn-default .badge {
+    color: #fff;
+    background-color: #333
+}
+.btn-danger {
+    color: #fff;
+    background-color: #660066;
+    border-color: #330033
+}
+.btn-danger.focus,
+.btn-danger:focus {
+    color: #fff;
+    background-color: #993399;
+    border-color: #761c19
+}
+.btn-danger:hover {
+    color: #fff;
+    background-color: #993399;
+    border-color: #ac2925
+}
+.btn-danger.active,
+.btn-danger:active,
+.open>.dropdown-toggle.btn-danger {
+    color: #fff;
+    background-color: #993399;
+    border-color: #ac2925
+}
+.btn-danger.active.focus,
+.btn-danger.active:focus,
+.btn-danger.active:hover,
+.btn-danger:active.focus,
+.btn-danger:active:focus,
+.btn-danger:active:hover,
+.open>.dropdown-toggle.btn-danger.focus,
+.open>.dropdown-toggle.btn-danger:focus,
+.open>.dropdown-toggle.btn-danger:hover {
+    color: #fff;
+    background-color: #ac2925;
+    border-color: #761c19
+}
+.btn-danger.active,
+.btn-danger:active,
+.open>.dropdown-toggle.btn-danger {
+    background-image: none
+}
+.btn-danger.disabled.focus,
+.btn-danger.disabled:focus,
+.btn-danger.disabled:hover,
+.btn-danger[disabled].focus,
+.btn-danger[disabled]:focus,
+.btn-danger[disabled]:hover,
+fieldset[disabled] .btn-danger.focus,
+fieldset[disabled] .btn-danger:focus,
+fieldset[disabled] .btn-danger:hover {
+    background-color: #d9534f;
+    border-color: #d43f3a
+}
+.btn-danger .badge {
+    color: #d9534f;
+    background-color: #fff
+}
+.btn-link {
+    font-weight: 400;
+    color: #337ab7;
+    border-radius: 0
+}
+.btn-link,
+.btn-link.active,
+.btn-link:active,
+.btn-link[disabled],
+fieldset[disabled] .btn-link {
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+.btn-link,
+.btn-link:active,
+.btn-link:focus,
+.btn-link:hover {
+    border-color: transparent
+}
+.btn-link:focus,
+.btn-link:hover {
+    color: #23527c;
+    text-decoration: underline;
+    background-color: transparent
+}
+.btn-link[disabled]:focus,
+.btn-link[disabled]:hover,
+fieldset[disabled] .btn-link:focus,
+fieldset[disabled] .btn-link:hover {
+    color: #777;
+    text-decoration: none
+}
+.btn-group-lg>.btn,
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px
+}
+.btn-group-sm>.btn,
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px
+}
+.btn-group-xs>.btn,
+.btn-xs {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px
+}
+.btn-block {
+    display: block;
+    width: 100%
+}
+.btn-block+.btn-block {
+    margin-top: 5px
+}
+input[type=button].btn-block,
+input[type=reset].btn-block,
+input[type=submit].btn-block {
+    width: 100%
+}
+.icontainer {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 100%;
+    /* 16:9 Aspect Ratio */
+}
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.all-browsers {
+    margin: 0;
+}
+.all-browsers>h1,
+.browser {
+    margin: 0px;
+    padding: 0px;
+}
+.browser {
+    background:;
+}
+.browser>h2,
+p {
+    margin: 4px;
+    font-size: 100%;
+}
+    </style>
+
+
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDD26NF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- hi tepozspa.xiiber.com (noscript) -->
+    <script type=»text/javascript»>
+        document.oncontextmenu = function() {
+            return false;
+        }
+    </script>
+    <!-- bye tepozspa.xiiber.com (noscript) -->
+
+    <!-- Logo -->
+    <a onclick="document.location='https://www.xiiber.com/'" class="logo">
+        <img src="sgv/elipsis.webp" alt="Xiiber Travel " width="33px" height="33px">
+    </a>
+
+
+
+
+    <div id="menu" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header visible-xs">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Viajes gay</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+                    <h2> <img src="fotos/tepozspa-viaje-gay-solteros-y-parejas.png" alt="Xiiber Viajes gay, Bus a Tepozspa" width="200" height="30" title="Tepozspa"> </h2>
+                </a>
+            </div>
+            <!-- navbar-header -->
+            <div id="navbar" class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#xiiber">Xiiber Travel</a></li>
+                    <li><a href="#abordaje">Abordaje</a></li>
+                    <li><a href="#proximos-viajes">Próximos viajes</a></li>
+                    <li>
+                        <a href="#metodo-de-pago">Método de pago</a>
+                    </li>
+                    <li><a href="#paquetes">Paquetes</a> </li>
+                    <li><a href="#blog">Blog</a></li>
+
+                    <!--fix for scroll spy active menu element-->
+                    <li style="display:none;">
+                        <a href="#header"></a>
+                    </li>
+
+                </ul>
+            </div>
+            <!--/.navbar-collapse -->
+        </div>
+        <!-- container -->
+    </div>
+    <!-- menu -->
+
+
+    <div id="header">
+        <div class="bg-overlay"></div>
+        <div class="center text-center">
+            <div itemscope itemtype="https://schema.org/TouristAttraction">
+                <br><br><br><br><br>
+                <img src="https://tepozspa.xiiber.com/fotos/logo-xiiber-travel-tepozspa.webp" alt="Xiiber" width="250" height="200" title="Tepozspa">
+                <div class="subtitle">
+                    <h4>te lleva a </h4>
+                </div>
+                <div class="banner">
+                    <h1><span itemprop="name"> Tepozspa</span></h1> <br><br><br><br><br><br><br><br>
+                </div>
+            </div>
+            <div class="bottom text-center">
+                <a id="scrollDownArrow" href="#xiiber"><i class="fa fa-chevron-down"></i></a>
+            </div>
+        </div>
+    </div>
+    <!-- /#header -->
+
+
+    <div itemscope itemtype="https://schema.org/LocalBusiness">
+        <div id="xiiber" class="light-wrapper">
+            <section class="ss-style-top"></section>
+            <div class="container inner">
+                <h2 class="section-title text-center" style="font-family: 'Montserrat Alternates', sans-serif; font-size: 40px; color:grey; text-align: center; "><span itemprop="name">xiiber </span></h2>
+                <p class="lead main text-center"><span itemprop="description"> Agencia de viajes gay en México</span></p>
+                <img itemprop="image" style="display:none;visibility:hidden" src="https://tepozspa.xiiber.com/fotos/LocalBusiness" alt="Xiiber" />
+                <div class="row text-center story">
+                    <div class="col-sm-4">
+                        <div class="col-wrapper">
+                            <div class="icon-wrapper"> <i class="fa fa-bus"></i> </div>
+                            <h3>Reserva</h3>
+                            <p>Con anticipación</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="col-wrapper">
+                            <div class="icon-wrapper"> <i class="fa  fa-gift"></i> </div>
+                            <h3>Actividades</h3>
+                            <p>Durante el bus y regalos en las rifas</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="col-wrapper">
+                            <div class="icon-wrapper"> <i class="fa fa-group"></i> </div>
+                            <h3>Exclusivo</h3>
+                            <p>Para hombres gay </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.services -->
+            </div>
+            <!-- /.container -->
+            <section class="ss-style-bottom"></section>
+        </div>
+    </div>
+    <!-- #xiiber -->
+    <div id="proximos-viajes" class="parallax parallax2 facts">
+        <div class="bg-overlay"></div>
+        <div class="container inner">
+            <div itemscope itemtype="https://schema.org/TouristAttraction">
+                <h2 class="section-title text-center" style="color: white;"><span itemprop="name">Próximos viajes a Tepozspa</span></h2><br>
+
+                <div class="row text-center services-3">
+
+
+                    <div itemprop="event" itemscope itemtype="https://schema.org/Event">
+                        <div class="col-sm-3">
+                            <div class="col-wrapper">
+                                <div class="icon-border bm10"> <i class="fa fa-calendar-plus-o"></i> </div>
+                                <h4><span itemprop="about">Mayo</span></h4>
+                                <span itemprop="location" style="display:none;visibility:hidden">Tepozspa, Tepoztlán Morelos</span>
+                                <p><span itemprop="startDate" content="2021-08-21T08:30"></span></p>
+                                <p><span itemprop="name">Pool Party</span></p><br>
+                                <a href="https://www.xiiber.com/viajes/tepozspa/fechas "> <button type="submit" class="btn btn-danger btn-lg">Reserva!</button></a><br><br><br>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div itemprop="event" itemscope itemtype="https://schema.org/Event">
+                        <div class="col-sm-3">
+                            <div class="col-wrapper">
+                                <div class="icon-border bm10"> <i class="fa fa-calendar"></i> </div>
+                                <h4><span itemprop="about"> Junio</span></h4>
+                                <p><span itemprop="name">Viaje para solteros</span></p><br>
+                                <span itemprop="location" style="display:none;visibility:hidden">Tepozspa, Tepoztlán Morelos</span>
+                                <p><span itemprop="startDate" content="2021-08-21T08:30"></span></p>
+                                <a href="https://www.xiiber.com/viajes/tepozspa/fechas "> <button type="submit" class="btn btn-danger btn-lg">Reserva!</button></a><br><br>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div itemprop="event" itemscope itemtype="https://schema.org/Event">
+                        <div class="col-sm-3">
+                            <div class="col-wrapper">
+                                <div class="icon-border bm10"> <i class="fa fa-calendar-plus-o"></i> </div>
+                                <h4><span itemprop="about">Julio</span></h4>
+                                <p><span itemprop="name">Viaje en tangas</span></p><br>
+                                <span itemprop="location" style="display:none;visibility:hidden">Tepozspa, Tepoztlán Morelos</span>
+                                <p><span itemprop="startDate" content="2021-08-21T08:30"></span></p>
+                                <a href="https://www.xiiber.com/viajes/tepozspa/fechas "> <button type="submit" class="btn btn-danger btn-lg">Reserva!</button></a><br><br><br>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div itemprop="event" itemscope itemtype="https://schema.org/Event">
+                        <div class="col-sm-3">
+                            <div class="col-wrapper">
+                                <div class="icon-border bm10"> <i class="fa fa-calendar-o"></i> </div>
+                                <h4><span itemprop="about">Viajes 2021</span></h4>
+                                <p><span itemprop="name">Reserva tu lugar</span></p><br>
+                                <span itemprop="location" style="display:none;visibility:hidden">Tepozspa, Tepoztlán Morelos</span>
+                                <p><span itemprop="startDate" content="2021-08-21T08:30"></span></p>
+                                <a href="https://www.xiiber.com/viajes "><button type="submit" class="btn btn-danger btn-lg">Ver fechas</button></a><br><br><br>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- #metodos-de-pago -->
+
+
+
+
+    <div id="metodo-de-pago" class="light-wrapper">
+        <section class="ss-style-top"></section>
+        <div class="container inner">
+
+
+            <div itemscope itemtype="https://schema.org/TouristAttraction">
+                <h2 class="section-title text-center">Formas de pago</h2>
+                <p class="lead main text-center"></p>
+
+                <button class="collapsible"><div><meta itemprop="paymentAccepted" content="Cash, Credit Card"/>Banco Azteca</div></button>
+                <div class="content">
+                    <p><br>
+                        <table class="w3-table">
+                            <tr>
+                                <td>
+                                    <p> Banco receptor </p>
+                                </td>
+                                <td>
+                                    <p> <b>Banco Azteca </b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p> Nombre receptor <i class="fa fa-clone" onclick="myFunctionz()"></i></p>
+                                </td>
+                                <td> <input type="text" value="Luis Angel Maciel Padilla" id="myInput2"></td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p> CLABE Interbancaria <i class="fa fa-clone" onclick="myFunction()"></i> </p>
+                                </td>
+                                <td> <input type="text" value="1271 8001 3324 6288 22 " id="myInput1"></td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p> Tarjeta de débito <i class="fa fa-clone" onclick="tarjetadebito()"></i> </p>
+                                </td>
+                                <td> <input type="text" value="4027 6657 4930 1926 " id="debito"></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p> Número de cuenta <i class="fa fa-clone" onclick="numcuenta()"></i></p>
+                                </td>
+                                <td> <input type="text" value="2545 1332 4628 82 " id="cuenta"></td>
+                            </tr>
+                        </table>
+                        <script>
+                            function numcuenta() {
+                                var copyText = document.getElementById("cuenta");
+                                copyText.select();
+                                copyText.setSelectionRange(0, 99999)
+                                document.execCommand("copy");
+                                alert("Número de cuenta copiada " + copyText.value);
+                            }
+                        </script>
+                        <script>
+                            function tarjetadebito() {
+                                var copyText = document.getElementById("debito");
+                                copyText.select();
+                                copyText.setSelectionRange(0, 99999)
+                                document.execCommand("copy");
+                                alert("Tarjeta de débito copiada " + copyText.value);
+                            }
+                        </script>
+                        <script>
+                            function myFunction() {
+                                var copyText = document.getElementById("myInput1");
+                                copyText.select();
+                                copyText.setSelectionRange(0, 99999)
+                                document.execCommand("copy");
+                                alert("Copiada la CLABE " + copyText.value);
+                            }
+                        </script>
+                        <script>
+                            function myFunctionz() {
+                                var copyText = document.getElementById("myInput2");
+                                copyText.select();
+                                copyText.setSelectionRange(0, 99999)
+                                document.execCommand("copy");
+                                alert("Copiado el nombre receptor " + copyText.value);
+                            }
+                        </script>
+
+
+                        <i class="fa fa-exclamation-circle" style="font-size:6x;color:red"> En referencia anota tu numero de celular y nombre </i><br><br>
+                </div>
+                <button class="collapsible"><div><meta itemprop="paymentAccepted" content="Cash, Credit Card"/>Banca por internet</div></button>
+                <div class="content">
+                    <br>
+                    <p><b>CLABE Interbancaria:</b> 1271 8001 3324 6288 22<br>
+                        <p><b>Banco receptor</b> Banco Azteca<br>
+                            <p>Nombre receptor<b></b> Luis Maciel<br>
+                </div>
+                <button class="collapsible"><div><meta itemprop="paymentAccepted" content="Cash, Credit Card"/>Visa, Mastercard, American </div></button>
+                <div class="content">
+                    <p><br>
+                        <b style="color:#000066;">Datos Generales</b><br>
+                        <p>Solicita tu número de referencia personalizado por whatsapp, solo indicanos cual será la tarjeta que utilizaras para poder generar el enlace y completes el pago, solo tienes 72 horas o de lo contrario tendrás que generar otro.
+                            <br>
+
+                </div>
+
+                <script>
+                    var coll = document.getElementsByClassName("collapsible");
+                    var i;
+
+                    for (i = 0; i < coll.length; i++) {
+                        coll[i].addEventListener("click", function() {
+                            this.classList.toggle("active");
+                            var content = this.nextElementSibling;
+                            if (content.style.maxHeight) {
+                                content.style.maxHeight = null;
+                            } else {
+                                content.style.maxHeight = content.scrollHeight + "px";
+                            }
+                        });
+                    }
+                </script>
+
+            </div>
+            <!-- /.container -->
+            <section class="ss-style-bottom"></section>
+        </div>
+    </div>
+    <!--/#metodo-de-pago-->
+
+
+
+
+    <div id="paquetes" class="parallax pricing">
+        <div class="bg-overlay-white"></div>
+
+        <div class="container inner">
+
+
+            <div itemscope itemtype="https://schema.org/TouristAttraction">
+                <h2 class="section-title text-center"><span itemprop="name">Paquetes</span>
+                </h2>
+            </div>
+
+            <p class="lead main text-center">
+                <i><b>El costo de la entrada con locker o vestidor incluye:</b></i>
+                <br><br>Acceso a las instalaciones<br> Regaderas
+                <br> Jacuzzis
+                <br> Alberca <br>Jardín <br> Vapor <br>Cuarto oscuro<br> Renta de toalla <br>
+                <br>
+                <i><b>Costos extras:</b>
+                        </i> <br>Consumo en el bar y Masajes
+            </p>
+
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+
+                    <div class="pricing-item">
+
+                        <a href="#"><img class="img-responsive img-thumbnail" src="https://tepozspa.xiiber.com/fotos/tepozspa-alberca.webp" alt="Tepozspa, vestidor" title="Tepozspa, vestidor"></a>
+
+                        <div class="pricing-item-details">
+                            <div>
+                                <span itemprop="description"><h3><a href="#">Vestidor</a></h3></span>
+                            </div>
+
+                            <p>Los viajeros que hallan reservado su lugar con vestidor, serán los primeros en entrar al spa.</p>
+
+                            <a class="btn btn-danger" href="#facts">Reserva tu lugar</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <!--price tag-->
+                        <span class="hot-tag br-red">$$</span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+
+                    <div class="pricing-item">
+
+                        <a href="#"><img class="img-responsive img-thumbnail" src="https://tepozspa.xiiber.com/fotos/tepozspa-alberca.webp" alt="Tepozspa, locker" title="Tepozspa, locker"></a>
+
+                        <div class="pricing-item-details">
+
+                            <div>
+                                <span itemprop="description"> <h3><a href="#">Locker</a></h3></span>
+                            </div>
+
+                            <p>Los viajeros con opción de locker, será el segundo grupo en entrar, de acuerdo al número que fue entregado cuando llegaron abordar el autobus.</p>
+
+                            <a class="btn btn-danger" href="#facts">Reserva tu lugar</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <!--price tag-->
+                        <span class="hot-tag br-lblue">$</span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="clearfix visible-md"></div>
+                <div class="col-md-6 col-sm-6">
+
+                    <div class="pricing-item">
+
+                        <a href="#"><img class="img-responsive img-thumbnail" src="https://tepozspa.xiiber.com/fotos/tepozspa-alberca.webp" alt="Tepozspa, campamento" title="Tepozspa, campamento"> </a>
+
+                        <div class="pricing-item-details">
+
+                            <div>
+                                <span itemprop="description"> <h3><a href="#">Compamento</a></h3>
+                        </span>
+                            </div>
+
+                            <p>Incluye: Desayuno, casa de campaña, colchón individual, sábanas y cobijas. Incluye toalla y agua potable </p>
+
+                            <a class="btn btn-danger" href="#facts">Reserva tu lugar</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <!--price tag-->
+                        <span class="hot-tag br-green">$$$</span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+
+                    <div class="pricing-item">
+
+                        <a href="#"><img class="img-responsive img-thumbnail" src="https://tepozspa.xiiber.com/fotos/tepozspa-alberca.webp" alt="Tepozspa, transpsorte" title="Tepozspa, transporte"></a>
+
+                        <div class="pricing-item-details">
+
+                            <h3><a href="#">Solo Transporte</a></h3>
+
+                            <p>El transporte esta sujeto a disponibilidad. Puede ser de ida, ida/regreso o únicamente regreso al pueblo de Tepoztlan o spa. </p>
+
+                            <a class="btn btn-danger" href="#facts">Reserva tu lugar</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <!--price tag-->
+                        <span class="hot-tag br-red">$</span>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /#paquetes -->
+
+
+
+
+    <div id="abordaje" class="light-wrapper">
+        <section class="ss-style-top"></section>
+        <div class="container inner">
+
+            <h2 class="section-title text-center">Abordaje</h2>
+            <p class="lead main text-center">Ubicación horarios y mecanica</p>
+
+
+
+            <div class="row">
+                <div class="col-md-6">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.426381844952!2d-99.14863788509457!3d19.350681986930972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fdea83072205%3A0x762481276f0ce59d!2sXiiber!5e0!3m2!1ses-419!2smx!4v1601917528147!5m2!1ses-419!2smx"
+                        text-align="center " width="300 " height="225 " frameborder="0 " style="border:0; " allowfullscreen=" " aria-hidden="false " tabindex="0 " title="Comó llegar a Tepozspa"></iframe>
+                </div>
+
+
+                <!-- col-md-6 -->
+                <div class="col-md-5 col-md-offset-1 ">
+                    <div itemprop="event" itemscope itemtype="https://schema.org/Event">
+                        <span itemprop="name" style="display:none;visibility:hidden">Viaje a Tepozspa</span>
+                        <span itemprop="startDate" content="2021-08-21T08:30"></span>
+
+                        <h3><i class="fa fa-clock-o fa-fw "></i><span itemprop="about">Horarios</span></eh3>
+                            <h4>CDMX</h4>
+                            <p>Puedes abordar el bus desde las 8:30am. <br> Salimos a las 9:00 AM en punto </p>
+                            <h4>Tepozspa</h4>
+                            <p>Puedes abordar el bus desde las 8:00pm. <br>Salimos a las
+                                <div class="event-time"> 8:30 PM </div> en punto</p>
+
+                            <div class="event-venue">
+                                <h3><i class="fa fa-map-marker fa-fw "></i> <span itemprop="location">Punto de reunión CDMX</span></h3>
+                                <p>En la primera gasolinera que esta saliendo del metro General Anaya, dirección Taxqueña, siguiendo el sentido de los carros
+                                    <br>
+                                    <br>
+                                    <div class="address">Heroes del 47 13, San Diego Churubusco, Coyoacán, 04120 Ciudad de México, CDMX</div>
+                                </p>
+                            </div>
+
+                    </div>
+
+                </div>
+                <!-- col-md-6 -->
+            </div>
+            <!-- /.services -->
+            <br>
+            <br>
+
+            <article class="all-browsers">
+                <article class="browser">
+                    <p class="lead main text-center">Mecánica</p>
+
+                    <br>
+                    <p style="font-size:18px; color:purple;"><b>Paso 1.</b> </p>
+                    <p> Selecciona la fecha del viaje al que quieres asistir</p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 2.</b> </p>
+                    <p>Completa el forumulario de reservación</p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 3.</b> </p>
+                    <p>Envia tu comprobante por concepto de apartado</p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 4.</b> </p>
+                    <p>El día del viaje puedes abordar el bus desde las 8:30am, salimos en punto de las 9am</p>
+                    <br>
+                    <p> El acceso al spa, será conforme fueron llegando al bus. Es muy importante que pases lista en cuanto llegues al punto de reunión. El organizador estará frente a la entrada del bus, quien te hará entregará de tú boleto para el acceso
+                        a spa, además de ser tu número para participar en las rifas de trayecto de ida y/o regreso. ¡Cuida tu boleto! </p><br>
+                    <p> Puedes elegir el lugar que tú prefieras en el autobús.</p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 5.</b> </p>
+                    <p> Disfruta del viaje y gracias por cuidar las instalaciones del autobús. De camino sí algun pasajero cumpleaños le entregamos un pastel de parte de Xiiber. Al finalizar el recorrido encontrarás una bolsa para tirar tu basura.
+                        <br> Generalmente por la distancia no se recomienda el uso del servicio sanitario, pero sí lo llegases a requerir, puedes solicitar la llave al organizador. </p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 6.</b> </p>
+                    <p>Estando en el Tepozspa, solicitamos de tu apoyo para formarse en dos filas. Una correspondiente a los números que corresponden al acceso con locker y otra fila con las letras, correspondientes al acceso con vestidor. Por instrucciones
+                        del spa, los primeros en acceder serán las letras/vestidores.</p><br>
+                    <p>Nota importante, por seguridad de todos, se hará una revisión general. En caso de que lleves bebidas, alimentos y/o dulces, puedes dejarlos en el bus, consumirlos antes o solicitar que te los guarden y a la salida puedes recogerlos.
+                    </p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 7.</b> </p>
+                    <p>Preven tus tiempos para vestirte y hacer el pago correspondiente de tu cuenta para abordar a tiempo. Puedes subir al bus desde las 8:00pm y salimos a las 8:30pm en punto.
+                        <br>Haremos una parada de 20 a 30 minutos aproximadamente en la tiendita ubicada en la Glorieta del Tepozteco, a un costado de la gasolinera. </p>
+
+                    <p style="font-size:18px; color:purple;"><b>Paso 8.</b> </p>
+                    <p> Durante el recorrido, haremos una rifa, te invitamos a participar. Agradecemos cuides de las instalaciones del bus. Al finalizar el recorrido encontrarás una bolsa para tirar tu basura.
+                        <br>El tiempo estimado de llegada a la CDMX, es a las 11:00pm. Descendemos frente al Metro General Anaya, dirección centro. <br></p>
+                    <br>
+                    <h6><b>Muchas gracias tu confianza y esperamos vernos nuevamente en otro viaje a Tepoz o quizás alguno más largo como <i>Acapulco o Puerto Vallarta</i>.</b> </h6>
+                </article>
+            </article>
+        </div>
+        <!-- /.container -->
+
+
+
+
+    </div>
+    <!-- #abordaje -->
+
+
+    <article class="all-browsers">
+        <article class="browser">
+            <div id="blog" class="parallax pricing ">
+                <div class="bg-overlay "></div>
+                <div class="container inner ">
+                    <h2 style="color:white; text-align:center; font-family: 'Roboto', serif; font-size: 35px;  ">BLOG</h2>
+                    <h3 style=" color:white; text-align:center; font-family: 'Roboto', serif; font-size: 20px; ">Recomendaciones adicionales para viajar tranquilo y pasarte un buen día</h3>
+                    <br>
+                    <div class="row text-center chefs ">
+                        <div class="col-sm-4 ">
+                            <div class="col-wrapper ">
+                                <div class="icon-wrapper ">
+                                    <img src="fotos/viajes-gay-tepozspa.webp" title="¿Y si viajo solo?" width="" height="">
+                                </div>
+                                <h3>¿Puedo viajar solo?</h3>
+                                <p>Si, puedes viajar solo, muchos pasajeros lo recomiendan</p>
+
+                                <div class="col-lg-12 col-md-12 ">
+                                    <a href="https://tepozspa.xiiber.com/boleto_a_tepozspa.html" target="_blank"> <button type="submit " class="btn btn-danger btn-lg " target="_blank">Leer más </button></a><br>
+                                </div>
+                                <br>
+
+                            </div>
+                        </div>
+                        <div class="col-sm-4 ">
+                            <div class="col-wrapper ">
+                                <div class="icon-wrapper ">
+                                    <img src="fotos/avatar-viajes-gay-tepozspa.webp  " width="" height="">
+                                </div>
+                                <h3>Siguenos en Twitter</h3>
+                                <p>Fotos y videos sin censura</p>
+                                <div class="col-lg-12 col-md-12 ">
+                                    <!-- Twitter follow -->
+                                    <div class="w3-container w3-center">
+                                        <a href="https://twitter.com/aTepozspa" class="twitter-follow-button data-show-count" data-show-count="false" data-size="large" data-dnt="false"> @XiiberTravel</a>
+                                        <script>
+                                            ! function(d, s, id) {
+                                                var js, fjs = d.getElementsByTagName(s)[0];
+                                                if (!d.getElementById(id)) {
+                                                    js = d.createElement(s);
+                                                    js.id = id;
+                                                    js.src = "https://platform.twitter.com/widgets.js";
+                                                    fjs.parentNode.insertBefore(js, fjs);
+                                                }
+                                            }(document, "script", "twitter-wjs");
+                                        </script>
+                                    </div>
+                                </div>
+                                <br>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 ">
+                            <div class="col-wrapper ">
+                                <div class="icon-wrapper ">
+                                    <img src="fotos/tepozspa-viaje-en-bus-cdmx.webp  " width="100%" height="aut" title="Check list para que no olvides nada">
+                                </div>
+                                <h3>¿Olvidas algo?</h3>
+                                <p>Te dejamos un check list para que no te falte nada el día del viaje</p>
+                                <div class="col-lg-12 col-md-12 ">
+                                    <a href="https://www.xiiber.com/check-list-tepozspa.html" target="_top">
+                                        <button type="submit " class="btn btn-danger btn-lg ">Hacer check list</button>
+                                    </a><br>
+                                </div>
+                                <br>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- /.container -->
+            </div>
+        </article>
+    </article>
+    <!-- /#blog -->
+
+
+
+    <div class="container inner text-center">
+        <h2 class="text-center"><span itemprop="name"> ¿Quieres recibir alertas de los próximos viajes con precio de preventa especial? </span></h2>
+
+        <h2 class="text-center"><span itemprop="name"> </span></h2>
+        <a href="registrate1.html" title="Recibe las preventas a precio especial"> <button type="submit" class="btn btn-danger btn-lg text-center">Si, enviamelas</button></a><br><br><br>
+    </div>
+    <!-- /.registrate -->
+
+
+
+    <!-- #xiiber -->
+
+    <footer id="footer " class="dark-wrapper ">
+        <section class="ss-style-top "></section>
+
+        <div itemprop="event" itemscope itemtype=" https://schema.org/Brand">
+            <div class="container inner ">
+                <div class="social-bar ">
+                    <div class="bottom text-center">
+                        <a id="scrollDownArrow" href="#xiiber" title="Sube "><i class="fa fa-chevron-up" ></i></a>
+                    </div>
+                    <p style="font-size:18px; color:white; ">
+                        <a href="https://www.tripadvisor.com.mx/Attraction_Review-g150800-d21347352-Reviews-Xiiber-Mexico_City_Central_Mexico_and_Gulf_Coast.html " target="_blank" class="fa fa-tripadvisor tooltipped " title="Calificación de 5 en Tripadvisor para Xiiber"></a>
+                        <h4> <b>CG Travel</b> ahora es <b><span itemprop="name" style="font-family: 'Montserrat Alternates', sans-serif; font-size: 20px; color:white; text-align: center; " >Xiiber</span></b> </h4>
+                        <h5><b><em><span itemprop="description">Xiib</em></b> Proviene de la lengua maya, significa hombre.</span>
+                        </h5>
+                    </p> <br>
+
+                    <a href="https://www.instagram.com/xiibertravel/ " target="_blank" class="fa fa-instagram tooltipped " title="Siguenos en Instagram "></a>
+                    <a href="https://www.youtube.com/channel/UC4kslfW6LE-g2Rs33G9jlXQ/?guided_help_flow=5 " target="_blank" class="fa fa-youtube-square tooltipped " title="Suscribete y dale me gusta "></a>
+                    <a href="https://www.google.com.mx/maps/place/Xiiber/@19.350687,-99.1486379,17z/data=!4m12!1m6!3m5!1s0x85d1fdea83072205:0x762481276f0ce59d!2sXiiber!8m2!3d19.3507606!4d-99.1464759!3m4!1s0x85d1fdea83072205:0x762481276f0ce59d!8m2!3d19.3507606!4d-99.1464759?hl=es"
+                        target="_blank" class="fa fa-google tooltipped " title="Calificación de 5 en Google My Business para Xiiber"></a>
+                    <h5> Hecho con ❤️ de ida y vuelta para ti</h5>
+
+                    <!-- Twitter follow -->
+                    <div class="w3-container w3-center">
+                        <a href="https://twitter.com/XiiberTravel" class="twitter-follow-button data-show-count" data-show-count="false" data-size="large" data-dnt="false"> @XiiberTravel</a>
+                        <script>
+                            ! function(d, s, id) {
+                                var js, fjs = d.getElementsByTagName(s)[0];
+                                if (!d.getElementById(id)) {
+                                    js = d.createElement(s);
+                                    js.id = id;
+                                    js.src = "https://platform.twitter.com/widgets.js";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                }
+                            }(document, "script", "twitter-wjs");
+                        </script>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <!-- /.container -->
+    </footer>
+
+
+
+    <div class="footerblack ">
+        <br><br><br>
+        <br> Copyright © 2012-2021 <b>Xiiber Travel</b> </b>
+        <br></h6>Las marcas y logotipos mostrados en este sitio web son únicamente informativos y los derechos corresponden a sus respectivos dueños.</h6>
+        <br><br><br>
+    </div>
+
+
+    <div itemscope itemtype="https://schema.org/LocalBusiness">
+        <div id="floating-menu">
+            <div id="floating-icon" style="padding: 10px;">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span itemprop="name" style="display:none;visibility:hidden">Xiiber, viaje a Tepozspa</span>
+                <img itemprop="image" style="display:none;visibility:hidden" src="https://tepozspa.xiiber.com/fotos/LocalBusiness" alt="Xiiber" />
+            </div>
+            <div id="floating-ligar" style="display: block;">
+                <a href="tel: 5539793727">
+                    <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.397 24.615l-104-23.997c-11.314-2.611-22.879 3.252-27.456 13.931l-48 111.997a24 24 0 0 0 6.862 28.029l60.617 49.596c-35.973 76.675-98.938 140.508-177.249 177.248l-49.596-60.616a24 24 0 0 0-28.029-6.862l-111.997 48C3.873 366.516-1.994 378.08.618 389.397l23.997 104C27.109 504.204 36.748 512 48 512c256.087 0 464-207.532 464-464 0-11.176-7.714-20.873-18.603-23.385z"></path></svg>
+                    <!-- <i class="fas fa-phone"></i> -->
+                </a>
+            </div>
+            <div id="floating-whatsapp" style="display: block;">
+                <a href="https://www.whatsapp.com/catalog/5215539793727?app_absent=">
+                    <svg class="svg-inline--fa fa-whatsapp fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="whatsapp" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>
+                    <!-- <i class="fab fa-whatsapp"></i> -->
+                </a>
+            </div>
+            <div id="floating-emergencia" data-toggle="modal" data-target="#modal-fullscreen" style="display: block;">
+                <svg class="svg-inline--fa fa-plus fa-w-14" aria-hidden="true" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M448 294.2v-76.4c0-13.3-10.7-24-24-24H286.2V56c0-13.3-10.7-24-24-24h-76.4c-13.3 0-24 10.7-24 24v137.8H24c-13.3 0-24 10.7-24 24v76.4c0 13.3 10.7 24 24 24h137.8V456c0 13.3 10.7 24 24 24h76.4c13.3 0 24-10.7 24-24V318.2H424c13.3 0 24-10.7 24-24z"></path></svg>
+                <!-- <i class="fas fa-plus"></i> -->
+            </div>
+        </div>
+
+        <div id="floating-ligar" style="display: none;">
+            <span itemprop="telephone">  <a href="tel: 5539793727">
+                <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.397 24.615l-104-23.997c-11.314-2.611-22.879 3.252-27.456 13.931l-48 111.997a24 24 0 0 0 6.862 28.029l60.617 49.596c-35.973 76.675-98.938 140.508-177.249 177.248l-49.596-60.616a24 24 0 0 0-28.029-6.862l-111.997 48C3.873 366.516-1.994 378.08.618 389.397l23.997 104C27.109 504.204 36.748 512 48 512c256.087 0 464-207.532 464-464 0-11.176-7.714-20.873-18.603-23.385z"></path></svg>
+                <!-- <i class="fas fa-phone"></i> -->
+            </a> </span>
+        </div>
+        <div id="floating-whatsapp" style="display: none;">
+            <span itemprop="telephone">   <a href="https://www.whatsapp.com/catalog/5215539793727?app_absent=">
+                <svg class="svg-inline--fa fa-whatsapp fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="whatsapp" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>
+                <!-- <i class="fab fa-whatsapp"></i> -->
+            </a></span>
+        </div>
+        <div id="floating-emergencia" data-toggle="modal" data-target="#modal-fullscreen" style="display: none;">
+            <svg class="svg-inline--fa fa-plus fa-w-14" aria-hidden="true" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M448 294.2v-76.4c0-13.3-10.7-24-24-24H286.2V56c0-13.3-10.7-24-24-24h-76.4c-13.3 0-24 10.7-24 24v137.8H24c-13.3 0-24 10.7-24 24v76.4c0 13.3 10.7 24 24 24h137.8V456c0 13.3 10.7 24 24 24h76.4c13.3 0 24-10.7 24-24V318.2H424c13.3 0 24-10.7 24-24z"></path></svg>
+            <!-- <i class="fas fa-plus"></i> -->
+        </div>
+
+
+        <!-- Modal-Fullscreen -->
+        <div class="modal fade modal-fullscreen" id="modal-fullscreen" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <iframe src="http://www.xiiber.com/secciones.html" " name="iframe_a " height="600px " width="100% " title="Iframe Example " allowfullscreen=" " frameborder="0 " style="border:0; "></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        <!-- <div class="modal fade col-lg-12 " id="modalUrgencia " role="dialog ">
+            <div class="modal-dialog ">
+                <div class="modal-content ">
+                    <button type="button " class="fechaModal " data-dismiss="modal ">×</button>
+                    <div class="modal-body ">
+                        <div class="icontainer ">
+                            <iframe class="responsive-iframe " src="http://www.xiiber.com/tropicalbeach.html "></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+
+    <script>
+        script.js(function($, sr) {
+            // debouncing function from Luis Angel MacPad
+            // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+            var debounce = function(func, threshold, execAsap) {
+                    var timeout;
+                    return function debounced() {
+                        var obj = this,
+                            args = arguments;
+
+                        function delayed() {
+                            if (!execAsap)
+                                func.apply(obj, args);
+                            timeout = null;
+                        };
+                        if (timeout)
+                            clearTimeout(timeout);
+                        else if (execAsap)
+                            func.apply(obj, args);
+                        timeout = setTimeout(delayed, threshold || 100);
+                    };
+                }
+                // smartresize 
+            jQuery.fn[sr] = function(fn) {
+                return fn ? this.bind('resize', debounce(fn)) : this.trigger(sr);
+            };
+        })(jQuery, 'smartresize');
+
+
+        $(document).ready(function() {
+            ///////////////////////////////
+            // Set Home Slideshow Height
+            ///////////////////////////////
+            function setHomeBannerHeight() {
+                var windowHeight = jQuery(window).height();
+                jQuery('#header').height(windowHeight);
+            }
+            ///////////////////////////////
+            // Center Home Slideshow Text
+            ///////////////////////////////
+            function centerHomeBannerText() {
+                var bannerText = jQuery('#header > .center');
+                var bannerTextTop = (jQuery('#header').actual('height') / 2) - (jQuery('#header > .center').actual('height') / 2) - 20;
+                bannerText.css('padding-top', bannerTextTop + 'px');
+                bannerText.show();
+            }
+            setHomeBannerHeight();
+            centerHomeBannerText();
+            //Resize events
+            jQuery(window).smartresize(function() {
+                setHomeBannerHeight();
+                centerHomeBannerText();
+            });
+
+            function scroll() {
+                if ($(window).scrollTop() == 0) {
+                    //$('.nav > li').removeClass('active');
+                    console.log($(window).scrollTop());
+                } else {
+
+                }
+            }
+            document.onscroll = scroll;
+            var $scrollDownArrow = $('#scrollDownArrow');
+            var animateScrollDownArrow = function() {
+                $scrollDownArrow.animate({
+                    top: 5,
+                }, 400, " linear ", function() {
+                    $scrollDownArrow.animate({
+                        top: -5,
+                    }, 400, "linear ", function() {
+                        animateScrollDownArrow();
+                    });
+                });
+            }
+            animateScrollDownArrow();
+            //Set Down Arrow Button
+            jQuery('#scrollDownArrow').click(function(e) {
+                e.preventDefault();
+                jQuery.scrollTo("#story ", 1000, {
+                    offset: -(jQuery('#header #menu').height()),
+                    axis: 'y'
+                });
+            });
+            jQuery('.nav > li > a, #logo a').click(function(e) {
+                e.preventDefault();
+
+                jQuery.scrollTo(jQuery(this).attr('href'), 400, {
+                    offset: -(jQuery('#header #menu').height()),
+                    axis: 'y'
+                });
+            });
+
+
+        });
+
+        // Scroll Down 
+        //Get the button
+        var mybutton = document.getElementById("myBtn ");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block ";
+            } else {
+                mybutton.style.display = "none ";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+        executando o efeito no menu flutuante
+    </script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>
+    <script src="whatsscript.js "></script>
+
+</body>
+
+</html>

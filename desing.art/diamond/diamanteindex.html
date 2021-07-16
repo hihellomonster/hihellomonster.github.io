@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Diamante</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./diamantestyle.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="stage">
+  <div class="container">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,200,200">
+      
+      <defs>
+        <mask id="m1">
+          <polygon fill="#fff" points="200,20 0,20 0,35 100,188 200,35" />
+        </mask>
+        
+        <mask id="m2">
+          <rect fill="#fff" width="200" height="200" />
+          <image class="sheenBlocker" xlink:href="https://assets.codepen.io/721952/orb.png" width="120" height="120" x="-40" y="-10" />
+          <image class="sheenBlocker" xlink:href="https://assets.codepen.io/721952/orb.png" width="180" height="180" x="20" y="55" />
+          <image class="sheenBlocker" xlink:href="https://assets.codepen.io/721952/orb.png" width="200" height="30" preserveAspectRatio="none" />          
+          <image class="sheenBlocker" xlink:href="https://assets.codepen.io/721952/orb.png" width="100" height="100" x="145" y="-15" />          
+        </mask>
+        
+        <polygon id="t1" class="top" points="100,-90 0,35 50,35" />
+        <polygon id="t2" class="top" points="100,-90 50,35 100,35" />
+        <polygon id="t3" class="top" points="100,-90 100,35 150,35" />
+        <polygon id="t4" class="top" points="100,-90 150,35 200,35" />    
+        <polygon id="t5" class="top" points="100,-90 200,35 200,35" />
+        
+        <polygon id="b1" class="bottom" points="100,190 0,35 50,35" />
+        <polygon id="b2" class="bottom" points="100,190 50,35 100,35" />
+        <polygon id="b3" class="bottom" points="100,190 100,35 150,35" />    
+        <polygon id="b4" class="bottom" points="100,190 150,35 200,35" />        
+        <polygon id="b5" class="bottom" points="100,190 200,35 200,35" />
+        
+      </defs>
+      
+      <g mask="url(#m1)">
+        <use class="topFill" fill="hsl(170, 100%, 50%)" href="#t1" />
+        <use class="topFill" fill="hsl(175, 100%, 40%)" href="#t2" />
+        <use class="topFill" fill="hsl(180, 100%, 30%)" href="#t3" />
+        <use class="topFill" fill="hsl(185, 100%, 20%)" href="#t4" />
+        <use class="topFill" fill="hsl(190, 100%, 10%)" href="#t5" />
+        <use class="bottomFill" fill="hsl(200, 100%, 15%)" href="#b1" />
+        <use class="bottomFill" fill="hsl(195, 100%, 20%)" href="#b2" />
+        <use class="bottomFill" fill="hsl(190, 100%, 25%)" href="#b3" />    
+        <use class="bottomFill" fill="hsl(185, 100%, 30%)" href="#b4" />        
+        <use class="bottomFill" fill="hsl(180, 100%, 35%)" href="#b5" />
+
+        <g mask="url(#m2)" stroke="#fff" fill="none" >
+          <use class="topStroke" href="#t2" />
+          <use class="topStroke" href="#t3" />
+          <use class="topStroke" href="#t4" />
+          <use class="topStroke" href="#t5" />
+          <use class="bottomStroke" href="#b2" />
+          <use class="bottomStroke" href="#b3" />
+          <use class="bottomStroke" href="#b4" />
+          <use class="bottomStroke" href="#b5" />
+        </g>        
+      </g>
+      
+      <rect class="mid" fill="hsl(170, 40%, 50%)" width="200" height="10" y="30" />
+      
+    </svg>
+  </div>
+  
+  <div class="grain"></div>
+</div>
+<!-- partial -->
+  <script src='https://cdn.jsdelivr.net/npm/gsap@3.0.1/dist/gsap.min.js'></script><script  src="./diamantescript.js"></script>
+
+</body>
+</html>

@@ -1,9 +1,27 @@
 //   <time datetime="2021-04-29T20:10:18.429Z">29 April 2021</time>
-// <a href = "https://github.com/alfio-event/alf.io" > Gestion de tickets < /a>>  
+// <a href = "https://github.com/alfio-event/alf.io" > Gestion de tickets < /a>>   
 
 
 var myObject = {
     "hiHelloMaciel": [{
+        "img-src": "ico.png",
+        "fecha-De-Publicacion": "15 julio 2021",
+        "a-href": "https://hihello.monster/how-to/Fold-out-menu-with-css-only",
+        "a-href-tittle": "Fold out menu with css only  ",
+        "how-to-tittle": "Fold out menu with css only",
+        "el-Post": "Fold out menu with css only ",
+        "accion": "Toch me",
+        "postFoto1": "",
+        "altPostFoto1": "",
+        "postFoto2": " ",
+        "altPostFoto2": "",
+        "postFoto3": "",
+        "altPostFoto3": "",
+        "postFoto4": "",
+        "altPostFoto4": "",
+        "score-lighthouse": "",
+        "img-score-lighthouse": "",
+    },{
         "img-src": "ico.png",
         "fecha-De-Publicacion": "15 julio 2021",
         "a-href": "https://hihello.monster/dragon.ball",

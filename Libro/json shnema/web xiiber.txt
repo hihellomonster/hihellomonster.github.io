@@ -1,0 +1,67 @@
+
+<script type="application/ld+json">
+    {
+        "@type": "WebSite",
+        "@id": "https://www.xiiber.com/#website",
+        "url": "https://www.xiiber.com/",
+        "name": "Xiiber Travel. Experiencias y Viajes gay México",
+        "description": "Agencia de Viajes para hombres gay",
+        "publisher": {
+            "@id": "https://www.xiiber.com/#organization"
+        },
+        "potentialAction": [{
+            "@type": "SearchAction",
+            "target": "https://www.xiiber.com/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }],
+        "inLanguage": "es"
+    },
+
+    {
+        "@type": "WebPage",
+        "@id": "https://www.xiiber.com/viajes/#webpage",
+        "url": "https://www.xiiber.com/viajes/",
+        "name": "Viajes - Experiencias y Viajes gay México - Xiiber Travel",
+        "isPartOf": {
+            "@id": "https://www.xiiber.com/#website"
+        },
+        "datePublished": "2021-05-15T21:59:34+00:00",
+        "dateModified": "2021-05-02T20:14:47+00:00",
+        "description": "Acapulco, Puerto Vallarta, Zipolite, Tepoztlán, Veracruz.",
+
+        "breadcrumb": {
+            "@id": "https://www.xiiber.com.com/viajes/#breadcrumb"
+        },
+        "inLanguage": "es",
+        "potentialAction": [{
+            "@type": "ReadAction",
+            "target": ["https://www.xiiber.com/viajes/"]
+        }]
+    },
+
+    {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.xiiber.com/viajes/#breadcrumb",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.xiiber.com/viajes/",
+                "url": "https://www.xiiber.com/viajes/",
+                "name": "Viajes"
+            }
+        }, {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.xiiber.com/experiencias",
+                "url": "https://www.xiiber.com/experiencias",
+                "name": "Experiencias"
+
+            }
+        }]
+    }]
+    }
+</script>

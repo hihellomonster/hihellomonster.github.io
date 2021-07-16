@@ -1,0 +1,101 @@
+async solo para terceros 
+<meta name="description" content>
+
+¿HABLAos?
+
+
+
+Te invitamos a participar a los 
+juegos y actividades que CGTravel organiza
+
+
+IMPORTANTE. 
+Llegando al destino, te     				pedimos nos ayudes a formarte en número consecutivo de acuerdo al número que te toco en esté tríptico/boleto
+
+
+El acceso al Tepozspa serán primero los vestidores y después los lockers y entraran de dos en dos. 
+
+No se permite el acceso con alimentos ni bebidas, para que las dejen en el bus o en recepción y al final del día se los devuelvan.
+ 
+De regreso del Tepoz hacemos parada en una tiendita. 
+
+Les suplicamos no dejar basura, condones, papel o latas en el bus, tendremos una bolsa de basura al final del recorrido. 
+
+La salida de la CDMX es  las 9am en punto y el regreso del tepoz es a las 8:30pm, se puede abordar el bus desde las 8pm
+
+Etiquetanos en tus redes sociales de Twitter o Facebook como @CGTravelMexico 
+
+<!-- ⊙⩌⨀  3--> ⋖ ⋗⊙ ⩿ ⪀ ⩻ ⩼ ⩹⩺ ⪃ ⪄
+              <!-- ⊙⩌⨀  Content -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta property="og:description " content="¿Notaron que, al incluir desde nuestro sitio un enlace en Facebook, a veces se carga una imagen, pero otras veces sólo vemos un recuadro pobre con texto? Esto ">
+    <!-- Aqui el ejemplo en donde el autor pone su descrpción cortada https://duplika.com/blog/meta-tags-sociales/ y forma parte de un parrafo principal y son un total de 159 caracteres-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<style>
+/* Ejemplo 1. This style sets the width of all images to 100%: */
+img {
+  width: 100%;
+}
+/* Ejemplo 2.  */
+
+</style>
+</head>
+<body>
+
+<!-- Ejemplo 1 --> 
+<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+<!-- Ejemplo 2 --> 
+
+</body>
+</html>
+
+<!-- 
+	⊙⩌⨀
+    2006 2021 © hiHello.monster! Marketing Technology Stack
+    2015 2021 © Xiiber Travel. Experiencias y viajes gay México
+    
+	   ˆ⩌ˆ
+    ⪘ ¿Quién hizo todo esto? 
+       »  http://twitter.com/luisangelmaciel 
+    ⪘ Para Xiiber
+       »  http://twitter.com/XiiberTravel    
+-->
+
+🚫 No se toca 
+🢂 Inicio 
+🢀 Final 
+🢀🢂 Union
+✪
+★
+☆
+
+⪃ ⪄ 
+
+<span style="font-size:90px"></span>
+
+
+<!--  🚫🢂 Google Tag Manager (noscript) -->
+  <!-- End Google Tag Manager (noscript) 🢀🚫 -->
+
+ <i class="icon-alerta-del-bus"></i>
+hi
+
+style=" box-sizing: content-box;          
+   height: auto;
+            line-height: 1;
+            padding: 15px 20px;
+            width: auto;
+            display: inline-block;
+border-color: #c00;
+            background-color: #c00;"
+
+style=" box-sizing: content-box;  height: auto;  line-height: 1; padding: 15px 20px;  width: auto; display: inline-block;
+                             border-color: #c00; background-color: #c00;" disabled
+
+<div class="buttons " style="visibility:hidden; display: none; ">
+
