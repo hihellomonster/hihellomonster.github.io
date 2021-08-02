@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="20.1506mm" height="15.0706mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2015.06 1507.06"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="796" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Montserrat Alternates">
+		<font-face-src>
+			<font-face-name name="Montserrat Alternates Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode=")" horiz-adv-x="358" d="M10.0004 -193.992c41.9941,73.9877 72.8411,149.16 92.5035,225.497 19.6624,76.3375 29.4936,157.168 29.4936,242.49 0,85.3416 -9.8312,166.172 -29.4936,242.509 -19.6624,76.3375 -50.5094,151.491 -92.5035,225.497l148.991 0c40.6782,-59.3255 71.8448,-129.159 93.4998,-209.5 21.6737,-80.3414 32.5012,-166.51 32.5012,-258.506 0,-91.9959 -10.6583,-177.826 -31.9937,-257.491 -21.3354,-79.6646 -52.6712,-149.836 -94.0073,-210.497l-148.991 0z"/>
+   <glyph unicode="&lt;" horiz-adv-x="599" d="M538.009 471.991l-333.001 -121.997 333.001 -121.001 0 -124.986 -476.014 180.984 0 130.005 476.014 181.003 0 -124.008z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Montserrat Alternates";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil3 {fill:#5AFFA4}
+    .fil5 {fill:black;fill-opacity:0.501961}
+    .fil7 {fill:#E6E7E8;fill-rule:nonzero;fill-opacity:0.501961}
+    .fil6 {fill:#3DEB8B;fill-rule:nonzero;fill-opacity:0.501961}
+    .fil4 {fill:#693698;fill-rule:nonzero;fill-opacity:0.870588}
+    .fil0 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil1 {fill:url(#id2);fill-opacity:0.501961}
+    .fnt0 {font-weight:bold;font-size:531.98px;font-family:'Montserrat Alternates'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="0%" y1="10.9696%" x2="85.0842%" y2="77.2983%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#282829"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#30283E"/>
+   <stop offset="0.0901961" style="stop-opacity:1; stop-color:#302B54"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#382954"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#382954"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="-104.87" y1="164.15" x2="1713.9" y2="1165.75">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="7.23114%" x2="83.2952%" y2="81.0367%">
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="0.83" y="-1.5" width="2013.39" height="1510.06"/>
+  <polygon class="fil1" points="0.83,-1.5 2014.22,-1.5 2014.22,1508.56 0.83,1508.56 "/>
+  <rect class="fil0" x="0.83" y="-1.5" width="2013.39" height="1510.06"/>
+  <polygon class="fil1" points="0.83,-1.5 2014.22,-1.5 2014.22,1508.56 0.83,1508.56 "/>
+  <rect class="fil0" x="0.83" y="-1.5" width="2013.39" height="1510.06"/>
+  <polygon class="fil1" points="0.83,-1.5 2014.22,-1.5 2014.22,1508.56 0.83,1508.56 "/>
+  <rect class="fil2" x="0.82" y="-1.5" width="2013.39" height="1510.06"/>
+  <g transform="matrix(1 0 0 1 -745.783 -111.582)">
+   <text x="1007.53" y="753.53"  class="fil3 fnt0">&lt;</text>
+   <text x="1299.67" y="753.53"  class="fil3 fnt0">)</text>
+  </g>
+  <path class="fil4" d="M804.04 258.49l-6.57 354.34 -46.51 0 -6.11 -354.34 59.19 0zm-28.89 499.61c-10.57,0 -19.61,-3.75 -27.01,-11.04 -7.52,-7.39 -11.28,-16.32 -11.28,-26.89 0,-10.45 3.76,-19.5 11.28,-27.01 7.4,-7.4 16.44,-11.16 27.01,-11.16 10.22,0 19.26,3.76 26.78,11.16 7.63,7.51 11.39,16.56 11.39,27.01 0,10.57 -3.76,19.5 -11.39,26.89 -7.52,7.29 -16.56,11.04 -26.78,11.04z"/>
+  <polygon class="fil1" points="0.83,-1.5 2014.22,-1.5 2014.22,1508.56 0.83,1508.56 "/>
+  <polygon class="fil5" points="0.82,-1.5 2014.23,-1.5 2014.23,1508.56 0.82,1508.56 "/>
+  <path class="fil6" d="M1266.62 1353.01l-18.75 0 0 -67.41c0,-24.36 -9.04,-36.53 -27.17,-36.53 -9.13,0 -16.85,3.51 -23.08,10.57 -6.24,7.05 -9.36,16.1 -9.36,27.13l0 66.24 -18.75 0 0 -173.14 18.75 0 0 75.6 0.47 0c8.96,-14.78 21.75,-22.15 38.36,-22.15 26.36,0 39.53,15.87 39.53,47.6l0 72.09zm33.59 -146.67c-3.32,0 -6.2,-1.13 -8.54,-3.43 -2.38,-2.26 -3.55,-5.14 -3.55,-8.65 0,-3.51 1.17,-6.44 3.55,-8.74 2.34,-2.34 5.22,-3.51 8.54,-3.51 3.43,0 6.35,1.17 8.77,3.51 2.38,2.3 3.59,5.23 3.59,8.74 0,3.35 -1.21,6.2 -3.59,8.53 -2.42,2.38 -5.34,3.55 -8.77,3.55zm9.16 146.67l-18.75 0 0 -116.96 18.75 0 0 116.96z"/>
+  <path id="1" class="fil7" d="M1444.52 1353.01l-35.99 0 0 -66.47c0,-17.16 -6.24,-25.69 -18.75,-25.69 -6.39,0 -11.58,2.37 -15.52,7.17 -3.97,4.79 -5.96,10.92 -5.96,18.28l0 66.71 -36.07 0 0 -173.14 36.07 0 0 73.53 0.47 0c8.85,-13.45 20.81,-20.2 35.98,-20.2 26.51,0 39.77,15.99 39.77,47.96l0 71.85zm122.24 -48.19l-76.29 0c1.21,16.96 11.93,25.46 32.08,25.46 12.87,0 24.17,-3.04 33.92,-9.12l0 26.04c-10.8,5.77 -24.83,8.66 -42.14,8.66 -18.87,0 -33.53,-5.23 -43.98,-15.72 -10.41,-10.44 -15.63,-25.06 -15.63,-43.78 0,-19.41 5.61,-34.81 16.92,-46.16 11.26,-11.34 25.1,-17 41.56,-17 17.03,0 30.25,5.07 39.57,15.17 9.32,10.14 13.99,23.9 13.99,41.25l0 15.2zm-33.45 -22.18c0,-16.73 -6.78,-25.11 -20.35,-25.11 -5.77,0 -10.8,2.38 -15.01,7.18 -4.25,4.79 -6.78,10.79 -7.72,17.93l43.08 0zm79.64 70.37l-36.07 0 0 -173.14 36.07 0 0 173.14zm55.11 0l-36.07 0 0 -173.14 36.07 0 0 173.14zm74.76 2.85c-19.5,0 -34.82,-5.46 -45.97,-16.38 -11.15,-10.91 -16.72,-25.77 -16.72,-44.48 0,-19.34 5.77,-34.51 17.35,-45.42 11.57,-10.92 27.25,-16.38 46.94,-16.38 19.41,0 34.65,5.46 45.69,16.38 11.03,10.91 16.57,25.38 16.57,43.35 0,19.42 -5.7,34.78 -17.08,46.04 -11.38,11.27 -26.98,16.89 -46.78,16.89zm0.93 -95.01c-8.54,0 -15.16,2.92 -19.88,8.77 -4.72,5.88 -7.1,14.19 -7.1,24.91 0,22.46 9.09,33.68 27.22,33.68 17.27,0 25.92,-11.54 25.92,-34.58 0,-21.87 -8.73,-32.78 -26.16,-32.78z"/>
+ </g>
+</svg>
