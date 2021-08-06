@@ -1028,4 +1028,4 @@ var myObject = {
     }]
 };
 
-hi.displayObject("Activity", myObject);
+w3.displayObject("Activity", myObject);

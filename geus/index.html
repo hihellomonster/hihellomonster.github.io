@@ -8,12 +8,48 @@
     <meta name="author" content="Geus and Bootstrap contributors">
     <meta name="generator" content="Geus 0.79.0">
 
-    <title>Geus gourmé</title>
+    <title>Geus gourmé | Productos artesanales gourmet</title>
 
 
 
     <!-- Bootstrap core CSS -->
     <link href="css/HiHello_Monster.min.css" rel="stylesheet">
+
+    <style>
+     
+       
+            
+        .modal-input {
+            display: none;
+        }
+        
+        .modal-input:checked+.modal {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .modal {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            visibility: hidden;
+            padding: 3rem 2rem;
+            opacity: 0;
+            transition: 0.3s ease-in-out;
+            background-color: #fff;
+        }
+        
+        .modal-close {
+            position: absolute;
+            right: 10%;
+            font-size: 3rem;
+            line-height: 2;
+        }
+        
+       
+    </style>
 
     <style>
         .bd-placeholder-img {
@@ -101,8 +137,78 @@
         gh3 {
             font-family: 'DosisRegular', sans-serif;
         }
-    </style>
 
+        img {
+            height: auto;
+            width: 100%;
+        }
+        
+        .responsive_image {
+            height: auto;
+            border-style: none;
+            max-width: 100%;
+        }
+        
+        .tab-controls {
+            color: none
+        }
+        
+        @media (min-width: 40rem) {
+            .tab-controls {
+                border: none;
+            }
+        }
+        
+        .tab-controls li {
+            display: block;
+        }
+        
+        @media (min-width: 40rem) {
+            .tab-controls li {
+                border: none;
+            }
+            .tab-controls li:after {
+                content: "";
+                position: absolute;
+                transform: translateY(-50%);
+            }
+            .tab-controls li:last-of-type:after {
+                content: none;
+            }
+        }
+        
+        .tab-controls label {
+            text-decoration: none;
+            transition: 0.3s ease-in-out;
+            cursor: pointer;
+        }
+        
+        .tab-input {
+            display: none;
+        }
+        
+        .tab-item {
+            position: absolute;
+            visibility: hidden;
+            opacity: 0;
+            transform: translateY(10px);
+        }
+        
+        .tab-input:checked+.tab-item {
+            position: static;
+            visibility: visible;
+            opacity: 1;
+            transform: translateY(0);
+            transition: 0.3s ease-in-out;
+        }
+        
+        @media (min-width: 40rem) {
+            .tab-item {
+                text-decoration: none;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 </head>
 
 <body class="d-flex h-100 text-center text-white bg-dark">
@@ -112,21 +218,74 @@
             <div>
                 <span><h3 class="float-md-start mb-0">geus </h3><gh3 class="float-md-start mb-0">.gourmé</gh3></span>
 
-                <nav class="nav nav-masthead justify-content-center float-md-end">
-                    <a class="nav-link active" aria-current="page" href="https://hihellomonster.github.io/geus/">Licor</a>
-                    <a class="nav-link" href="https://hihellomonster.github.io/geus/">Coleccionables</a>
-                    <!--  <a class="nav-link" href="#">Contacto</a> -->
+                <nav class="nav nav-masthead justify-content-center float-md-end">         
+                    <a class="nav-link" href="#" > <label for="tab-1">Licor </label></a>
+                    <a class="nav-link" href="#" > <label for="tab-2">Palomitas </label></a>
+                    <a class="nav-link" href="#" > <label for="tab-">Shop </label></a>
                 </nav>
             </div>
         </header>
 
-        <main class="px-3">
-            <h1>Licor de café</h1>
-            <p class="lead">Edición de colección</p>
-            <p class="lead">
-                <a href="https://hihellomonster.github.io/geus/" class="btn btn-lg btn-secondary fw-bold border-white bg-white">¡Lo quiero!</a>
-            </p>
-        </main>
+        <div>
+            <input id="tab-1" name="tab" type="radio" class="tab-input" checked />
+            <div class="tab-item">
+                <p>
+                    <main class="px-3">
+                        <h1>Licor de café</h1>
+                        <p class="lead">Edición de colección</p>
+                        <p class="lead">
+                            <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">¡Lo quiero!</a>
+                        </p>
+                    </main>
+                </p>
+            </div>
+
+            <input id="tab-2" name="tab" type="radio" class="tab-input" />
+            <div class="tab-item " style=" text-align: left">
+                <main class="px-3">
+                    <h1 class="text-center">Palomitas</h1>
+                    <img src="img/logo-palomitas-popcorn-gourmet.svg" width="32px" height="32px" style="vertical-align: middle; margin-right: .3rem; flex-shrink: 0; border-radius: .25rem; " alt="Ico" loading="lazy" class="lazyload  ">
+                    <br><br>                  
+                    <ul >
+                        <li >Las palomitas de maíz tienen solo 31 calorías por taza; y hechas con aceite contienen 55 calorías por taza</li>
+                        <li>Con un poco de mantequilla, las palomitas contienen cerca de 133 calorías por taza </li>
+                        <li>Las palomitas de maíz son un grano entero, por lo que es un alimento saludable.</li>
+                        <li>Te proveen energía gracias a sus carbohidratos complejos</li>
+                        <li>Contienen fibra que el cuerpo necesita para la dieta diaria.</li>
+                        <li>Son naturalmente baja en calorías y grasas</li>
+                        <li>No tienen aditivos ni conservadores adicionales y no contienen azúcar</li>
+                        <li>Son la botana ideal entre comidas ya que satisface y no estropea el apetito.</li>
+                        <li>Tres tazas de palomitas de maíz equivalen a una porción diaria del grupo de los granos.</li>                        
+                        
+                    </ul>  
+
+                  
+
+                    
+                    <br>
+                    <label for="modal-1" style="  text-align: center;">Ver etiqueta</label>
+
+                    
+                        <input id="modal-1" name="modal" type="checkbox" class="modal-input" />
+                        <div class="modal">
+                            <label for="modal-1" class="modal-close">&times;</label>
+                            <div class="content">
+                                <img src="img/etiqueta-palomitas-popcorn-gourmet.svg" width="300" height="auto" alt="Etiqueta"> </div>
+                        </div>
+
+                </main>
+            </div>
+
+
+
+            <input id="tab-3" name="tab" type="radio" class="tab-input" />
+            <div class="tab-item">
+                <img src="img/etiqueta-palomitas-popcorn-gourmet.svg" width="32px" height="32px" style="vertical-align: middle; margin-right: .3rem; flex-shrink: 0; border-radius: .25rem; " alt="Ico" loading="lazy" class="lazyload  ">
+            </div>
+           
+        </div>
+
+       
 
         <footer class="mt-auto text-white-50">
             <p><small>Copyright © 2012-2021 <strong><gh3>geus gourmé</gh3></strong><br> Productos artesanales gourmet</small> </p>
@@ -134,6 +293,13 @@
     </div>
 
 
+
+    <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+    <script>
+        document.querySelector('.menu').addEventListener('click', function() {
+            this.classList.toggle('active');
+        });
+    </script>
 
 </body>
 
