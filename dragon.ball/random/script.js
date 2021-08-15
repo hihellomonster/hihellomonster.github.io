@@ -7,43 +7,43 @@
 
     quotes = [{
             quote: "Ni tú, ni yo ni nadie golpea tan fuerte como la vida. Pero no importa qué tan duro lo hagas. Importa lo duro que resistas",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Because he's holding a thermal detonator!",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Ya estoy satisfecho. Tu orgullo está hecho pedazos, retaste y perdiste contra un peleador superior a ti y lo peor de todo es que solo es un mono",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Prefiero ser un mono descerebrado que un monstruo sin corazón.",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Parece ser que solo me quieren a mí. Si es así, es exactamente a quien tendrán.",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Tus niveles de energía disminuyen con cada golpe, de hecho, ya no eres un reto para mí. No sería justo seguir peleando contigo.",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "No tiene sentido seguir peleando contigo, tienes demasiado miedo y vergüenza. Vive con ese temor. Que se quede encerrado contigo en silencio. Adiós Freezer, nunca hagas el mal de nuevo, ojalá vivas el resto de tu vida en paz.",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Tengo familia propia ahora que atender, dos niños y una esposa. Una muy iracunda esposa que debe querer matarme ahora.",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "I find your lack of faith disturbing.",
-            character: "Goku",
+            character: "",
         },
         {
             quote: "Once you start down the dark path, forever will it dominate your destiny.",
-            character: "Goku",
+            character: "",
         }
     ];
 

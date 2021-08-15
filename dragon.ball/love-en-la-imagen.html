@@ -3,16 +3,15 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Goku</title>
+    <title>Frases de Goku de Dragon Ball</title>
 
     <link rel="stylesheet" href="./ttttextilestyle.css">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <link rel="shortcut icon" href="favicon.PNG">
-    <!--<link rel="stylesheet" href="css/normalize.css">
-<link rel="stylesheet" href="css/main.css"> -->
+    <meta name="description" content="App de las mejores frases del Sayayin Kakaroto, Goku para los cuates">
+    <link rel="shortcut icon" href="favicon.svg">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
     <style>
         @import url(https://fonts.googleapis.com/css?family=Wire+One|Life+Savers|Flamenco|Bigelow+Rules|Underdog|Goudy+Bookletter+1911|Nixie+One|Tangerine|Poiret+One|Allura);
         body {
@@ -64,9 +63,7 @@
             margin-left: auto;
             margin-right: auto;
         }
-    </style>
-    <link rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
-    <style>
+        
         @import url('https://fonts.googleapis.com/css?family=Pacifico|Roboto:300');
         .material-icons {
             font-family: 'Material Icons';
@@ -241,8 +238,7 @@
         .elMenu i:hover {
             color: rgb(211, 200, 200)
         }
-    </style>
-    <style>
+        
         #container-esfera-de-dragon {
             width: 70px;
             height: 70px;
@@ -265,7 +261,7 @@
             width: 70%;
             height: 10px;
             border-radius: 50%;
-            background-color: rgba(0, 0, 0, 0.2);
+            background-color: rgba(0, 0, 0, 0.1);
             left: 50%;
             bottom: -2px;
             transform: translate(-50%, 0%);
@@ -282,11 +278,11 @@
         .circ {
             width: 100%;
             height: 100%;
-            border-radius: 50%;
+            border-radius: 60%;
             position: absolute;
             transform: translate(-4px, 0px);
             cursor: pointer;
-            border: 4px solid rgb(150, 30, 20);
+            border: 4px solid rgb(182, 68, 2);
         }
         
         .dots {
@@ -295,7 +291,7 @@
             position: absolute;
             left: 50%;
             top: 50%;
-            background-color: red;
+            background-color: rgb(224, 107, 11);
             border-radius: 50%;
         }
         
@@ -311,7 +307,7 @@
         }
         
         #desc span {
-            color: red;
+            color: rgb(0, 0, 0);
         }
         
         a {
@@ -334,11 +330,39 @@
             color: inherit;
             font-weight: 300;
         }
+        
+        .modal-input {
+            display: none;
+        }
+        
+        .modal-input:checked+.modal {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .modal {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            visibility: hidden;
+            opacity: 0;
+            transition: 0.3s ease-in-out;
+            background-color: #222;
+        }
+        
+        .modal-close {
+            position: fixed;
+            right: 2%;
+            top: 2%;
+            font-size: 3rem;
+            line-height: 2;
+            transition: 0.3s ease-in-out;
+        }
     </style>
 
 </head>
-
-
 
 
 <body>
@@ -346,13 +370,7 @@
     <div id="mydiv">
         <div class="FABMenu" id="mydivheader">
             <input type="checkbox" checked id="floating-menu-logo">
-            <!-- <div class="hamburgermenu">
-                        <div class="dots">
-                            <span class="first"></span>
-                            <span class="second"></span>
-                            <span class="third"></span>
-                        </div>
-                    </div> -->
+
             <div style="  position: absolute;
                     top: 10%;
                     left: 50%;
@@ -365,93 +383,300 @@
                     font-size: 28px;
                     cursor: pointer; ">
                 <span class="elMenu">
-                    <i class="material-icons " style=" font-size: 35px; padding-top: 15%; " title="¡Hola, soy Goku!">  <img src="esfera.png" alt="Goku" class="responsive " width="500 " height="300 ">  </i>
+                    <i class="material-icons " style=" font-size: 35px; padding-top: 15%; " title="¡Hola, soy Goku!">  <img src="esfera.png" alt="" class="responsive " width="500 " height="300 ">  </i>
                         </span>
             </div>
 
             <div class="action_items_bar">
                 <div class="action_items">
+                    <span class="first_item" style=" left: 5%;"> <i class="material-icons">  men </i></span>
 
-                    <span class="first_item" style=" left: 5%;">
-                                <i class="material-icons">
-                                men
-                                </i>
-                            </span>
+                    <label for="modal-1">
+                    <span class="second_item" style=" left: 15%;"> <i class="material-icons"> chat </i></span>
+                    </label>
 
+                    <label for="modal-2">
+                    <span class="first_item" style=" left: 30%;  "> <i class="material-icons" > apps </i>           </span>
+                    </label>
 
-                    <span class="second_item" style=" left: 15%;">
-                <i class="material-icons">
-                chat
-                </i>
-            </span>
+                    <label for="modal-3">
+                        <span class="third_item" style="left: 45%;">  <i class="material-icons"> favorite </i></span>
+                    </label>
 
-                    <span class="first_item" style=" left: 30%;  ">
-                <i class="material-icons" >
-                    get_app
-                </i>
-            </span>
+                    <label for="modal-4">
+                    <span class="fourth_item" style=" left: 60%;"> <i class="material-icons"> home </i> </span>
+                    </label>
 
-                    <span class="third_item" style="left: 45%;">
-                <i class="material-icons">
-                    favorite
-                </i>
-            </span>
-                    <span class="fourth_item" style=" left: 60%;">
-                <i class="material-icons">
-               home
-                </i>
-            </span>
-                    <span class="fourth_item" style=" left: 75%;">
-                <i class="material-icons">
-                    share
-                </i>
-                            </span>
+                    <label for="modal-5">
+                    <span class="fourth_item" style=" left: 75%;"><i class="material-icons">share</i> </span>
+                    </label>
                 </div>
             </div>
         </div>
     </div>
+
+
+
+
     <center>
+
         <header>
-            <h1>Kakaroto<small style="color:#545454">.<sub>Goku</sub></small></h1>
+            <h1>Frases<small style="color:#545454">de.<sub>Goku</sub></small></h1>
+            <p class="lead character" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+                Toca <b>¡Kame hame ha! </b> para ver una nueva frase
+            </p>
         </header>
+
         <span id='container-esfera-de-dragon'>
-            <div id='shadow'></div><img id='bolaDelDragon' src="favicon.png" alt="heart" height="100%" width="auto" style="opacity: .01;"></div>
-            <img src="goku-en-la-esfera.svg" alt="Goku" class="responsive " width="500 " height="300 ">
-        </span>
+            <div id='shadow'></div><img id='bolaDelDragon' src="esfera.png" alt="heart" height="10%" width="auto" style="opacity: .001;"></div>
+            <img src="goku-en-la-esfera.svg" alt="" class="responsive " width="500 " height="300 ">                                
+        
+            <div class="lead">
+                <button class="btn-default btn-force" title="かめはめ波" style="background-color: inherit ; color: inherit; font-size: 16px; border-color: none; border: none; ">
+                    ¡Kame hame ha! 
+                </button>
+       
+                <a class="twitter">
+                    <button class=" btn-default btn-tweet" style="background-color: inherit ; color: inherit; font-size: 8px; border-color: none; border: none; "> 
+                                        <i class="material-icons">
+                                          share
+                                        </i>
+                    </button>
+                </a>
+            </div>
+    <br>
+        <h2  class="cover-heading quote"><a href="#" aria-label="Hola , ¡Soy Goku!">Hola , ¡Soy Goku! </a></h2>
+       
+    </span>
 
 
-        <h2 style="margin: 5%;">
-            <a href="#" aria-label="Ni tú, ni yo ni nadie golpea tan fuerte como la vida">"Ni tú, ni yo ni nadie golpea tan fuerte como la vida " </a>
-        </h2>
+        <input id="modal-1" name="modal" type="checkbox" class="modal-input" />
+        <div class="modal" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+            <label for="modal-1" class="modal-close">&times;</label>
+            <div class="content" style="font-size: 20px; ">
+                <br><br>
+                <p style="font-size: 28px; "><i class="material-icons"> chat </i> <br> Sí te gusto esta app y quieres ...</p>
+                <br><br><b>hacer alguna modificación y/o aportación,</b> <br>bienvenida y muchas gracias. <br>Obvio tendrás tu respectiva mención por el aporte.
+                <br><br><b>felicitar,de antemano muchas gracias.</b> <br>Se siente bonito.
+                <br><br><b>que te haga una app similar o acuerdo a tus necesidades. </b><br>¡Con mucho gusto!
+                <br><br><br>
+                <p style="font-size: 32px; ">luisangel<small style="color:#545454">.<sub>maciel</sub></small></p>
+            </div>
+        </div>
 
-        <footer onclick="typeWriter() " style="position: fixed; text-align: center; display: inherit; margin-left: 5%;">
+        <input id="modal-2" name="modal" type="checkbox" class="modal-input" />
+        <div class="modal">
+            <label for="modal-2" class="modal-close">&times;</label>
+            <div class="content">
+                <p onclick="typeWriter() ">
 
-            <br><br> Powered by <a href="https://hihello.monster "> hihello.monster  </a>
-            <a id="powered " href="https://hihello.monster/luisangel.maciel "> </a>
+                    <br><br><br><br><br><br>
+                    <img src="goku-en-la-esfera.svg" alt="" class="responsive " width="500 " height="300 "><br> Powered by <a href="https://hihello.monster "> hihello.monster  </a>
+                    <a id="powered " href="https://hihello.monster/luisangel.maciel "> </a>
 
-            </span>
-            <script>
-                var i = 0;
-                var txt = 'designer luisangel.maciel';
-                var speed = 65;
+                    </span>
+                    <script>
+                        var i = 0;
+                        var txt = 'designer luisangel.maciel';
+                        var speed = 65;
 
-                function typeWriter() {
-                    if (i < txt.length) {
-                        document.getElementById("powered ").innerHTML += txt.charAt(i);
-                        i++;
-                        setTimeout(typeWriter, speed);
-                    }
-                }
-            </script>
-        </footer>
+                        function typeWriter() {
+                            if (i < txt.length) {
+                                document.getElementById("powered ").innerHTML += txt.charAt(i);
+                                i++;
+                                setTimeout(typeWriter, speed);
+                            }
+                        }
+                    </script>
+                </p>
+
+            </div>
+        </div>
+
+
+        <input id="modal-3" name="modal" type="checkbox" class="modal-input" />
+        <div class="modal">
+            <label for="modal-3" class="modal-close">&times;</label>
+            <div class="content">
+                .</div>
+        </div>
+
+
 
     </center>
 
-
-
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.15.0/TweenMax.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js'></script>
+    <script src='./1.15.0-TweenMax.min.js'></script>
+    <script src='./1.19.0-TweenMax.min.js'></script>
+    <script src='./TweenMax.min.js'></script>
     <script src="./textilescript.js "></script>
+    <script src='./1.11.3-jquery.min.js'></script>
+    <script src='./bootstrap.min.js'></script>
+
+    <!-- Machote para img 
+    
+     imgball = [{
+                imgsuper: "/esfera",
+                character: "",
+            }, {
+                quote: "",
+                character: "",
+            }];
+        -->
+    <script>
+        (function() {
+            var generateQuote, quotes, said, speaker;
+
+            speaker = '';
+
+            said = '';
+
+            quotes = [{
+                quote: "Ni tú, ni yo ni nadie golpea tan fuerte como la vida. Pero no importa qué tan duro lo hagas. Importa lo duro que resistas",
+                character: "/esfera.png",
+            }, {
+                quote: "Puede que haya perdido todo, pero jamás dejaré de pelear por lo que creo",
+                character: "",
+            }, {
+                quote: "Ya estoy satisfecho. Tu orgullo está hecho pedazos, retaste y perdiste contra un peleador superior a ti y lo peor de todo es que solo es un mono",
+                character: "",
+            }, {
+                quote: "Prefiero ser un mono descerebrado que un monstruo sin corazón",
+                character: "",
+            }, {
+                quote: "Parece ser que solo me quieren a mí. Si es así, es exactamente a quien tendrán",
+                character: "",
+            }, {
+                quote: "Tus niveles de energía disminuyen con cada golpe, de hecho, ya no eres un reto para mí. No sería justo seguir peleando contigo",
+                character: "",
+            }, {
+                quote: "No tiene sentido seguir peleando contigo, tienes demasiado miedo y vergüenza. Vive con ese temor. Que se quede encerrado contigo en silencio. Adiós Freezer, nunca hagas el mal de nuevo, ojalá vivas el resto de tu vida en paz",
+                character: "",
+            }, {
+                quote: "Tengo familia propia ahora que atender, dos niños y una esposa. Una muy iracunda esposa que debe querer matarme ahora",
+                character: "",
+            }, {
+                quote: "Debes ser Freezer, el responsable de la terribles cosas que le han sucedido a este planeta. Todos los problemas que hayas podido tener con Vegeta, puedes arreglarlos conmigo",
+                character: "",
+            }, {
+                quote: "Adiós Vegeta, no eres tan despiadado como pensabas. Alguien con corazón de piedra no derrama lagrimas como tú. Debiste estarlas aguantando toda tu vida",
+                character: "",
+            }, {
+                quote: "Es verdad, Vegeta tenía razón, no tienes honor. Por él y por los demás que has asesinado, voy a derrotarte",
+                character: "",
+            }, {
+                quote: "Yo solo pensé que pondríamos nuestras diferencias de lado, por una vez, ¡y trabajar juntos! ¡Le debemos eso a nuestros compañeros, a nuestra familia y amigos Vegeta!",
+                character: "",
+            }, {
+                quote: "Chi-Chi puede ser sobreprotectora cuando se trata de Gohan. Lo hace estudiar todo el día y le dice que las artes marciales son una pérdida de tiempo",
+                character: "",
+            }, {
+                quote: "Siempre has hablado de la raza Saiyajin y como somos los últimos de nuestra gente. Es hora de aceptar que estamos comenzando una nueva raza, ¡una que será tan fuerte y tan orgullosa!",
+                character: "",
+            }, {
+                quote: "Parece que disfrutas ver otra gente sufrir. Piensas que la vida no vale nada. Destruyes hogares, le quitas la vida a gente inocente que ama la paz. Hasta asesinas niños, todo eso para tu entretenimiento personal. Ahora es tu turno",
+                character: "",
+            }, {
+                quote: "¡Escúchame Vegeta! ¡No puedes pelear con Majin Buu tú solo! ¡Hay solo una cosa por hacer! ¡No sé por qué estás tan molesto pero se nos acaba el tiempo! ¡Tienes que hacer la fusión Vegeta!",
+                character: "",
+            }, {
+                quote: "Lo que es ridículo es que la criatura no crea en el respeto. Hay ciertas cosas que no se hacen y ciertas cosas que están entendidas. No te debes meter con la familia de un hombre",
+                character: "",
+            }, {
+                quote: "Tómalo con calma, no vine a hablar de eso. Tengo curiosidad, qué piensas de eso que dijo Whis, que si peleamos en equipo contra personas como Freezer no tendrían oportunidad contra nosotros. ¿Deberíamos practicar pelear juntos? ¿En caso de que lo necesitemos?",
+                character: "",
+            }, {
+                quote: "No lo hagas Krillin. Sé que parece justicia pero no está bien. Si lo matas, mostrarás que no somos mejor que él. Demostrará que ganaron. Él es fuerte Krillin, no lo olvides, soy un Saiyajin como él",
+                character: "",
+            }, {
+                quote: "Oye no te preocupes Gohan. No puedo regresar a la tierra pero tú sí. Es muy sencillo, puedes hacerlo hijo. Podrá requerir un poco de sacrificio, ¿puedes decirle a tu novia Videl que lo haga?",
+                character: "",
+            }, {
+                quote: "No puedo creerlo, pensé que había entrenado muy duro en el otro mundo pero me equivoqué. No me imaginaba que había alguien que tuviera la misma fuerza que yo",
+                character: "",
+            }, {
+                quote: "Mas vale que te calmes ¡maldito asesino! te atreviste a matar a personas inocentes una tras otra,te atreviste a matar a Krillin ¡Yo estoy furioso Freezer!",
+                character: "",
+            }, {
+                quote: "Todos dicen que existe un límite para todo. Pero pocos rompen ese límite y se superan más",
+                character: "",
+            }, {
+                quote: "La vida nos tira a todos alguna vez. Cada cual decide si quedaste en el suelo, o levantarte y enfrentarla",
+                character: "",
+            }, {
+                quote: "No importa dónde estés, siempre sentiré tu Ki",
+                character: "",
+            }, {
+                quote: "Tienes que estar dispuesto a caminar solo. No todo lo que comienza contigo permanecerá a tu lado",
+                character: "",
+            }, {
+                quote: "La única forma de conseguir lo que quieres es trabajando duro",
+                character: "",
+            }, {
+                quote: "No tienes que centrarte en lo que estás haciendo mal, siempre hay una manera de darle la vuelta a las cosas",
+                character: "",
+            }, {
+                quote: "Humildad: el valor más hermoso del ser humano, pero también el más escaso",
+                character: "",
+            }, {
+                quote: "Quiero estar cerca de ella porque estar cerca de ella me hace ser mejor persona",
+                character: "",
+            }, {
+                quote: "El ser humano es capaz de superarse siempre",
+                character: "",
+            }, {
+                quote: "Llega un momento en que nada te importa más que seguir adelante",
+                character: "",
+            }, {
+                quote: "Lo siento, pero eso de rendirme sin dar mi mejor esfuerzo, no va conmigo",
+                character: "",
+            }, {
+                quote: "Nunca te rindas, las grandes cosas llevan su tiempo",
+                character: "",
+            }, {
+                quote: "Y de pronto llega esa persona, y te saca tu lado cursi que siempre has intentado evitar",
+                character: "",
+            }, {
+                quote: "Cuando las palabras no alcanzan, los abrazos lo dicen todo",
+                character: "",
+            }, {
+                quote: "Por muchas heridas que te cause la vida, debes seguir levantándote para luchar",
+                character: "",
+            }, {
+                quote: "Esperé meses preparándome para el día en que te enfrentaría en tu forma perfecta. He entrenado mucho Cell",
+                character: "",
+            }, {
+                quote: "Si alguien como Piccolo pudo cambiar, pienso que cualquiera puede. Vegeta merece tener a misma oportunidad. Si le mostramos que la gente de a tierra tiene compasión, el quizás pueda aprenderlo también",
+                character: "",
+            }, {
+                quote: "Gohan, lleva a Piccolo y regresen a la tierra. Él aún está con vida, vete ahora mientras todavía me queda un poco de paciencia",
+                character: "",
+            }];
+
+            generateQuote = function() {
+                var randomQuote;
+                randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+                if (randomQuote.quote.length + randomQuote.character.length > 97) {
+                    return generateQuote();
+                } else {
+                    $('.quote').text(randomQuote.quote);
+                    $('.character').text(randomQuote.character);
+                    said = randomQuote.quote.split(' ').join('%20');
+                    return speaker = randomQuote.character.split(' ').join('%20');
+                }
+            };
+
+            $(document).ready(function() {
+                $('.btn-tweet').hide();
+                return $('.btn-force').on('click', function() {
+                    generateQuote();
+                    $('.twitter').attr('href', 'https://twitter.com/intent/tweet?text=' + speaker + '"' + said + '"%20%23Goku%20%23DragonBall%20https://www.xiiber.com/dragon.ball').attr('target', '_blank');
+                    return $('.btn-tweet').show();
+                });
+            });
+
+        }).call(this);
+    </script>
+
     <script>
         //Make the DIV element draggagle:
         dragElement(document.getElementById("mydiv"));
@@ -499,9 +724,7 @@
                 document.onmousemove = null;
             }
         }
-    </script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js'></script>
-    <script>
+
         /* corazón a Pen by HiHello.Monster  : hihello.monster */
 
         var container = document.getElementById('container-esfera-de-dragon'),
