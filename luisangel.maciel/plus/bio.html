@@ -1,5 +1,5 @@
 <style>
-    .content {
+    .content-bio {
         padding: 16px;
     }
     /*****************************************************       COMMON VARIABLES * */
@@ -38,9 +38,9 @@
         color: white;
         background: #017dbb;
     }    
-    /*****************************************************       MATERIAL START */
+    /*****************************************************       material-bio START */
     
-    .material {
+    .material-bio {
         background: #ffffff;
         border-radius: 1px;
         box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
@@ -48,7 +48,7 @@
         margin: 0 0 30px 0;
     }
     
-    .material .card-subname {
+    .material-bio .card-subname {
         margin: 0 0 10px 0;
         padding: 1px 5px;
         display: inline-block;
@@ -59,7 +59,7 @@
         border-radius: 2px;
     }
     
-    .material .card-content {
+    .material-bio .card-content {
         margin-bottom: 0;
     }
     
@@ -87,34 +87,34 @@
         text-align: center;
         padding: 35px 0;
     }
-    /*****************************************************       MATERIAL END */
+    /*****************************************************       material-bio END */
     /*****************************************************       BOOTSTRAP START */
     
-    .row {
+    .row-bio {
         margin: 0 auto;
         padding: 0 0 30px 0;
         max-width: 1100px;
     }
     
     @media (max-width: 1080px) {
-        .row {
+        .row-bio {
             margin: 0 10px;
         }
     }
     
     @media (max-width: 420px) {
-        .row {
+        .row-bio {
             margin: 0 5px;
         }
     }
     
-    .row:after {
+    .row-bio:after {
         content: '';
         display: table;
         clear: both;
     }
     
-    .row [class*="col-"] {
+    .row-bio [class*="col-"] {
         float: left;
         width: 100%;
         padding: 10px;
@@ -122,13 +122,13 @@
     }
     
     @media only screen and (min-width: 768px) {
-        .row .col-12 {
+        .row-bio .col-12 {
             width: 99.996%;
         }
     }
     /*****************************************************       BOOTSTRAP END */
     
-    body.about-me .section.contact .content .material {
+    body.about-me .section.contact .content-bio .material-bio {
         width: 100%;
         max-width: 700px;
     }
@@ -137,20 +137,20 @@
         text-align: center;
     }
     
-    body.about-me .section.contact .content .material {
+    body.about-me .section.contact .content-bio .material-bio {
         display: inline-block;
     }
     
-    body.about-me .section.contact .vcard.content {
+    body.about-me .section.contact .vcard.content-bio {
         padding-bottom: 0;
     }
     
-    body.about-me .section.contact .vcard.content .material {
+    body.about-me .section.contact .vcard.content-bio .material-bio {
         position: relative;
         top: 15px;
     }
     
-    body.about-me .section.contact .vcard.content .material .card-icon {
+    body.about-me .section.contact .vcard.content-bio .material-bio .card-icon {
         background: url("img/me.webp") no-repeat center;
         filter: grayscale(85%);
         -webkit-filter: grayscale(85%);
@@ -161,7 +161,7 @@
         bottom: 20px;
     }
     
-    body.about-me .section.contact .vcard.content .material .card-icon:hover {
+    body.about-me .section.contact .vcard.content-bio .material-bio .card-icon:hover {
         background: url("img/me.webp") no-repeat center;
         background-size: contain;
         width: 100px;
@@ -169,14 +169,14 @@
         bottom: 20px;
     }
     
-    body.about-me .section.contact .vcard.content .material .card-subname {
+    body.about-me .section.contact .vcard.content-bio .material-bio .card-subname {
         padding: 2px 5px;
         background: #253137;
         color: #fefefe;
         font-weight: 400;
     }
     
-    body.about-me .section.contact .vcard.content .card-subtitle {
+    body.about-me .section.contact .vcard.content-bio .card-subtitle {
         margin-top: 0px;
     }
     
@@ -199,7 +199,7 @@
 
 
 
-<body class="about-me">
+<div class="about-me">
     <div class="section contact" id="contact">
 
         <div class="subject">
@@ -207,9 +207,9 @@
                 Estemos en contacto
             </div>
         </div>
-        <div class="vcard content row">
+        <div class="vcard content-bio row-bio">
             <div class="col-12">
-                <div class="material">
+                <div class="material-bio">
                     <div class="card-title">
                         <div class="card-icon"></div>
                         <div class="card-subtitle">Luis Angel Maciel</div>
@@ -229,4 +229,4 @@
 
 
     </div>
-</body>
+</div>

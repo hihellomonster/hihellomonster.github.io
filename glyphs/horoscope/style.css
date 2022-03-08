@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'horoscope';
+  src:  url('fonts/horoscope.eot?fvsy4i');
+  src:  url('fonts/horoscope.eot?fvsy4i#iefix') format('embedded-opentype'),
+    url('fonts/horoscope.ttf?fvsy4i') format('truetype'),
+    url('fonts/horoscope.woff?fvsy4i') format('woff'),
+    url('fonts/horoscope.svg?fvsy4i#horoscope') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'horoscope' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-acuario:before {
+  content: "\e900";
+}
+.icon-aries:before {
+  content: "\e901";
+}
+.icon-cancer:before {
+  content: "\e902";
+}
+.icon-capricornio:before {
+  content: "\e903";
+}
+.icon-escorpion:before {
+  content: "\e904";
+}
+.icon-geminis:before {
+  content: "\e905";
+}
+.icon-leo:before {
+  content: "\e906";
+}
+.icon-libra:before {
+  content: "\e907";
+}
+.icon-piscis:before {
+  content: "\e908";
+}
+.icon-sagitario:before {
+  content: "\e909";
+}
+.icon-tauro:before {
+  content: "\e90a";
+}
+.icon-virgo:before {
+  content: "\e90b";
+}
