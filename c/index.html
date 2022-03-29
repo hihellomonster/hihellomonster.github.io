@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Nav Thing</title>
+    <link rel='prefetch' href="https://hihellomonster.github.io/xiibicon/fonts/xiibicon.eot">
+    <link rel="preload" href="https://hihellomonster.github.io/xiiber/xiibicon/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://hihellomonster.github.io/xiiber/xiibicon/style.css"></noscript>
+    <link data-no-async=”1″ rel="stylesheet" href="https://hihellomonster.github.io/xiiber/xiibicon/style.css" media="all">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <style>
+        @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+        * {
+            transition: 0.33s ease;
+        }
+        
+        .body-bar {
+            font-family: "Raleway";
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: 300;
+            letter-spacing: 4px;
+        }
+        
+        .abs-center {
+            position: absolute;
+            width: 65%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .bar-container {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 45px;
+            overflow: hidden;
+            font-family: "Raleway";
+            font-size: 14px;
+            line-height: 18px;
+            font-weight: 200;
+            letter-spacing: 3px;
+        }
+        
+        .button-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 45px;
+        }
+        
+        .bar-button {
+            position: relative;
+            float: left;
+            height: 100%;
+            width: 25%;
+            box-sizing: border-box;
+            color: rgb(255, 255, 255);
+            background-color: rgb(0, 0, 0);
+            font-size: 26px;
+            line-height: 45px;
+            text-align: center;
+            transition: 0.33s ease;
+            text-decoration: none;
+            border-right: 1px solid rgb(0, 0, 0);
+            text-transform: uppercase;
+        }
+        
+        .bar-button:last-child {
+            border-right: none;
+        }
+        
+        .bar-button:hover {
+            background-color: rgb(12, 12, 12);
+            color: #fff;
+        }
+        
+        .white-bar {
+            position: absolute;
+            bottom: 0;
+            width: 25%;
+            height: 3px;
+            left: -25%;
+            background-color: #fff;
+        }
+    </style>
+<style>
+    .tabs {
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .tabs>label {
+        order: 1;
+        display: inline-block;
+        line-height: 50px;
+        margin: 0;
+        padding: 0 20px 0 20px;
+        font-weight: bold;
+    }
+    
+    .tabs>input[type="radio"] {
+        display: none;
+    }
+    
+    .tabs>input[type="radio"]:checked+label {}
+    
+    .tabs>input[type="radio"]:checked+label+div {
+        display: block;
+    }
+    
+    .tabs>div {
+        order: 3;
+        display: none;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 15px;
+        height: 100%;
+    }
+</style>
+
+</head>
+
+<body>
+    <!-- partial:index.partial.html -->
+
+    
+<div class="tabs   ">
+    <input type="radio" name="tab" id="Detalles" checked>
+    <label for="Detalles">Detalles</label>
+    <div>
+        <p> Abordaje <br>
+            <br> 🕑 Puedes abordar el bus desde las 8:30am.
+            <br> Salimos a las 9:00 AM en punto Abordaje
+            <br> <br>🚩 Puedes abordar el bus desde las 8:00pm.
+            <br> Salimos a las 8:30 PM en punto Punto de reunión CDMX En la primera gasolinera que esta saliendo del metro General Anaya, dirección Taxqueña, siguiendo el sentido de los carros.</p>
+    </div>
+    <input type="radio" name="tab" id="Mecanica">
+    <label for="Mecanica">
+        Mecánica</label>
+    <div>
+        <br> Curabitur pretium consectetur placerat. Quisque venenatis magna aliquam, vulputate ligula in, maximus purus. Aliquam molestie interdum congue. Cras eget augue vel lectus faucibus ornare in eget augue. Maecenas sodales arcu eget sapien iaculis,
+        id faucibus libero congue. Maecenas quis placerat dolor. Quisque aliquet eget dui convallis pulvinar. Donec sed tortor non mauris pellentesque egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Proin posuere nisi in dictum varius. Proin rutrum pharetra leo et aliquet. Nullam ultricies vitae dolor at dignissim. Curabitur dictum, purus eget tincidunt auctor, lectus turpis tempus nisl, non facilisis eros sapien ac metus. Aliquam erat volutpat.<br>
+        <p>
+            <ul>
+                <li>Maecenas eget tortor a neque ultrices ornare.</li>
+                <li>Nam bibendum turpis non bibendum convallis.</li>
+                <li>Proin nec odio a quam vehicula hendrerit nec eu neque.</li>
+                <li>Donec lacinia purus eget dictum laoreet.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Phasellus efficitur justo quis est tristique sodales.</li>
+                <li>Maecenas sit amet odio tincidunt, laoreet eros ut, efficitur libero.</li>
+                <li>Vivamus vitae libero aliquam, feugiat sem ac, dignissim risus.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Integer egestas odio malesuada lacus fermentum facilisis.</li>
+                <li>Nunc quis nisi ac mi hendrerit porttitor quis in velit.</li>
+                <li>In euismod ante nec fringilla venenatis.</li>
+            </ul>
+        </p>
+
+    </div>
+
+    <input type="radio" name="tab" id="FAQ-viaje">
+    <label for="FAQ-viaje">
+        FAQ
+    </label>
+
+    <div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel tortor dapibus, pharetra dui congue, pellentesque ipsum. Donec vel tortor bibendum, dictum metus non, porttitor risus. Fusce sit amet venenatis nulla. Aliquam erat volutpat. Fusce
+            eu nunc faucibus, tincidunt erat ac, hendrerit lacus. Proin eget volutpat enim. Maecenas convallis arcu erat, a rutrum dui pretium sit amet. Morbi non egestas purus, nec pharetra justo. Donec vitae aliquet tellus. Fusce cursus sed mauris id
+            cursus. Suspendisse id sapien pretium, porttitor nisi a, feugiat turpis. Etiam ligula magna, gravida non mi a, sollicitudin rutrum purus. Curabitur porttitor auctor sapien quis suscipit.</p>
+        <br>
+
+
+        <p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li>Fusce ac justo eu velit mollis facilisis sed eget ex.</li>
+                <li>Sed fermentum risus eu ornare pellentesque.</li>
+                <li>Quisque quis leo nec purus hendrerit feugiat auctor nec velit.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Donec elementum nisi vitae ex iaculis, fringilla pretium augue porttitor.</li>
+                <div style="text-align:center;font-size:14px; ">Hecho con ❤️ de ida y vuelta para ti</div>
+                <div style="text-align:center;font-size:12px;padding-bottom:20px; "> <a href="https://www.xiiber.com/ " target="_blank " style="color:#685758;font-weight:bold; ">Copyright © 2012-2020 Xiiber Travel</a></div>
+            </ul>
+        </p>
+    </div>
+
+
+    <input type="radio" name="tab" id="cris4">
+    <label for="cris4">
+        cris4
+    </label>
+
+    <div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel tortor dapibus, pharetra dui congue, pellentesque ipsum. Donec vel tortor bibendum, dictum metus non, porttitor risus. Fusce sit amet venenatis nulla. Aliquam erat volutpat. Fusce
+            eu nunc faucibus, tincidunt erat ac, hendrerit lacus. Proin eget volutpat enim. Maecenas convallis arcu erat, a rutrum dui pretium sit amet. Morbi non egestas purus, nec pharetra justo. Donec vitae aliquet tellus. Fusce cursus sed mauris id
+            cursus. Suspendisse id sapien pretium, porttitor nisi a, feugiat turpis. Etiam ligula magna, gravida non mi a, sollicitudin rutrum purus. Curabitur porttitor auctor sapien quis suscipit.</p>
+        <br>
+
+
+        <p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li>Fusce ac justo eu velit mollis facilisis sed eget ex.</li>
+                <li>Sed fermentum risus eu ornare pellentesque.</li>
+                <li>Quisque quis leo nec purus hendrerit feugiat auctor nec velit.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Donec elementum nisi vitae ex iaculis, fringilla pretium augue porttitor.</li>
+                <div style="text-align:center;font-size:14px; ">Hecho con ❤️ de ida y vuelta para ti</div>
+                <div style="text-align:center;font-size:12px;padding-bottom:20px; "> <a href="https://www.xiiber.com/ " target="_blank " style="color:#685758;font-weight:bold; ">Copyright © 2012-2020 Xiiber Travel</a></div>
+            </ul>
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel tortor dapibus, pharetra dui congue, pellentesque ipsum. Donec vel tortor bibendum, dictum metus non, porttitor risus. Fusce sit amet venenatis nulla. Aliquam erat volutpat. Fusce
+            eu nunc faucibus, tincidunt erat ac, hendrerit lacus. Proin eget volutpat enim. Maecenas convallis arcu erat, a rutrum dui pretium sit amet. Morbi non egestas purus, nec pharetra justo. Donec vitae aliquet tellus. Fusce cursus sed mauris id
+            cursus. Suspendisse id sapien pretium, porttitor nisi a, feugiat turpis. Etiam ligula magna, gravida non mi a, sollicitudin rutrum purus. Curabitur porttitor auctor sapien quis suscipit.</p>
+        <br>
+
+
+        <p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li>Fusce ac justo eu velit mollis facilisis sed eget ex.</li>
+                <li>Sed fermentum risus eu ornare pellentesque.</li>
+                <li>Quisque quis leo nec purus hendrerit feugiat auctor nec velit.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Donec elementum nisi vitae ex iaculis, fringilla pretium augue porttitor.</li>
+                <div style="text-align:center;font-size:14px; ">Hecho con ❤️ de ida y vuelta para ti</div>
+                <div style="text-align:center;font-size:12px;padding-bottom:20px; "> <a href="https://www.xiiber.com/ " target="_blank " style="color:#685758;font-weight:bold; ">Copyright © 2012-2020 Xiiber Travel</a></div>
+            </ul>
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel tortor dapibus, pharetra dui congue, pellentesque ipsum. Donec vel tortor bibendum, dictum metus non, porttitor risus. Fusce sit amet venenatis nulla. Aliquam erat volutpat. Fusce
+            eu nunc faucibus, tincidunt erat ac, hendrerit lacus. Proin eget volutpat enim. Maecenas convallis arcu erat, a rutrum dui pretium sit amet. Morbi non egestas purus, nec pharetra justo. Donec vitae aliquet tellus. Fusce cursus sed mauris id
+            cursus. Suspendisse id sapien pretium, porttitor nisi a, feugiat turpis. Etiam ligula magna, gravida non mi a, sollicitudin rutrum purus. Curabitur porttitor auctor sapien quis suscipit.</p>
+        <br>
+
+
+        <p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li>Fusce ac justo eu velit mollis facilisis sed eget ex.</li>
+                <li>Sed fermentum risus eu ornare pellentesque.</li>
+                <li>Quisque quis leo nec purus hendrerit feugiat auctor nec velit.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Donec elementum nisi vitae ex iaculis, fringilla pretium augue porttitor.</li>
+                <div style="text-align:center;font-size:14px; ">Hecho con ❤️ de ida y vuelta para ti</div>
+                <div style="text-align:center;font-size:12px;padding-bottom:20px; "> <a href="https://www.xiiber.com/ " target="_blank " style="color:#685758;font-weight:bold; ">Copyright © 2012-2020 Xiiber Travel</a></div>
+            </ul>
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel tortor dapibus, pharetra dui congue, pellentesque ipsum. Donec vel tortor bibendum, dictum metus non, porttitor risus. Fusce sit amet venenatis nulla. Aliquam erat volutpat. Fusce
+            eu nunc faucibus, tincidunt erat ac, hendrerit lacus. Proin eget volutpat enim. Maecenas convallis arcu erat, a rutrum dui pretium sit amet. Morbi non egestas purus, nec pharetra justo. Donec vitae aliquet tellus. Fusce cursus sed mauris id
+            cursus. Suspendisse id sapien pretium, porttitor nisi a, feugiat turpis. Etiam ligula magna, gravida non mi a, sollicitudin rutrum purus. Curabitur porttitor auctor sapien quis suscipit.</p>
+        <br>
+
+
+        <p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li>Fusce ac justo eu velit mollis facilisis sed eget ex.</li>
+                <li>Sed fermentum risus eu ornare pellentesque.</li>
+                <li>Quisque quis leo nec purus hendrerit feugiat auctor nec velit.</li>
+            </ul>
+        </p>
+        <p>
+            <ul>
+                <li>Donec elementum nisi vitae ex iaculis, fringilla pretium augue porttitor.</li>
+                <div style="text-align:center;font-size:14px; ">Hecho con ❤️ de ida y vuelta para ti</div>
+                <div style="text-align:center;font-size:12px;padding-bottom:20px; "> <a href="https://www.xiiber.com/ " target="_blank " style="color:#685758;font-weight:bold; ">Copyright © 2012-2020 Xiiber Travel</a></div>
+            </ul>
+        </p>
+    </div>
+
+</div>
+    
+    <div class="bar-container body-bar">
+
+        
+        
+        <div class="button-container ">
+        
+                <label for="Detalles">
+                    <i class="icon-notificaciones hi-hover-opacity bar-button one" > </i></label>
+           
+          
+                <label for="Mecanica">
+                    <i class="icon-viajes-one hi-hover-opacity bar-button two " > </i> </label>
+             
+          
+                    <label for="FAQ-viaje">
+                        <i class="icon-experiencias hi-hover-opacity bar-button three " > </i>   </label>
+
+            
+                    <label for="cris4">
+                     <i class="icon-calendario hi-hover-opacity bar-button four" > </i></label>
+
+
+            
+        </div>
+        <div class="white-bar ">
+            
+        </div>
+
+      
+
+    </div>
+    <!-- partial -->
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script>
+        $(document).ready(function() {
+
+            // Function for nav bar
+            // It sets the size of the hovered link and the links around it
+            // It also moves the white-bar around.
+            $('.bar-button').hover(function() {
+                $('.bar-button').css('width', '25%');
+                $(this).css('width', '25%');
+                if ($(this).hasClass('one')) {
+                    $('.white-bar').css('left', '0%')
+                } else if ($(this).hasClass('two')) {
+                    $('.white-bar').css('left', '25%')
+                } else if ($(this).hasClass('three')) {
+                    $('.white-bar').css('left', '50%')
+                } else if ($(this).hasClass('four')) {
+                    $('.white-bar').css('left', '75%')
+                };
+            }, function() {
+                $('.white-bar').css('left', '25%');
+                $('.bar-button').css('width', '25%');
+            });
+
+        });
+    </script>
+
+</body>
+
+</html>
